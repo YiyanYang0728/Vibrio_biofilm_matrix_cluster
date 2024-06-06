@@ -1,0 +1,3 @@
+##gff-version 3
+##sequence-region GCA_007129305.1_141 1 2649
+GCA_007129305.1_141	ProkFunFind	CDS	2026	2649	.	+	0	ClusterID=Cl_NA;ID=GCA_007129305.1_00970;Name=rbmA;Target=rbmA;evalue=1.4e-05

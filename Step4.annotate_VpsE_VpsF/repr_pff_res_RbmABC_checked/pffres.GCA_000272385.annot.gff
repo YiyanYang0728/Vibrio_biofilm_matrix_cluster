@@ -1,0 +1,12 @@
+##gff-version 3
+##sequence-region GCA_000272385.2_3 1 12537
+GCA_000272385.2_3	ProkFunFind	CDS	282	2435	.	-	0	ClusterID=Cl_NA;ID=GCA_000272385.2_00045;Name=vpsO;Target=K16554;evalue=1.1e-118
+GCA_000272385.2_3	ProkFunFind	CDS	11716	12537	.	+	0	ClusterID=Cl_NA;ID=GCA_000272385.2_00055;Name=vpsCG;Target=K00640;evalue=3.2e-91
+##sequence-region GCA_000272385.2_346 1 7103
+GCA_000272385.2_346	ProkFunFind	CDS	6468	7103	.	-	0	ClusterID=Cl_NA;ID=GCA_000272385.2_02533;Name=vpsCG;Target=K00640;evalue=8.7e-17
+##sequence-region GCA_000272385.2_513 1 533
+GCA_000272385.2_513	ProkFunFind	CDS	84	533	.	-	0	ClusterID=Cl_NA;ID=GCA_000272385.2_03395;Name=vpsU;Target=K20945;evalue=4.1e-52
+##sequence-region GCA_000272385.2_603 1 4913
+GCA_000272385.2_603	ProkFunFind	CDS	4500	4913	.	-	0	ClusterID=Cl_NA;ID=GCA_000272385.2_03905;Name=vpsCG;Target=K00640;evalue=1.1e-15
+##sequence-region GCA_000272385.2_617 1 28226
+GCA_000272385.2_617	ProkFunFind	CDS	26997	28226	.	-	0	ClusterID=Cl_NA;ID=GCA_000272385.2_04037;Name=vpsA;Target=K01791;evalue=3.8e-174

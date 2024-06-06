@@ -1,0 +1,3 @@
+##gff-version 3
+##sequence-region GCA_019092105.1_34 1 115770
+GCA_019092105.1_34	ProkFunFind	CDS	114949	115770	.	+	0	ClusterID=Cl_NA;ID=GCA_019092105.1_02290;Name=vpsCG;Target=K00640;evalue=2.3e-93

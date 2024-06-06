@@ -1,0 +1,8 @@
+seqname	trim_orf_index_start	trim_orf_index_end	trim_bp_start	trim_bp_end	trim_pr	trim_pr_max	prox_orf_index_start	prox_orf_index_end	prox_bp_start	prox_bp_end	prox_pr	prox_pr_max	partial	full_orf_index_start	full_orf_index_end	full_bp_start	full_bp_end	pr_full	arc	bac	euk	vir	mix	unaligned	hallmark_cnt	group	shape	seqname_new	final_max_score	final_max_score_group
+GCA_000523375.1_91	1	78	1	63626	0.953	0.993	1	78	1	63626	NA	NA	0	1	78	1	63626	0.953	0.0	23.1	0.0	29.5	14.1	33.3	10	dsDNAphage	linear	GCA_000523375.1_91||full	0.953	dsDNAphage
+GCA_000523375.1_75	1	56	1	36341	1.0	1.0	1	56	1	36341	NA	NA	0	1	56	1	36341	1.0	0.0	0.0	0.0	46.4	5.4	48.2	9	dsDNAphage	linear	GCA_000523375.1_75||full	1.0	dsDNAphage
+GCA_000523375.1_63	1	30	3	23864	0.987	0.987	1	30	3	23864	NA	NA	0	1	30	3	23864	0.987	0.0	10.0	0.0	43.3	0.0	46.7	7	dsDNAphage	linear	GCA_000523375.1_63||full	0.987	dsDNAphage
+GCA_000523375.1_42	1	7	42	5785	1.0	1.0	1	7	42	5785	NA	NA	0	1	7	42	5785	1.0	0.0	0.0	0.0	57.1	0.0	42.9	2	dsDNAphage	linear	GCA_000523375.1_42||full	1.0	dsDNAphage
+GCA_000523375.1_65	35	46	22499	27999	0.973	0.973	35	46	22499	27999	0.973	0.973	1	1	46	354	27999	0.66	0.0	8.3	0.0	16.7	0.0	75.0	1	dsDNAphage	linear	GCA_000523375.1_65||0_partial	0.973	dsDNAphage
+GCA_000523375.1_111	18	134	19036	120573	0.913	0.927	18	134	19036	120573	0.913	1.0	1	1	247	3	247903	0.647	0.0	28.7	0.0	27.9	8.5	34.9	7	dsDNAphage	linear	GCA_000523375.1_111||0_partial	0.913	dsDNAphage
+GCA_000523375.1_101	67	94	61318	85571	0.873	0.873	67	94	61318	85571	0.873	0.967	1	1	101	39	94218	0.493	0.0	25.7	2.9	25.7	14.3	31.4	1	dsDNAphage	linear	GCA_000523375.1_101||0_partial	0.873	dsDNAphage

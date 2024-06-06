@@ -1,0 +1,11 @@
+seqname	trim_orf_index_start	trim_orf_index_end	trim_bp_start	trim_bp_end	trim_pr	trim_pr_max	prox_orf_index_start	prox_orf_index_end	prox_bp_start	prox_bp_end	prox_pr	prox_pr_max	partial	full_orf_index_start	full_orf_index_end	full_bp_start	full_bp_end	pr_full	arc	bac	euk	vir	mix	unaligned	hallmark_cnt	group	shape	seqname_new	final_max_score	final_max_score_group
+GCA_000489075.1_8	1	76	41	70759	0.953	0.98	1	76	41	70759	NA	NA	0	1	76	41	70759	0.953	0.0	15.8	0.0	32.9	5.3	46.1	5	dsDNAphage	linear	GCA_000489075.1_8||full	0.953	dsDNAphage
+GCA_000489075.1_239	1	2	61	840	0.873	0.873	1	2	61	840	NA	NA	0	1	2	61	840	0.873	0.0	0.0	0.0	50.0	0.0	50.0	0	ssDNA	linear	GCA_000489075.1_239||full	0.873	ssDNA
+GCA_000489075.1_238	1	2	2	1169	0.56	0.56	1	2	2	1169	NA	NA	0	1	2	2	1169	0.56	0.0	0.0	0.0	50.0	50.0	0.0	0	dsDNAphage	linear	GCA_000489075.1_238||full	0.56	dsDNAphage
+GCA_000489075.1_21	1	63	2	52803	0.94	0.973	1	63	2	52803	NA	NA	0	1	63	2	52803	0.94	0.0	28.6	0.0	38.1	7.9	25.4	7	dsDNAphage	linear	GCA_000489075.1_21||full	0.94	dsDNAphage
+GCA_000489075.1_200	1	4	240	4188	0.773	0.773	1	4	240	4188	NA	NA	0	1	4	240	4188	0.773	0.0	0.0	0.0	25.0	0.0	75.0	0	dsDNAphage	linear	GCA_000489075.1_200||full	0.773	dsDNAphage
+GCA_000489075.1_176	1	6	1	6569	0.607	0.607	1	6	1	6569	NA	NA	0	1	6	1	6569	0.607	0.0	0.0	0.0	16.7	0.0	83.3	0	dsDNAphage	linear	GCA_000489075.1_176||full	0.607	dsDNAphage
+GCA_000489075.1_172	1	5	48	7146	0.727	0.727	1	5	48	7146	NA	NA	0	1	5	48	7146	0.727	0.0	0.0	0.0	60.0	40.0	0.0	0	dsDNAphage	linear	GCA_000489075.1_172||full	0.727	dsDNAphage
+GCA_000489075.1_166	1	7	2	7711	0.627	0.627	1	7	2	7711	NA	NA	0	1	7	2	7711	0.627	0.0	0.0	0.0	14.3	0.0	85.7	0	dsDNAphage	linear	GCA_000489075.1_166||full	0.627	dsDNAphage
+GCA_000489075.1_147	1	18	2	10149	0.993	0.993	1	18	2	10149	NA	NA	0	1	18	2	10149	0.993	0.0	0.0	0.0	55.6	5.6	38.9	4	dsDNAphage	linear	GCA_000489075.1_147||full	0.993	dsDNAphage
+GCA_000489075.1_103	1	24	222	17412	0.98	0.98	1	24	222	17412	NA	NA	0	1	24	222	17412	0.98	0.0	0.0	0.0	33.3	0.0	66.7	3	dsDNAphage	linear	GCA_000489075.1_103||full	0.98	dsDNAphage

@@ -1,0 +1,225 @@
+
+-------------------------------
+
+PIRATE input options:
+
+ - Input Directory = /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/gff
+ - Output directory = /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out
+ - PIRATE will run using 32 cores
+ - 216 files in input directory.
+ - PIRATE will be run on 50,60,70,80,90,95,98 amino acid % identity thresholds.
+ - PIRATE will be run on features annotated as CDS
+ - Pangenome contruction will use diamond instead of BLAST
+
+-------------------------------
+
+Standardising and checking input files:
+
+ - 216 gff files passed QC and will be analysed by PIRATE - completed in: 6s
+
+-------------------------------
+
+ - creating co-ordinate files - completed in: 2s
+ - creating genome loci list: - completed in: 2s
+
+-------------------------------
+
+Extracting pangenome sequences:
+
+ - completed in: 25s
+
+-------------------------------
+
+Constructing pangenome sequences:
+
+
+Options:
+
+ - Creating pangenome on amino acid % identity using DIAMOND.
+ - Input directory:	/gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out
+ - Output directory:	/gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/pangenome_iterations
+ - Number of input files: 1
+ - Threshold(s): 50 60 70 80 90 95 98
+ - MCL inflation value: 1.5
+ - Homology test cutoff: 0.001
+ - Loci file contains 914695 loci from 216 genomes.
+ - Extracting core loci during cdhit clustering
+ - Opening pan_sequences
+ - /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/pan_sequences.fasta contains 908567 sequences.
+ - Passing 908568 loci to cd-hit at 100%  
+ - command: "cd-hit -i /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/pangenome_iterations/pan_sequences.temp.fasta -o /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/pangenome_iterations/pan_sequences.100 -aS 0.9 -c 1 -T 32 -g 1 -n 5 -M 2000 -d 256 >> /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/pangenome_iterations/pan_sequences.cdhit_log.txt"
+ - Passing 908568 loci to cd-hit at 99.5%  
+ - command: "cd-hit -i /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/pangenome_iterations/pan_sequences.temp.fasta -o /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/pangenome_iterations/pan_sequences.99.5 -aS 0.9 -c 0.995 -T 32 -g 1 -n 5 -M 2000 -d 256 >> /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/pangenome_iterations/pan_sequences.cdhit_log.txt"
+ - Passing 908568 loci to cd-hit at 99%  
+ - command: "cd-hit -i /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/pangenome_iterations/pan_sequences.temp.fasta -o /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/pangenome_iterations/pan_sequences.99 -aS 0.9 -c 0.99 -T 32 -g 1 -n 5 -M 2000 -d 256 >> /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/pangenome_iterations/pan_sequences.cdhit_log.txt"
+ - Passing 908568 loci to cd-hit at 98.5%  
+ - command: "cd-hit -i /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/pangenome_iterations/pan_sequences.temp.fasta -o /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/pangenome_iterations/pan_sequences.98.5 -aS 0.9 -c 0.985 -T 32 -g 1 -n 5 -M 2000 -d 256 >> /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/pangenome_iterations/pan_sequences.cdhit_log.txt"
+ - Passing 908568 loci to cd-hit at 98%  
+ - command: "cd-hit -i /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/pangenome_iterations/pan_sequences.temp.fasta -o /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/pangenome_iterations/pan_sequences.98 -aS 0.9 -c 0.98 -T 32 -g 1 -n 5 -M 2000 -d 256 >> /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/pangenome_iterations/pan_sequences.cdhit_log.txt"
+ - completed in 817 secs
+
+ - 0 core loci (0%)
+ - 908568 non-core loci (100%)
+
+ - 706037 representative loci passed to blast.
+
+ - running all-vs-all DIAMOND on pan_sequences
+ - completed in 2064 secs
+
+ - running mcl on pan_sequences at 50    
+ - 68236 clusters at 50 % - completed in 1640 secs
+ - running mcl on pan_sequences at 60    
+ - 98109 clusters at 60 % - completed in 3537 secs
+ - running mcl on pan_sequences at 70    
+ - 147290 clusters at 70 % - completed in 2839 secs
+ - running mcl on pan_sequences at 80    
+ - 230839 clusters at 80 % - completed in 2911 secs
+ - running mcl on pan_sequences at 90    
+ - 381242 clusters at 90 % - completed in 3358 secs
+ - running mcl on pan_sequences at 95    
+ - 522970 clusters at 95 % - completed in 4478 secs
+ - running mcl on pan_sequences at 98    
+ - 688439 clusters at 98 % - completed in 5671 secs
+
+ - reinflating clusters for pan_sequences
+ - Finished
+
+ - completed in: 27338s
+
+-------------------------------
+
+Parsing pangenome files:
+
+Processing 50% - 8917 paralogous gene clusters.
+Processing 60% - 8961 paralogous gene clusters.
+Processing 70% - 9038 paralogous gene clusters.
+Processing 80% - 8934 paralogous gene clusters.
+Processing 90% - 8198 paralogous gene clusters.
+Processing 95% - 6923 paralogous gene clusters.
+Processing 98% - 4734 paralogous gene clusters.
+
+8917 paralog containing gene clusters detected.
+216 genomes processed.
+
+ - completed in: 152s
+
+-------------------------------
+
+Classifing paralogous clusters:
+
+ - 633165 loci contained in 8917 clusters containing paralogs
+ - identifying paralogs
+ - 0% complete      - 1% complete      - 3% complete      - 5% complete      - 7% complete      - 8% complete      - 10% complete      - 12% complete      - 14% complete      - 16% complete      - 17% complete      - 19% complete      - 21% complete      - 23% complete      - 25% complete      - 26% complete      - 28% complete      - 30% complete      - 32% complete      - 34% complete      - 35% complete      - 37% complete      - 39% complete      - 41% complete      - 43% complete      - 44% complete      - 46% complete      - 48% complete      - 50% complete      - 52% complete      - 53% complete      - 55% complete      - 57% complete      - 59% complete      - 61% complete      - 62% complete      - 64% complete      - 66% complete      - 68% complete      - 69% complete      - 71% complete      - 73% complete      - 75% complete      - 77% complete      - 78% complete      - 80% complete      - 82% complete      - 84% complete      - 86% complete      - 87% complete      - 89% complete      - 91% complete      - 93% complete      - 95% complete      - 96% complete      - 98% complete      - 100% complete     
+ - concatenating output files
+ - completed in: 3023s
+
+-------------------------------
+
+Split paralogous clusters:
+
+ - 8917 paralogous groups to split
+ - storing line indices for sequence groups
+ - building indexes for loci list and paralog categories files
+ - assigning loci to sub files for parallel processing
+ - proportion of gene family expected in allele to split = 0.75
+ - 4166 paralogous groups split into 4586 additional core/accessory alleles (13503 total)
+ - completed in: 117s
+
+-------------------------------
+
+Linking clusters between thresholds:
+ - subsetting loci file for parallel - /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/loci_list.tab
+ - 8917 clusters to exclude
+ - 59319 gene families to process
+ - subsetting loci file for parallel - /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/run_PFF_KO_all_v4/Roary_species_tree/pirate_out/split_paralog_loci.tab
+ - 0 clusters to exclude
+ - 11728 gene families to process
+ - completed in: 130s
+
+-------------------------------
+
+Ordering gene families on pangenome graph
+
+ - 216 samples found in file headers
+ - 71047 genes of 71047 total genes were present in 216 isolates
+ - 3331 gene clusters filtered due to dosage >1.1. These WILL NOT APPEAR in outputs.
+ - 71047 clusters from 216 genomes (dosage threshold <= 1.1) used for graphing.
+ - 50469 syntenic blocks after first pass.
+ - 20 reversed blocks were printed to pangenome.reversed.tsv file.
+ - 3609 reciprocal links in 1875 blocks.
+ - 48573 connected blocks were printed to *.connected_blocks file.
+ - completed in: 34s
+
+-------------------------------
+
+Creating binary tree
+
+ - parsing gene cluster file
+ - printing binary fasta
+ - running fasttree
+ - completed in: 34s
+
+-------------------------------
+
+Creating representative sequence multifasta files
+
+ - number of groups : 71047
+ - extracting sequences from gffs
+ - printing sequences to files
+ - complete
+ - completed in: 69s
+
+-------------------------------
+
+Summary of pangenome clusters:
+
+# 71047 gene families in 216 genomes.
+# 5695 contain greater than one allele at the thresholds analysed.
+# 5227 contain fission/fusion events.
+# 2217 contain duplication/loss.
+
+%isolates	#clusters	>1 allele	fission/fusion	multicopy
+0-10%	64879	3302	1969	541
+10-25%	2391	968	802	428
+25-50%	1022	533	551	342
+50-75%	585	311	373	225
+75-90%	618	300	428	235
+90-95%	261	87	190	97
+95-100%	1291	194	914	349
+
+-------------------------------
+
+Aligning all feature sequences:
+ - number of groups : 68969
+ - extracting sequences from gffs
+ - aligning group sequences using MAFFT
+ - 0 % aligned - 19 % aligned - 29 % aligned - 39 % aligned - 49 % aligned - 59 % aligned - 69 % aligned - 79 % aligned - 89 % aligned - 99 % aligned - 100 % aligned - 100 % aligned
+ - completed in: 2761s
+
+Creating full pangenome alignment:
+ - 68969 clusters to be printed to output
+ - 0 % clusters added to output - 4 % clusters added to output - 9 % clusters added to output - 14 % clusters added to output - 19 % clusters added to output - 24 % clusters added to output - 29 % clusters added to output - 34 % clusters added to output - 39 % clusters added to output - 44 % clusters added to output - 49 % clusters added to output - 54 % clusters added to output - 59 % clusters added to output - 64 % clusters added to output - 69 % clusters added to output - 74 % clusters added to output - 79 % clusters added to output - 84 % clusters added to output - 89 % clusters added to output - 94 % clusters added to output - 99 % clusters added to output - 100 % clusters added to output
+ - printing to output file
+ - writing gff annotation file
+ - Output alignment length: 59625402 bp
+ - completed in: 244s
+
+Creating core alignment:
+ - 1277 clusters to be printed to output
+ - 0 % clusters added to output - 4 % clusters added to output - 9 % clusters added to output - 14 % clusters added to output - 19 % clusters added to output - 24 % clusters added to output - 29 % clusters added to output - 34 % clusters added to output - 39 % clusters added to output - 44 % clusters added to output - 49 % clusters added to output - 54 % clusters added to output - 59 % clusters added to output - 64 % clusters added to output - 69 % clusters added to output - 74 % clusters added to output - 78 % clusters added to output - 83 % clusters added to output - 88 % clusters added to output - 93 % clusters added to output - 98 % clusters added to output - 100 % clusters added to output
+ - printing to output file
+ - writing gff annotation file
+ - Output alignment length: 1471461 bp
+ - completed in: 30s
+
+-------------------------------
+
+PIRATE completed in 34038s
+
+Q: How much did the pirate pay for his piercings?
+A: A buck-an-ear.
+
+YARR!
+
+-------------------------------
+

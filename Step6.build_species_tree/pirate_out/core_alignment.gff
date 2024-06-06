@@ -1,0 +1,1279 @@
+##gff-version 3
+##sequence-region Pangenome 1 1471461
+Pangenome	NA	CDS	1	600	.	+	0	ID=g001037;gene=skp;product=Chaperone protein Skp
+Pangenome	NA	CDS	601	1674	.	+	0	ID=g000307_1;gene=lpxD;product=UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+Pangenome	NA	CDS	1675	2385	.	+	0	ID=g002513;gene=fabZ;product=3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+Pangenome	NA	CDS	2386	3231	.	+	0	ID=g001554;gene=lpxA;product=Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+Pangenome	NA	CDS	3232	4602	.	+	0	ID=g000368;gene=lpxB;product=Lipid-A-disaccharide synthase
+Pangenome	NA	CDS	4603	5316	.	+	0	ID=g000763;gene=rnhB;product=Ribonuclease HII
+Pangenome	NA	CDS	5317	8859	.	+	0	ID=g001448_1;gene=dnaE;product=DNA polymerase III subunit alpha
+Pangenome	NA	CDS	8860	9822	.	+	0	ID=g001910;gene=accA;product=Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+Pangenome	NA	CDS	9823	10905	.	+	0	ID=g001027;gene=lptG;product=Lipopolysaccharide export system permease protein LptG
+Pangenome	NA	CDS	10906	12045	.	+	0	ID=g001360;gene=lptF;product=Lipopolysaccharide export system permease protein LptF
+Pangenome	NA	CDS	12046	13581	.	+	0	ID=g002660;gene=pepA;product=Cytosol aminopeptidase
+Pangenome	NA	CDS	13582	16527	.	+	0	ID=g001954;gene=valS;product=Valine--tRNA ligase
+Pangenome	NA	CDS	16528	17337	.	+	0	ID=g000107_1;gene=plsC;product=1-acyl-sn-glycerol-3-phosphate acyltransferase
+Pangenome	NA	CDS	17338	18636	.	+	0	ID=g001837;gene=murA;product=UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+Pangenome	NA	CDS	18637	19260	.	+	0	ID=g001224;gene=tsaE;product=tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+Pangenome	NA	CDS	19261	21447	.	+	0	ID=g000267;gene=amiB;product=hypothetical protein
+Pangenome	NA	CDS	21448	24252	.	+	0	ID=g000116;gene=mutL;product=DNA mismatch repair protein MutL
+Pangenome	NA	CDS	24253	25278	.	+	0	ID=g001055;gene=miaA;product=tRNA dimethylallyltransferase
+Pangenome	NA	CDS	25279	25569	.	+	0	ID=g002705;gene=hfq;product=RNA-binding protein Hfq
+Pangenome	NA	CDS	25570	25785	.	+	0	ID=g014610;gene=rpsU;product=30S ribosomal protein S21
+Pangenome	NA	CDS	25786	27816	.	+	0	ID=g001016;gene=dnaG;product=DNA primase
+Pangenome	NA	CDS	27817	29766	.	+	0	ID=g002151_1;gene=rpoD;product=RNA polymerase sigma factor RpoD
+Pangenome	NA	CDS	29767	31611	.	+	0	ID=g001384;gene=glmS;product=Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+Pangenome	NA	CDS	31612	33024	.	+	0	ID=g002285;gene=pykF;product=Pyruvate kinase I
+Pangenome	NA	CDS	33025	34527	.	+	0	ID=g002066;gene=nusA;product=Transcription termination/antitermination protein NusA
+Pangenome	NA	CDS	34528	35136	.	+	0	ID=g002370;gene=rimP;product=Ribosome maturation factor RimP
+Pangenome	NA	CDS	35137	35754	.	+	0	ID=g001170_1;gene=lspA;product=Lipoprotein signal peptidase
+Pangenome	NA	CDS	35755	36861	.	+	0	ID=g001272;gene=ribF;product=Bifunctional riboflavin kinase/FMN adenylyltransferase
+Pangenome	NA	CDS	36862	38529	.	+	0	ID=g000881;gene=murJ;product=putative lipid II flippase MurJ
+Pangenome	NA	CDS	38530	39186	.	+	0	ID=g001499;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	39187	40104	.	+	0	ID=g000759;gene=rdgB;product=dITP/XTP pyrophosphatase
+Pangenome	NA	CDS	40105	41478	.	+	0	ID=g000361;gene=hemW;product=Heme chaperone HemW
+Pangenome	NA	CDS	41479	42201	.	+	0	ID=g001498;gene=trmB;product=tRNA (guanine-N(7)-)-methyltransferase
+Pangenome	NA	CDS	42202	42966	.	+	0	ID=g001892;gene=rnc;product=Ribonuclease 3
+Pangenome	NA	CDS	42967	44091	.	+	0	ID=g001975;gene=era;product=GTPase Era
+Pangenome	NA	CDS	44092	44949	.	+	0	ID=g001404;gene=recO;product=DNA repair protein RecO
+Pangenome	NA	CDS	44950	45696	.	+	0	ID=g001441;gene=pdxJ;product=Pyridoxine 5'-phosphate synthase
+Pangenome	NA	CDS	45697	46671	.	+	0	ID=g000890;gene=yrbG;product=Inner membrane protein YrbG
+Pangenome	NA	CDS	46672	47547	.	+	0	ID=g000545_1;gene=mlaF;product=Intermembrane phospholipid transport system ATP-binding protein MlaF
+Pangenome	NA	CDS	47548	48402	.	+	0	ID=g001437;gene=mlaE;product=Intermembrane phospholipid transport system permease protein MlaE
+Pangenome	NA	CDS	48403	48936	.	+	0	ID=g000896;gene=mlaD;product=Intermembrane phospholipid transport system binding protein MlaD
+Pangenome	NA	CDS	48937	49485	.	+	0	ID=g001312;gene=mreD;product=Rod shape-determining protein MreD
+Pangenome	NA	CDS	49486	50508	.	+	0	ID=g001192;gene=mreC;product=Cell shape-determining protein MreC
+Pangenome	NA	CDS	50509	51675	.	+	0	ID=g004946;gene=mreB;product=Cell shape-determining protein MreB
+Pangenome	NA	CDS	51676	53526	.	+	0	ID=g001776;gene=argS;product=Arginine--tRNA ligase
+Pangenome	NA	CDS	53527	54039	.	+	0	ID=g001823;gene=epsG;product=Type II secretion system protein G
+Pangenome	NA	CDS	54040	55365	.	+	0	ID=g001048;gene=epsF;product=Type II secretion system protein F
+Pangenome	NA	CDS	55366	56919	.	+	0	ID=g000949_1;gene=epsE;product=Type II secretion system protein E
+Pangenome	NA	CDS	56920	59274	.	+	0	ID=g000394;gene=epsD;product=Secretin GspD
+Pangenome	NA	CDS	59275	61659	.	+	0	ID=g001873_1;gene=nrdA;product=Ribonucleoside-diphosphate reductase 1 subunit alpha
+Pangenome	NA	CDS	61660	62583	.	+	0	ID=g000642;gene=ubiG;product=Ubiquinone biosynthesis O-methyltransferase
+Pangenome	NA	CDS	62584	65520	.	+	0	ID=g000903;gene=gyrA;product=DNA gyrase subunit A
+Pangenome	NA	CDS	65521	68262	.	+	0	ID=g002107;gene=parE;product=DNA topoisomerase 4 subunit B
+Pangenome	NA	CDS	68263	69435	.	+	0	ID=g001905;gene=dnaN;product=Beta sliding clamp
+Pangenome	NA	CDS	69436	70647	.	+	0	ID=g001937;gene=recF;product=DNA replication and repair protein RecF
+Pangenome	NA	CDS	70648	73152	.	+	0	ID=g001541_1;gene=gyrB;product=DNA gyrase subunit B
+Pangenome	NA	CDS	73153	74436	.	+	0	ID=g000254;gene=dxr;product=1-deoxy-D-xylulose 5-phosphate reductoisomerase
+Pangenome	NA	CDS	74437	75834	.	+	0	ID=g000402_1;gene=rseP;product=Regulator of sigma-E protease RseP
+Pangenome	NA	CDS	75835	78447	.	+	0	ID=g000816;gene=bamA;product=Outer membrane protein assembly factor BamA
+Pangenome	NA	CDS	78448	79281	.	+	0	ID=g001367;gene=dapF;product=Diaminopimelate epimerase
+Pangenome	NA	CDS	79282	82104	.	+	0	ID=g000727;gene=cyaA;product=Adenylate cyclase
+Pangenome	NA	CDS	82105	83217	.	+	0	ID=g001123;gene=hemC;product=Porphobilinogen deaminase
+Pangenome	NA	CDS	83218	83715	.	+	0	ID=g000897;gene=ftsB;product=Cell division protein FtsB
+Pangenome	NA	CDS	83716	84624	.	+	0	ID=g000234;gene=ispD;product=2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+Pangenome	NA	CDS	84625	85113	.	+	0	ID=g001693;gene=ispF;product=2-C-methyl-D-erythritol 2%2C4-cyclodiphosphate synthase
+Pangenome	NA	CDS	85114	88002	.	+	0	ID=g001696_1;gene=sucA;product=2-oxoglutarate dehydrogenase E1 component
+Pangenome	NA	CDS	88003	89244	.	+	0	ID=g001730_1;gene=sucB;product=Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+Pangenome	NA	CDS	89245	90435	.	+	0	ID=g003026;gene=sucC;product=Succinate--CoA ligase [ADP-forming] subunit beta
+Pangenome	NA	CDS	90436	91548	.	+	0	ID=g002883;gene=prfB;product=Peptide chain release factor RF2
+Pangenome	NA	CDS	91549	93102	.	+	0	ID=g002308;gene=lysS;product=Lysine--tRNA ligase
+Pangenome	NA	CDS	93103	94206	.	+	0	ID=g000610;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	94207	94824	.	+	0	ID=g001068;gene=yibN;product=putative protein YibN
+Pangenome	NA	CDS	94825	95355	.	+	0	ID=g002321;gene=secB;product=Protein-export protein SecB
+Pangenome	NA	CDS	95356	96591	.	+	0	ID=g000885;gene=gpsA;product=Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+Pangenome	NA	CDS	96592	97386	.	+	0	ID=g002833;gene=pyrH;product=Uridylate kinase
+Pangenome	NA	CDS	97387	98031	.	+	0	ID=g002274;gene=frr;product=Ribosome-recycling factor
+Pangenome	NA	CDS	98032	98907	.	+	0	ID=g001128;gene=ispU;product=Ditrans%2Cpolycis-undecaprenyl-diphosphate synthase ((2E%2C6E)-farnesyl-diphosphate specific)
+Pangenome	NA	CDS	98908	99924	.	+	0	ID=g000667;gene=rsmD;product=Ribosomal RNA small subunit methyltransferase D
+Pangenome	NA	CDS	99925	101046	.	+	0	ID=g001992;gene=purM;product=Phosphoribosylformylglycinamidine cyclo-ligase
+Pangenome	NA	CDS	101047	101820	.	+	0	ID=g000567;gene=purN;product=Phosphoribosylglycinamide formyltransferase
+Pangenome	NA	CDS	101821	103179	.	+	0	ID=g001088;gene=hflK;product=Modulator of FtsH protease HflK
+Pangenome	NA	CDS	103180	104271	.	+	0	ID=g000887;gene=hflC;product=Modulator of FtsH protease HflC
+Pangenome	NA	CDS	104272	105654	.	+	0	ID=g002012;gene=purA;product=Adenylosuccinate synthetase
+Pangenome	NA	CDS	105655	106521	.	+	0	ID=g000712;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	106522	108216	.	+	0	ID=g000334;gene=mltD;product=Membrane-bound lytic murein transglycosylase D
+Pangenome	NA	CDS	108217	109344	.	+	0	ID=g002138;gene=aroC;product=Chorismate synthase
+Pangenome	NA	CDS	109345	110436	.	+	0	ID=g000560;gene=pdxA;product=4-hydroxythreonine-4-phosphate dehydrogenase
+Pangenome	NA	CDS	110437	111321	.	+	0	ID=g001842;gene=rsmA;product=Ribosomal RNA small subunit methyltransferase A
+Pangenome	NA	CDS	111322	112215	.	+	0	ID=g000174;gene=apaH;product=Bis(5'-nucleosyl)-tetraphosphatase%2C symmetrical
+Pangenome	NA	CDS	112216	113445	.	+	0	ID=g001397;gene=lapB;product=Lipopolysaccharide assembly protein B
+Pangenome	NA	CDS	113446	114267	.	+	0	ID=g000861;gene=pyrF;product=Orotidine 5'-phosphate decarboxylase
+Pangenome	NA	CDS	114268	115026	.	+	0	ID=g001767;gene=ruvA;product=Holliday junction ATP-dependent DNA helicase RuvA
+Pangenome	NA	CDS	115027	116160	.	+	0	ID=g002249;gene=ruvB;product=Holliday junction ATP-dependent DNA helicase RuvB
+Pangenome	NA	CDS	116161	117075	.	+	0	ID=g001157;gene=fadR;product=Fatty acid metabolism regulator protein
+Pangenome	NA	CDS	117076	118512	.	+	0	ID=g001725;gene=gltX;product=Glutamate--tRNA ligase
+Pangenome	NA	CDS	118513	119019	.	+	0	ID=g002387;gene=dksA;product=RNA polymerase-binding transcription factor DksA
+Pangenome	NA	CDS	119020	120738	.	+	0	ID=g000507;gene=gshA;product=Glutamate--cysteine ligase
+Pangenome	NA	CDS	120739	122418	.	+	0	ID=g001262_1;gene=ubiB;product=putative protein kinase UbiB
+Pangenome	NA	CDS	122419	123333	.	+	0	ID=g000270;gene=dtd3;product=D-aminoacyl-tRNA deacylase
+Pangenome	NA	CDS	123334	124485	.	+	0	ID=g001960;gene=ispG;product=4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+Pangenome	NA	CDS	124486	125856	.	+	0	ID=g001578_1;gene=hisS;product=Histidine--tRNA ligase
+Pangenome	NA	CDS	125857	126690	.	+	0	ID=g002184;gene=rlmE;product=Ribosomal RNA large subunit methyltransferase E
+Pangenome	NA	CDS	126691	127215	.	+	0	ID=g001794;gene=greA;product=Transcription elongation factor GreA
+Pangenome	NA	CDS	127216	128655	.	+	0	ID=g002479_1;gene=lpdA;product=Dihydrolipoyl dehydrogenase
+Pangenome	NA	CDS	128656	129900	.	+	0	ID=g000057_1;gene=ackA;product=Acetate kinase
+Pangenome	NA	CDS	129901	131001	.	+	0	ID=g001584_1;gene=prfA;product=Peptide chain release factor RF1
+Pangenome	NA	CDS	131002	131967	.	+	0	ID=g000186;gene=prmC;product=Release factor glutamine methyltransferase
+Pangenome	NA	CDS	131968	132936	.	+	0	ID=g002072;gene=gshB;product=Glutathione synthetase
+Pangenome	NA	CDS	132937	133473	.	+	0	ID=g001636;gene=yqgF;product=Putative pre-16S rRNA nuclease
+Pangenome	NA	CDS	133474	134823	.	+	0	ID=g001674;gene=mnmA;product=tRNA-specific 2-thiouridylase MnmA
+Pangenome	NA	CDS	134824	135447	.	+	0	ID=g001635;gene=hflD;product=High frequency lysogenization protein HflD
+Pangenome	NA	CDS	135448	137631	.	+	0	ID=g002081_1;gene=pta;product=Phosphate acetyltransferase
+Pangenome	NA	CDS	137632	137925	.	+	0	ID=g002613_1;gene=groS;product=10 kDa chaperonin
+Pangenome	NA	CDS	137926	138279	.	+	0	ID=g002324;gene=yajC;product=Sec translocon accessory complex subunit YajC
+Pangenome	NA	CDS	138280	139539	.	+	0	ID=g002566;gene=tgt;product=Queuine tRNA-ribosyltransferase
+Pangenome	NA	CDS	139540	141795	.	+	0	ID=g001478;gene=relA;product=GTP pyrophosphokinase
+Pangenome	NA	CDS	141796	142215	.	+	0	ID=g000574;gene=acpS;product=Holo-[acyl-carrier-protein] synthase
+Pangenome	NA	CDS	142216	143337	.	+	0	ID=g001236_1;gene=xerD;product=Tyrosine recombinase XerD
+Pangenome	NA	CDS	143338	145218	.	+	0	ID=g001230;gene=recJ;product=Single-stranded-DNA-specific exonuclease RecJ
+Pangenome	NA	CDS	145219	146832	.	+	0	ID=g001426;gene=cysS;product=Cysteine--tRNA ligase
+Pangenome	NA	CDS	146833	147699	.	+	0	ID=g000175;gene=lpxH;product=UDP-2%2C3-diacylglucosamine hydrolase
+Pangenome	NA	CDS	147700	148239	.	+	0	ID=g002791;gene=aroK;product=Shikimate kinase 1
+Pangenome	NA	CDS	148240	149361	.	+	0	ID=g000962;gene=aroB;product=3-dehydroquinate synthase
+Pangenome	NA	CDS	149362	153876	.	+	0	ID=g000125_1;gene=rne;product=Ribonuclease E
+Pangenome	NA	CDS	153877	155034	.	+	0	ID=g000992;gene=rluC;product=Ribosomal large subunit pseudouridine synthase C
+Pangenome	NA	CDS	155035	155835	.	+	0	ID=g000929;gene=can;product=Carbonic anhydrase 2
+Pangenome	NA	CDS	155836	156159	.	+	0	ID=g001535;gene=zapB;product=Cell division protein ZapB
+Pangenome	NA	CDS	156160	158274	.	+	0	ID=g000094_1;gene=fusA;product=Elongation factor G 1
+Pangenome	NA	CDS	158275	159360	.	+	0	ID=g000308;gene=hemH;product=Ferrochelatase
+Pangenome	NA	CDS	159361	160521	.	+	0	ID=g001973_1;gene=recA;product=Protein RecA
+Pangenome	NA	CDS	160522	161769	.	+	0	ID=g002067;gene=tsaD;product=tRNA N6-adenosine threonylcarbamoyltransferase
+Pangenome	NA	CDS	161770	162237	.	+	0	ID=g001533;gene=folB;product=Dihydroneopterin aldolase
+Pangenome	NA	CDS	162238	163104	.	+	0	ID=g000536;gene=tsaB;product=tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+Pangenome	NA	CDS	163105	164055	.	+	0	ID=g002270;gene=mdh;product=Malate dehydrogenase
+Pangenome	NA	CDS	164056	165252	.	+	0	ID=g000959;gene=ispB;product=Octaprenyl diphosphate synthase
+Pangenome	NA	CDS	165253	166926	.	+	0	ID=g001424;gene=pgm;product=Phosphoglucomutase
+Pangenome	NA	CDS	166927	167847	.	+	0	ID=g000281;gene=NA;product=GTP cyclohydrolase 1 type 2 
+Pangenome	NA	CDS	167848	169209	.	+	0	ID=g002326_1;gene=accC;product=Biotin carboxylase
+Pangenome	NA	CDS	169210	171420	.	+	0	ID=g001228;gene=recG;product=ATP-dependent DNA helicase RecG
+Pangenome	NA	CDS	171421	172167	.	+	0	ID=g002093_1;gene=gmhA;product=Phosphoheptose isomerase
+Pangenome	NA	CDS	172168	172902	.	+	0	ID=g001633;gene=nfuA;product=Fe/S biogenesis protein NfuA
+Pangenome	NA	CDS	172903	173862	.	+	0	ID=g001667;gene=htpX;product=Protease HtpX
+Pangenome	NA	CDS	173863	174615	.	+	0	ID=g000482;gene=ftsN;product=Cell division protein FtsN
+Pangenome	NA	CDS	174616	175308	.	+	0	ID=g002667;gene=rppH;product=RNA pyrophosphohydrolase
+Pangenome	NA	CDS	175309	176211	.	+	0	ID=g001526_1;gene=lgt;product=Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase
+Pangenome	NA	CDS	176212	177645	.	+	0	ID=g001210;gene=pmbA;product=Metalloprotease PmbA
+Pangenome	NA	CDS	177646	178734	.	+	0	ID=g000886;gene=rnfD;product=Ion-translocating oxidoreductase complex subunit D
+Pangenome	NA	CDS	178735	179367	.	+	0	ID=g000934;gene=hslR;product=Heat shock protein 15
+Pangenome	NA	CDS	179368	180390	.	+	0	ID=g002314;gene=lipA;product=Lipoyl synthase
+Pangenome	NA	CDS	180391	183399	.	+	0	ID=g000296;gene=mrcA;product=Penicillin-binding protein 1A
+Pangenome	NA	CDS	183400	184815	.	+	0	ID=g001515;gene=hemL;product=Glutamate-1-semialdehyde 2%2C1-aminomutase
+Pangenome	NA	CDS	184816	185349	.	+	0	ID=g004431;gene=lrp;product=Leucine-responsive regulatory protein
+Pangenome	NA	CDS	185350	187110	.	+	0	ID=g001453;gene=nadB;product=L-aspartate oxidase
+Pangenome	NA	CDS	187111	187563	.	+	0	ID=g001291;gene=ndk;product=Nucleoside diphosphate kinase
+Pangenome	NA	CDS	187564	189801	.	+	0	ID=g000468;gene=rnb;product=Exoribonuclease 2
+Pangenome	NA	CDS	189802	191793	.	+	0	ID=g001296;gene=htpG;product=Chaperone protein HtpG
+Pangenome	NA	CDS	191794	192423	.	+	0	ID=g000283;gene=nadD;product=nicotinate-nucleotide adenylyltransferase
+Pangenome	NA	CDS	192424	194616	.	+	0	ID=g001835;gene=uvrD;product=DNA helicase II
+Pangenome	NA	CDS	194617	195786	.	+	0	ID=g000346;gene=purK;product=N5-carboxyaminoimidazole ribonucleotide synthase
+Pangenome	NA	CDS	195787	196560	.	+	0	ID=g000557_1;gene=ribA;product=GTP cyclohydrolase-2
+Pangenome	NA	CDS	196561	197124	.	+	0	ID=g000809_1;gene=aroQ;product=3-dehydroquinate dehydratase
+Pangenome	NA	CDS	197125	198510	.	+	0	ID=g001145;gene=glmU;product=Bifunctional protein GlmU
+Pangenome	NA	CDS	198511	199584	.	+	0	ID=g000300;gene=epmA;product=Elongation factor P--(R)-beta-lysine ligase
+Pangenome	NA	CDS	199585	200154	.	+	0	ID=g000500_1;gene=pgpA;product=Phosphatidylglycerophosphatase A
+Pangenome	NA	CDS	200155	201288	.	+	0	ID=g000659_1;gene=mrdB;product=Peptidoglycan glycosyltransferase MrdB
+Pangenome	NA	CDS	201289	202818	.	+	0	ID=g001455;gene=purF;product=Amidophosphoribosyltransferase
+Pangenome	NA	CDS	202819	204972	.	+	0	ID=g002172;gene=pnp;product=Polyribonucleotide nucleotidyltransferase
+Pangenome	NA	CDS	204973	205395	.	+	0	ID=g002968_1;gene=ptsH;product=Phosphocarrier protein HPr
+Pangenome	NA	CDS	205396	206751	.	+	0	ID=g001646;gene=pitA;product=hypothetical protein
+Pangenome	NA	CDS	206752	208362	.	+	0	ID=g000605_1;gene=xseA;product=Exodeoxyribonuclease 7 large subunit
+Pangenome	NA	CDS	208363	209154	.	+	0	ID=g000863;gene=pdxH;product=Pyridoxine/pyridoxamine 5'-phosphate oxidase
+Pangenome	NA	CDS	209155	210315	.	+	0	ID=g000951_1;gene=dapE;product=Succinyl-diaminopimelate desuccinylase
+Pangenome	NA	CDS	210316	212658	.	+	0	ID=g001927_1;gene=clpA;product=ATP-dependent Clp protease ATP-binding subunit ClpA
+Pangenome	NA	CDS	212659	213963	.	+	0	ID=g002507_1;gene=metK;product=S-adenosylmethionine synthase
+Pangenome	NA	CDS	213964	215100	.	+	0	ID=g001550;gene=hemB;product=Delta-aminolevulinic acid dehydratase
+Pangenome	NA	CDS	215101	216657	.	+	0	ID=g000152_1;gene=ribD;product=Riboflavin biosynthesis protein RibD
+Pangenome	NA	CDS	216658	217788	.	+	0	ID=g001053;gene=yhhT;product=hypothetical protein
+Pangenome	NA	CDS	217789	218736	.	+	0	ID=g000384;gene=cpdA;product=3'%2C5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+Pangenome	NA	CDS	218737	219417	.	+	0	ID=g002772;gene=sodB;product=Superoxide dismutase [Fe]
+Pangenome	NA	CDS	219418	223146	.	+	0	ID=g000977;gene=mfd;product=Transcription-repair-coupling factor
+Pangenome	NA	CDS	223147	224355	.	+	0	ID=g000917;gene=aspC;product=Aspartate aminotransferase
+Pangenome	NA	CDS	224356	225909	.	+	0	ID=g002193;gene=rlhA;product=23S rRNA 5-hydroxycytidine synthase
+Pangenome	NA	CDS	225910	227478	.	+	0	ID=g001323;gene=gpmI;product=2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase
+Pangenome	NA	CDS	227479	228126	.	+	0	ID=g002836;gene=sspA;product=Stringent starvation protein A
+Pangenome	NA	CDS	228127	228783	.	+	0	ID=g000260_1;gene=dhfrIII;product=Dihydrofolate reductase type 3
+Pangenome	NA	CDS	228784	231744	.	+	0	ID=g002168_1;gene=dnaB;product=Replicative DNA helicase
+Pangenome	NA	CDS	231745	234306	.	+	0	ID=g000542_1;gene=metL;product=Bifunctional aspartokinase/homoserine dehydrogenase 2
+Pangenome	NA	CDS	234307	235080	.	+	0	ID=g000354;gene=yggS;product=Pyridoxal phosphate homeostasis protein
+Pangenome	NA	CDS	235081	235560	.	+	0	ID=g002030;gene=smg;product=Protein Smg
+Pangenome	NA	CDS	235561	237459	.	+	0	ID=g000550;gene=tet(35);product=tetracycline efflux Na+/H+ antiporter family transporter Tet(35)
+Pangenome	NA	CDS	237460	238923	.	+	0	ID=g000119;gene=cca;product=Multifunctional CCA protein
+Pangenome	NA	CDS	238924	240246	.	+	0	ID=g002415;gene=gltA;product=Citrate synthase
+Pangenome	NA	CDS	240247	241149	.	+	0	ID=g000221_1;gene=map;product=Methionine aminopeptidase
+Pangenome	NA	CDS	241150	242160	.	+	0	ID=g001494;gene=ispH;product=4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+Pangenome	NA	CDS	242161	243750	.	+	0	ID=g002541;gene=guaA;product=GMP synthase [glutamine-hydrolyzing]
+Pangenome	NA	CDS	243751	245565	.	+	0	ID=g000342;gene=ftsY;product=Signal recognition particle receptor FtsY
+Pangenome	NA	CDS	245566	247035	.	+	0	ID=g001643;gene=tldD;product=Metalloprotease TldD
+Pangenome	NA	CDS	247036	249282	.	+	0	ID=g002063;gene=der;product=GTPase Der
+Pangenome	NA	CDS	249283	250089	.	+	0	ID=g001466;gene=cmoA;product=Carboxy-S-adenosyl-L-methionine synthase
+Pangenome	NA	CDS	250090	250317	.	+	0	ID=g011644;gene=rpsR;product=30S ribosomal protein S18
+Pangenome	NA	CDS	250318	251295	.	+	0	ID=g000317_1;gene=outO;product=Type 4 prepilin-like proteins leader peptide-processing enzyme
+Pangenome	NA	CDS	251296	252213	.	+	0	ID=g001911;gene=suhB;product=Inositol-1-monophosphatase
+Pangenome	NA	CDS	252214	253377	.	+	0	ID=g002737;gene=pgk;product=Phosphoglycerate kinase
+Pangenome	NA	CDS	253378	254589	.	+	0	ID=g001731;gene=fabV;product=Enoyl-[acyl-carrier-protein] reductase [NADH]
+Pangenome	NA	CDS	254590	255183	.	+	0	ID=g002606;gene=diaA;product=DnaA initiator-associating protein DiaA
+Pangenome	NA	CDS	255184	256008	.	+	0	ID=g001129_1;gene=rnfE;product=Ion-translocating oxidoreductase complex subunit E
+Pangenome	NA	CDS	256009	257955	.	+	0	ID=g000770;gene=dxs;product=1-deoxy-D-xylulose-5-phosphate synthase
+Pangenome	NA	CDS	257956	259452	.	+	0	ID=g001086;gene=hemN;product=Oxygen-independent coproporphyrinogen III oxidase
+Pangenome	NA	CDS	259453	259782	.	+	0	ID=g003287;gene=rpoZ;product=DNA-directed RNA polymerase subunit omega
+Pangenome	NA	CDS	259783	261225	.	+	0	ID=g002362;gene=miaB;product=tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+Pangenome	NA	CDS	261226	261954	.	+	0	ID=g012406;gene=crp;product=cAMP-activated global transcriptional regulator CRP
+Pangenome	NA	CDS	261955	262512	.	+	0	ID=g001917;gene=rimM;product=Ribosome maturation factor RimM
+Pangenome	NA	CDS	262513	263727	.	+	0	ID=g001880;gene=tyrS;product=Tyrosine--tRNA ligase
+Pangenome	NA	CDS	263728	264741	.	+	0	ID=g000804_1;gene=lepB;product=Signal peptidase I
+Pangenome	NA	CDS	264742	265011	.	+	0	ID=g009221;gene=infA;product=Translation initiation factor IF-1
+Pangenome	NA	CDS	265012	266040	.	+	0	ID=g000996;gene=nadC;product=Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+Pangenome	NA	CDS	266041	267912	.	+	0	ID=g002502;gene=lepA;product=Elongation factor 4
+Pangenome	NA	CDS	267913	269253	.	+	0	ID=g001903;gene=rlmN;product=Dual-specificity RNA methyltransferase RlmN
+Pangenome	NA	CDS	269254	271008	.	+	0	ID=g001669;gene=proS;product=Proline--tRNA ligase
+Pangenome	NA	CDS	271009	272379	.	+	0	ID=g000313;gene=folC;product=Dihydrofolate synthase/folylpolyglutamate synthase
+Pangenome	NA	CDS	272380	273600	.	+	0	ID=g002177;gene=iscS;product=Cysteine desulfurase IscS
+Pangenome	NA	CDS	273601	274518	.	+	0	ID=g001244;gene=engB;product=putative GTP-binding protein EngB
+Pangenome	NA	CDS	274519	274848	.	+	0	ID=g002886_1;gene=trxA;product=Thioredoxin 1
+Pangenome	NA	CDS	274849	275814	.	+	0	ID=g001587;gene=secF;product=Protein translocase subunit SecF
+Pangenome	NA	CDS	275815	276603	.	+	0	ID=g002563;gene=lptB;product=Lipopolysaccharide export system ATP-binding protein LptB
+Pangenome	NA	CDS	276604	277686	.	+	0	ID=g001489;gene=rluD;product=Ribosomal large subunit pseudouridine synthase D
+Pangenome	NA	CDS	277687	278862	.	+	0	ID=g002046;gene=trpS;product=Tryptophan--tRNA ligase
+Pangenome	NA	CDS	278863	279789	.	+	0	ID=g001193;gene=dapA;product=4-hydroxy-tetrahydrodipicolinate synthase
+Pangenome	NA	CDS	279790	280695	.	+	0	ID=g000862;gene=dnaQ;product=DNA polymerase III subunit epsilon
+Pangenome	NA	CDS	280696	282126	.	+	0	ID=g001484_1;gene=hldE;product=Bifunctional protein HldE
+Pangenome	NA	CDS	282127	284109	.	+	0	ID=g000601_1;gene=ubiD;product=3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+Pangenome	NA	CDS	284110	285999	.	+	0	ID=g000436;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	286000	287391	.	+	0	ID=g001146;gene=rsmB;product=Ribosomal RNA small subunit methyltransferase B
+Pangenome	NA	CDS	287392	288291	.	+	0	ID=g001913;gene=ubiE;product=Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+Pangenome	NA	CDS	288292	289059	.	+	0	ID=g001631;gene=rpiA;product=Ribose-5-phosphate isomerase A
+Pangenome	NA	CDS	289060	290718	.	+	0	ID=g000839;gene=lolD;product=Lipoprotein-releasing system ATP-binding protein LolD
+Pangenome	NA	CDS	290719	292005	.	+	0	ID=g000658;gene=lolE;product=Lipoprotein-releasing system transmembrane protein LolE
+Pangenome	NA	CDS	292006	292839	.	+	0	ID=g001440;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	292840	294657	.	+	0	ID=g000576_1;gene=msbA;product=Lipid A export ATP-binding/permease protein MsbA
+Pangenome	NA	CDS	294658	295776	.	+	0	ID=g000128;gene=lpxK;product=Tetraacyldisaccharide 4'-kinase
+Pangenome	NA	CDS	295777	295971	.	+	0	ID=g002299;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	295972	297054	.	+	0	ID=g002441;gene=mraY;product=Phospho-N-acetylmuramoyl-pentapeptide-transferase
+Pangenome	NA	CDS	297055	298560	.	+	0	ID=g000133;gene=murD;product=UDP-N-acetylmuramoylalanine--D-glutamate ligase
+Pangenome	NA	CDS	298561	300099	.	+	0	ID=g000987;gene=ftsW;product=putative peptidoglycan glycosyltransferase FtsW
+Pangenome	NA	CDS	300100	301257	.	+	0	ID=g000459;gene=murG;product=UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+Pangenome	NA	CDS	301258	302751	.	+	0	ID=g001352;gene=murC;product=UDP-N-acetylmuramate--L-alanine ligase
+Pangenome	NA	CDS	302752	303879	.	+	0	ID=g001551;gene=rsmH;product=Ribosomal RNA small subunit methyltransferase H
+Pangenome	NA	CDS	303880	304383	.	+	0	ID=g001106;gene=ftsL;product=Cell division protein FtsL
+Pangenome	NA	CDS	304384	306372	.	+	0	ID=g000908;gene=ftsI;product=Peptidoglycan D%2CD-transpeptidase FtsI
+Pangenome	NA	CDS	306373	308097	.	+	0	ID=g000132_1;gene=murE;product=UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2%2C6-diaminopimelate ligase
+Pangenome	NA	CDS	308098	308670	.	+	0	ID=g002385;gene=efp;product=Elongation factor P
+Pangenome	NA	CDS	308671	309804	.	+	0	ID=g000243;gene=epmB;product=L-lysine 2%2C3-aminomutase
+Pangenome	NA	CDS	309805	310767	.	+	0	ID=g002225;gene=pfkA;product=ATP-dependent 6-phosphofructokinase isozyme 1
+Pangenome	NA	CDS	310768	311880	.	+	0	ID=g000679;gene=fieF;product=Ferrous-iron efflux pump FieF
+Pangenome	NA	CDS	311881	313143	.	+	0	ID=g002156_1;gene=fabF;product=3-oxoacyl-[acyl-carrier-protein] synthase 2
+Pangenome	NA	CDS	313144	314199	.	+	0	ID=g000497;gene=mltG;product=Endolytic murein transglycosylase
+Pangenome	NA	CDS	314200	314904	.	+	0	ID=g000387;gene=tmk;product=Thymidylate kinase
+Pangenome	NA	CDS	314905	315984	.	+	0	ID=g000146;gene=holB;product=DNA polymerase III subunit delta'
+Pangenome	NA	CDS	315985	316929	.	+	0	ID=g000708;gene=panC;product=Pantothenate synthetase
+Pangenome	NA	CDS	316930	317463	.	+	0	ID=g000791;gene=folK;product=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+Pangenome	NA	CDS	317464	319041	.	+	0	ID=g001144;gene=pcnB;product=Poly(A) polymerase I
+Pangenome	NA	CDS	319042	321678	.	+	0	ID=g000943_1;gene=acnB;product=Aconitate hydratase B
+Pangenome	NA	CDS	321679	324375	.	+	0	ID=g001539;gene=leuS;product=Leucine--tRNA ligase
+Pangenome	NA	CDS	324376	325365	.	+	0	ID=g000149;gene=lptE;product=LPS-assembly lipoprotein LptE
+Pangenome	NA	CDS	325366	326439	.	+	0	ID=g000306;gene=holA;product=DNA polymerase III subunit delta
+Pangenome	NA	CDS	326440	329433	.	+	0	ID=g000143;gene=dnaX;product=hypothetical protein
+Pangenome	NA	CDS	329434	330057	.	+	0	ID=g002120;gene=recR;product=Recombination protein RecR
+Pangenome	NA	CDS	330058	330939	.	+	0	ID=g001711;gene=folD;product=Bifunctional protein FolD protein
+Pangenome	NA	CDS	330940	332286	.	+	0	ID=g001617;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	332287	333390	.	+	0	ID=g001362;gene=ypjD;product=Inner membrane protein YpjD
+Pangenome	NA	CDS	333391	334917	.	+	0	ID=g002521;gene=ffh;product=Signal recognition particle protein
+Pangenome	NA	CDS	334918	335916	.	+	0	ID=g001710;gene=truB;product=tRNA pseudouridine synthase B
+Pangenome	NA	CDS	335917	336420	.	+	0	ID=g001826;gene=rbfA;product=Ribosome-binding factor A
+Pangenome	NA	CDS	336421	339594	.	+	0	ID=g001569_1;gene=infB;product=Translation initiation factor IF-2
+Pangenome	NA	CDS	339595	341124	.	+	0	ID=g001209;gene=thiI;product=tRNA sulfurtransferase
+Pangenome	NA	CDS	341125	341481	.	+	0	ID=g001563;gene=xseB;product=Exodeoxyribonuclease 7 small subunit
+Pangenome	NA	CDS	341482	342429	.	+	0	ID=g000534;gene=ispA;product=Farnesyl diphosphate synthase
+Pangenome	NA	CDS	342430	342948	.	+	0	ID=g001041;gene=bamE;product=Outer membrane protein assembly factor BamE
+Pangenome	NA	CDS	342949	343908	.	+	0	ID=g001304;gene=nadK;product=NAD kinase
+Pangenome	NA	CDS	343909	344760	.	+	0	ID=g001131_1;gene=grpE;product=Protein GrpE
+Pangenome	NA	CDS	344761	347796	.	+	0	ID=g000169;gene=recD;product=RecBCD enzyme subunit RecD
+Pangenome	NA	CDS	347797	349509	.	+	0	ID=g000954;gene=nhaB;product=Na(+)/H(+) antiporter NhaB
+Pangenome	NA	CDS	349510	350100	.	+	0	ID=g000320;gene=dsbB;product=Disulfide bond formation protein B
+Pangenome	NA	CDS	350101	350739	.	+	0	ID=g002472;gene=nqrD;product=Na(+)-translocating NADH-quinone reductase subunit D
+Pangenome	NA	CDS	350740	351339	.	+	0	ID=g003098;gene=nqrE;product=Na(+)-translocating NADH-quinone reductase subunit E
+Pangenome	NA	CDS	351340	352578	.	+	0	ID=g002506;gene=nqrF;product=Na(+)-translocating NADH-quinone reductase subunit F
+Pangenome	NA	CDS	352579	354318	.	+	0	ID=g001955;gene=ptsI;product=Phosphoenolpyruvate-protein phosphotransferase
+Pangenome	NA	CDS	354319	354831	.	+	0	ID=g003309;gene=crr;product=PTS system glucose-specific EIIA component
+Pangenome	NA	CDS	354832	356358	.	+	0	ID=g000165;gene=ubiF;product=3-demethoxyubiquinol 3-hydroxylase
+Pangenome	NA	CDS	356359	356931	.	+	0	ID=g002473;gene=smpB;product=SsrA-binding protein
+Pangenome	NA	CDS	356932	357471	.	+	0	ID=g001072;gene=ratA;product=Ribosome association toxin RatA
+Pangenome	NA	CDS	357472	357846	.	+	0	ID=g001012;gene=rnfH;product=hypothetical protein
+Pangenome	NA	CDS	357847	360594	.	+	0	ID=g001451;gene=deaD;product=ATP-dependent RNA helicase DeaD
+Pangenome	NA	CDS	360595	362526	.	+	0	ID=g002560_1;gene=thrS;product=Threonine--tRNA ligase
+Pangenome	NA	CDS	362527	363492	.	+	0	ID=g000666;gene=sapB;product=Putrescine export system permease protein SapB
+Pangenome	NA	CDS	363493	364395	.	+	0	ID=g000776;gene=sapC;product=Peptide transport system permease protein SapC
+Pangenome	NA	CDS	364396	366339	.	+	0	ID=g002082_1;gene=dnaK;product=Chaperone protein DnaK
+Pangenome	NA	CDS	366340	367656	.	+	0	ID=g002176_1;gene=dnaJ;product=Chaperone protein DnaJ
+Pangenome	NA	CDS	367657	368442	.	+	0	ID=g002788;gene=rpsB;product=30S ribosomal protein S2
+Pangenome	NA	CDS	368443	369345	.	+	0	ID=g001686;gene=tsf;product=Elongation factor Ts
+Pangenome	NA	CDS	369346	370566	.	+	0	ID=g001677;gene=sohB;product=putative protease SohB
+Pangenome	NA	CDS	370567	371448	.	+	0	ID=g001195_1;gene=yciK;product=putative oxidoreductase YciK
+Pangenome	NA	CDS	371449	372495	.	+	0	ID=g000076_1;gene=rlpA;product=Endolytic peptidoglycan transglycosylase RlpA
+Pangenome	NA	CDS	372496	373857	.	+	0	ID=g000047_1;gene=dacA;product=D-alanyl-D-alanine carboxypeptidase DacA
+Pangenome	NA	CDS	373858	375153	.	+	0	ID=g002935_1;gene=clpX;product=ATP-dependent Clp protease ATP-binding subunit ClpX
+Pangenome	NA	CDS	375154	377550	.	+	0	ID=g002080;gene=lon;product=Lon protease
+Pangenome	NA	CDS	377551	379053	.	+	0	ID=g001614;gene=mnmE;product=tRNA modification GTPase MnmE
+Pangenome	NA	CDS	379054	381594	.	+	0	ID=g001508;gene=mnmG;product=tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+Pangenome	NA	CDS	381595	382536	.	+	0	ID=g000923;gene=xthA;product=Exodeoxyribonuclease III
+Pangenome	NA	CDS	382537	386928	.	+	0	ID=g001078;gene=hrpA;product=hypothetical protein
+Pangenome	NA	CDS	386929	387570	.	+	0	ID=g003195;gene=rplC;product=50S ribosomal protein L3
+Pangenome	NA	CDS	387571	388185	.	+	0	ID=g003842;gene=rplD;product=50S ribosomal protein L4
+Pangenome	NA	CDS	388186	389898	.	+	0	ID=g000291;gene=nlpD;product=Murein hydrolase activator NlpD
+Pangenome	NA	CDS	389899	391161	.	+	0	ID=g000948_1;gene=rpoS;product=RNA polymerase sigma factor RpoS
+Pangenome	NA	CDS	391162	392505	.	+	0	ID=g002110_1;gene=ftsZ;product=Cell division protein FtsZ
+Pangenome	NA	CDS	392506	393447	.	+	0	ID=g002227;gene=lpxC;product=UDP-3-O-acyl-N-acetylglucosamine deacetylase
+Pangenome	NA	CDS	393448	394767	.	+	0	ID=g001486;gene=purD;product=Phosphoribosylamine--glycine ligase
+Pangenome	NA	CDS	394768	396348	.	+	0	ID=g002405;gene=asnS;product=Asparagine--tRNA ligase
+Pangenome	NA	CDS	396349	397128	.	+	0	ID=g002001;gene=rlmB;product=23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+Pangenome	NA	CDS	397129	397599	.	+	0	ID=g002950;gene=rpsF;product=30S ribosomal protein S6
+Pangenome	NA	CDS	397600	399144	.	+	0	ID=g002408;gene=fumB;product=Fumarate hydratase class I%2C anaerobic
+Pangenome	NA	CDS	399145	401205	.	+	0	ID=g000117_1;gene=pabB;product=Aminodeoxychorismate synthase component 1
+Pangenome	NA	CDS	401206	402717	.	+	0	ID=g000157;gene=rfaQ;product=hypothetical protein
+Pangenome	NA	CDS	402718	403332	.	+	0	ID=g000618;gene=coaD;product=Phosphopantetheine adenylyltransferase
+Pangenome	NA	CDS	403333	403749	.	+	0	ID=g001253;gene=tusE;product=Sulfurtransferase TusE
+Pangenome	NA	CDS	403750	404289	.	+	0	ID=g002792_1;gene=fabA;product=3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+Pangenome	NA	CDS	404290	405738	.	+	0	ID=g001354;gene=nqrA;product=Na(+)-translocating NADH-quinone reductase subunit A
+Pangenome	NA	CDS	405739	407007	.	+	0	ID=g000609_1;gene=nqrB;product=Na(+)-translocating NADH-quinone reductase subunit B
+Pangenome	NA	CDS	407008	408690	.	+	0	ID=g001423;gene=glnS;product=Glutamine--tRNA ligase
+Pangenome	NA	CDS	408691	409233	.	+	0	ID=g002004;gene=fur;product=Ferric uptake regulation protein
+Pangenome	NA	CDS	409234	410727	.	+	0	ID=g002085;gene=rng;product=Ribonuclease G
+Pangenome	NA	CDS	410728	415488	.	+	0	ID=g000140_1;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	415489	416619	.	+	0	ID=g003143;gene=glyQ;product=Glycine--tRNA ligase alpha subunit
+Pangenome	NA	CDS	416620	418740	.	+	0	ID=g002037;gene=glyS;product=Glycine--tRNA ligase beta subunit
+Pangenome	NA	CDS	418741	418980	.	+	0	ID=g004083;gene=csrA;product=Carbon storage regulator
+Pangenome	NA	CDS	418981	421602	.	+	0	ID=g001346;gene=alaS;product=Alanine--tRNA ligase
+Pangenome	NA	CDS	421603	422373	.	+	0	ID=g001198;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	422374	423501	.	+	0	ID=g000458_1;gene=serC;product=Phosphoserine aminotransferase
+Pangenome	NA	CDS	423502	424098	.	+	0	ID=g002149;gene=ruvC;product=Crossover junction endodeoxyribonuclease RuvC
+Pangenome	NA	CDS	424099	426126	.	+	0	ID=g001930;gene=aspS;product=Aspartate--tRNA ligase
+Pangenome	NA	CDS	426127	426438	.	+	0	ID=g003511;gene=rpsP;product=30S ribosomal protein S16
+Pangenome	NA	CDS	426439	427272	.	+	0	ID=g001738;gene=tolQ;product=Tol-Pal system protein TolQ
+Pangenome	NA	CDS	427273	427650	.	+	0	ID=g000670_1;gene=tatA;product=Sec-independent protein translocase protein TatA
+Pangenome	NA	CDS	427651	428691	.	+	0	ID=g000756;gene=kdsD;product=Arabinose 5-phosphate isomerase KdsD
+Pangenome	NA	CDS	428692	429228	.	+	0	ID=g001825;gene=cvpA;product=Colicin V production protein
+Pangenome	NA	CDS	429229	430611	.	+	0	ID=g002645;gene=purB;product=Adenylosuccinate lyase
+Pangenome	NA	CDS	430612	431064	.	+	0	ID=g001773_1;gene=atpC;product=ATP synthase epsilon chain
+Pangenome	NA	CDS	431065	431322	.	+	0	ID=g002033_1;gene=yfhL;product=Ferredoxin YfhL
+Pangenome	NA	CDS	431323	432195	.	+	0	ID=g002445;gene=tpiA;product=Triosephosphate isomerase
+Pangenome	NA	CDS	432196	433512	.	+	0	ID=g000582;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	433513	434688	.	+	0	ID=g001761;gene=asd1;product=Aspartate-semialdehyde dehydrogenase 1
+Pangenome	NA	CDS	434689	436062	.	+	0	ID=g000986_1;gene=glmM;product=Phosphoglucosamine mutase
+Pangenome	NA	CDS	436063	436566	.	+	0	ID=g002851;gene=nusB;product=Transcription antitermination protein NusB
+Pangenome	NA	CDS	436567	437202	.	+	0	ID=g001168;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	437203	438279	.	+	0	ID=g002442;gene=fbaA;product=Fructose-bisphosphate aldolase class 2
+Pangenome	NA	CDS	438280	438933	.	+	0	ID=g002449;gene=adk;product=Adenylate kinase
+Pangenome	NA	CDS	438934	439779	.	+	0	ID=g000859;gene=trpG;product=Anthranilate synthase component 2
+Pangenome	NA	CDS	439780	440349	.	+	0	ID=g000519;gene=xcpV;product=Type II secretion system protein I
+Pangenome	NA	CDS	440350	441237	.	+	0	ID=g003277;gene=sucD;product=Succinate--CoA ligase [ADP-forming] subunit alpha
+Pangenome	NA	CDS	441238	442806	.	+	0	ID=g004850;gene=rho;product=Transcription termination factor Rho
+Pangenome	NA	CDS	442807	443133	.	+	0	ID=g001802;gene=rplY;product=50S ribosomal protein L25
+Pangenome	NA	CDS	443134	443415	.	+	0	ID=g002104;gene=yggX;product=putative Fe(2+)-trafficking protein
+Pangenome	NA	CDS	443416	444216	.	+	0	ID=g001335;gene=rnt;product=Ribonuclease T
+Pangenome	NA	CDS	444217	445335	.	+	0	ID=g000244_1;gene=ddl;product=D-alanine--D-alanine ligase
+Pangenome	NA	CDS	445336	446634	.	+	0	ID=g002311;gene=alaA;product=Glutamate-pyruvate aminotransferase AlaA
+Pangenome	NA	CDS	446635	447738	.	+	0	ID=g001490;gene=plsX;product=Phosphate acyltransferase
+Pangenome	NA	CDS	447739	448452	.	+	0	ID=g001768;gene=cmk;product=Cytidylate kinase
+Pangenome	NA	CDS	448453	451407	.	+	0	ID=g001609_1;gene=ileS;product=Isoleucine--tRNA ligase
+Pangenome	NA	CDS	451408	452124	.	+	0	ID=g001372;gene=ubiX;product=Flavin prenyltransferase UbiX
+Pangenome	NA	CDS	452125	452487	.	+	0	ID=g000285;gene=tusC;product=Protein TusC
+Pangenome	NA	CDS	452488	453174	.	+	0	ID=g002469;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	453175	454740	.	+	0	ID=g000019_1;gene=fkpA;product=FKBP-type peptidyl-prolyl cis-trans isomerase FkpA
+Pangenome	NA	CDS	454741	455529	.	+	0	ID=g000719;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	455530	457119	.	+	0	ID=g000847;gene=rpoN;product=RNA polymerase sigma-54 factor
+Pangenome	NA	CDS	457120	459921	.	+	0	ID=g001112;gene=mutS;product=DNA mismatch repair protein MutS
+Pangenome	NA	CDS	459922	460623	.	+	0	ID=g001223;gene=gmhB;product=D-glycero-beta-D-manno-heptose-1%2C7-bisphosphate 7-phosphatase
+Pangenome	NA	CDS	460624	461772	.	+	0	ID=g001054;gene=cmoB;product=tRNA U34 carboxymethyltransferase
+Pangenome	NA	CDS	461773	462132	.	+	0	ID=g000837;gene=ycgL;product=Protein YcgL
+Pangenome	NA	CDS	462133	462405	.	+	0	ID=g002325;gene=ubiK;product=Ubiquinone biosynthesis accessory factor UbiK
+Pangenome	NA	CDS	462406	463329	.	+	0	ID=g001243;gene=truA;product=tRNA pseudouridine synthase A
+Pangenome	NA	CDS	463330	463761	.	+	0	ID=g001342;gene=zapA;product=Cell division protein ZapA
+Pangenome	NA	CDS	463762	465255	.	+	0	ID=g002877;gene=dnaA;product=Chromosomal replication initiator protein DnaA
+Pangenome	NA	CDS	465256	469743	.	+	0	ID=g000103_1;gene=ftsK;product=hypothetical protein
+Pangenome	NA	CDS	469744	472050	.	+	0	ID=g001257_1;gene=parC;product=DNA topoisomerase 4 subunit A
+Pangenome	NA	CDS	472051	473370	.	+	0	ID=g002137;gene=serS;product=Serine--tRNA ligase
+Pangenome	NA	CDS	473371	473643	.	+	0	ID=g001985;gene=ibaG;product=Acid stress protein IbaG
+Pangenome	NA	CDS	473644	475074	.	+	0	ID=g002412_1;gene=radA;product=DNA repair protein RadA
+Pangenome	NA	CDS	475075	479289	.	+	0	ID=g001537;gene=purL;product=Phosphoribosylformylglycinamidine synthase
+Pangenome	NA	CDS	479290	481530	.	+	0	ID=g001874;gene=metG;product=Methionine--tRNA ligase
+Pangenome	NA	CDS	481531	482961	.	+	0	ID=g001266;gene=tolB;product=Tol-Pal system protein TolB
+Pangenome	NA	CDS	482962	484683	.	+	0	ID=g002084;gene=prfC;product=Peptide chain release factor RF3
+Pangenome	NA	CDS	484684	486189	.	+	0	ID=g000166;gene=zipA;product=Cell division protein ZipA
+Pangenome	NA	CDS	486190	486762	.	+	0	ID=g001849;gene=pgsA;product=CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+Pangenome	NA	CDS	486763	488088	.	+	0	ID=g000676;gene=lolC;product=Lipoprotein-releasing system transmembrane protein LolC
+Pangenome	NA	CDS	488089	488463	.	+	0	ID=g008604;gene=rpsL;product=30S ribosomal protein S12
+Pangenome	NA	CDS	488464	489990	.	+	0	ID=g002409;gene=guaB;product=Inosine-5'-monophosphate dehydrogenase
+Pangenome	NA	CDS	489991	490908	.	+	0	ID=g001278;gene=dam;product=DNA adenine methylase
+Pangenome	NA	CDS	490909	491784	.	+	0	ID=g001305_1;gene=atpG;product=ATP synthase gamma chain
+Pangenome	NA	CDS	491785	494493	.	+	0	ID=g001570;gene=topA;product=DNA topoisomerase 1
+Pangenome	NA	CDS	494494	495597	.	+	0	ID=g000232;gene=ispE;product=4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+Pangenome	NA	CDS	495598	496506	.	+	0	ID=g000565;gene=mutH;product=DNA mismatch repair protein MutH
+Pangenome	NA	CDS	496507	497208	.	+	0	ID=g001036;gene=seqA;product=Negative modulator of initiation of replication
+Pangenome	NA	CDS	497209	498000	.	+	0	ID=g000211;gene=ung;product=Uracil-DNA glycosylase
+Pangenome	NA	CDS	498001	498942	.	+	0	ID=g001366;gene=rsmI;product=Ribosomal RNA small subunit methyltransferase I
+Pangenome	NA	CDS	498943	499890	.	+	0	ID=g000641;gene=nadE;product=NH(3)-dependent NAD(+) synthetase
+Pangenome	NA	CDS	499891	500328	.	+	0	ID=g001075;gene=bolA;product=DNA-binding transcriptional regulator BolA
+Pangenome	NA	CDS	500329	500853	.	+	0	ID=g001600;gene=atpF;product=ATP synthase subunit b
+Pangenome	NA	CDS	500854	501426	.	+	0	ID=g001915;gene=iscR;product=HTH-type transcriptional regulator IscR
+Pangenome	NA	CDS	501427	502551	.	+	0	ID=g001458_1;gene=trxB;product=Thioredoxin reductase
+Pangenome	NA	CDS	502552	503166	.	+	0	ID=g002317_1;gene=slmA;product=Nucleoid occlusion factor SlmA
+Pangenome	NA	CDS	503167	503775	.	+	0	ID=g001070;gene=lptA;product=Lipopolysaccharide export system protein LptA
+Pangenome	NA	CDS	503776	504375	.	+	0	ID=g001226_1;gene=rnhA;product=Ribonuclease HI
+Pangenome	NA	CDS	504376	504993	.	+	0	ID=g002275;gene=fldA;product=Flavodoxin
+Pangenome	NA	CDS	504994	506379	.	+	0	ID=g001577;gene=hemA;product=Glutamyl-tRNA reductase
+Pangenome	NA	CDS	506380	509073	.	+	0	ID=g001258_1;gene=rnr;product=Ribonuclease R
+Pangenome	NA	CDS	509074	510345	.	+	0	ID=g003385;gene=pheS;product=Phenylalanine--tRNA ligase alpha subunit
+Pangenome	NA	CDS	510346	511740	.	+	0	ID=g000984;gene=pepB;product=Peptidase B
+Pangenome	NA	CDS	511741	513612	.	+	0	ID=g000040_1;gene=secD;product=Protein translocase subunit SecD
+Pangenome	NA	CDS	513613	514698	.	+	0	ID=g001153;gene=xerC;product=Tyrosine recombinase XerC
+Pangenome	NA	CDS	514699	515685	.	+	0	ID=g002047;gene=prmB;product=50S ribosomal protein L3 glutamine methyltransferase
+Pangenome	NA	CDS	515686	517137	.	+	0	ID=g000822;gene=aroA;product=3-phosphoshikimate 1-carboxyvinyltransferase
+Pangenome	NA	CDS	517138	519090	.	+	0	ID=g000689_1;gene=recQ;product=ATP-dependent DNA helicase RecQ
+Pangenome	NA	CDS	519091	520122	.	+	0	ID=g001585;gene=dapD;product=2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase
+Pangenome	NA	CDS	520123	521865	.	+	0	ID=g002192;gene=pyrG;product=CTP synthase
+Pangenome	NA	CDS	521866	522708	.	+	0	ID=g001035;gene=lipB;product=Octanoyltransferase
+Pangenome	NA	CDS	522709	523929	.	+	0	ID=g002044;gene=nrdB;product=Ribonucleoside-diphosphate reductase 1 subunit beta
+Pangenome	NA	CDS	523930	524475	.	+	0	ID=g001039;gene=ybeY;product=Endoribonuclease YbeY
+Pangenome	NA	CDS	524476	525252	.	+	0	ID=g002494_1;gene=rnfA;product=Ion-translocating oxidoreductase complex subunit A
+Pangenome	NA	CDS	525253	526506	.	+	0	ID=g001994;gene=rluB;product=Ribosomal large subunit pseudouridine synthase B
+Pangenome	NA	CDS	526507	527226	.	+	0	ID=g002425;gene=pyrE;product=Orotate phosphoribosyltransferase
+Pangenome	NA	CDS	527227	528393	.	+	0	ID=g002623;gene=hemE;product=Uroporphyrinogen decarboxylase
+Pangenome	NA	CDS	528394	529554	.	+	0	ID=g000960;gene=purC;product=Phosphoribosylaminoimidazole-succinocarboxamide synthase
+Pangenome	NA	CDS	529555	531012	.	+	0	ID=g000509;gene=surA;product=Chaperone SurA
+Pangenome	NA	CDS	531013	533178	.	+	0	ID=g002128;gene=spoT;product=Guanosine-3'%2C5'-bis(diphosphate) 3'-pyrophosphohydrolase
+Pangenome	NA	CDS	533179	533808	.	+	0	ID=g002512;gene=purE;product=N5-carboxyaminoimidazole ribonucleotide mutase
+Pangenome	NA	CDS	533809	535041	.	+	0	ID=g002223;gene=cgtA;product=GTPase Obg/CgtA
+Pangenome	NA	CDS	535042	536271	.	+	0	ID=g002198_1;gene=fabB;product=3-oxoacyl-[acyl-carrier-protein] synthase 1
+Pangenome	NA	CDS	536272	536904	.	+	0	ID=g001045;gene=accB;product=Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+Pangenome	NA	CDS	536905	539034	.	+	0	ID=g001511;gene=ftsH;product=ATP-dependent zinc metalloprotease FtsH
+Pangenome	NA	CDS	539035	541635	.	+	0	ID=g002006_1;gene=clpB;product=Chaperone protein ClpB
+Pangenome	NA	CDS	541636	542547	.	+	0	ID=g000683;gene=ubiA;product=4-hydroxybenzoate octaprenyltransferase
+Pangenome	NA	CDS	542548	544461	.	+	0	ID=g000333;gene=yejM;product=Inner membrane protein YejM
+Pangenome	NA	CDS	544462	545283	.	+	0	ID=g000928_1;gene=tatC;product=Sec-independent protein translocase protein TatC
+Pangenome	NA	CDS	545284	545673	.	+	0	ID=g001896;gene=sdhE;product=FAD assembly factor SdhE
+Pangenome	NA	CDS	545674	546684	.	+	0	ID=g000585;gene=psd;product=Phosphatidylserine decarboxylase proenzyme
+Pangenome	NA	CDS	546685	547551	.	+	0	ID=g002272;gene=kdsA;product=2-dehydro-3-deoxyphosphooctonate aldolase
+Pangenome	NA	CDS	547552	548280	.	+	0	ID=g000223;gene=coaE;product=Dephospho-CoA kinase
+Pangenome	NA	CDS	548281	548550	.	+	0	ID=g003134;gene=rpsO;product=30S ribosomal protein S15
+Pangenome	NA	CDS	548551	550023	.	+	0	ID=g000775;gene=pdxB;product=Erythronate-4-phosphate dehydrogenase
+Pangenome	NA	CDS	550024	551655	.	+	0	ID=g002065_1;gene=leuA;product=2-isopropylmalate synthase
+Pangenome	NA	CDS	551656	552768	.	+	0	ID=g001993;gene=leuB;product=3-isopropylmalate dehydrogenase
+Pangenome	NA	CDS	552769	554241	.	+	0	ID=g001957_1;gene=leuC;product=3-isopropylmalate dehydratase large subunit
+Pangenome	NA	CDS	554242	554907	.	+	0	ID=g001945;gene=leuD1;product=3-isopropylmalate dehydratase small subunit 1
+Pangenome	NA	CDS	554908	556404	.	+	0	ID=g000654;gene=lysC;product=Lysine-sensitive aspartokinase 3
+Pangenome	NA	CDS	556405	557190	.	+	0	ID=g001373;gene=slyD;product=FKBP-type peptidyl-prolyl cis-trans isomerase SlyD
+Pangenome	NA	CDS	557191	559284	.	+	0	ID=g001382_1;gene=yheS;product=putative ABC transporter ATP-binding protein YheS
+Pangenome	NA	CDS	559285	561858	.	+	0	ID=g000484;gene=arcB;product=Aerobic respiration control sensor protein ArcB
+Pangenome	NA	CDS	561859	563451	.	+	0	ID=g000218_1;gene=tolC;product=Outer membrane protein TolC
+Pangenome	NA	CDS	563452	566592	.	+	0	ID=g000224;gene=glnE;product=Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+Pangenome	NA	CDS	566593	568242	.	+	0	ID=g000604;gene=ygiF;product=Inorganic triphosphatase
+Pangenome	NA	CDS	568243	569682	.	+	0	ID=g002329_1;gene=gor;product=Glutathione reductase
+Pangenome	NA	CDS	569683	570681	.	+	0	ID=g001524;gene=rlmJ;product=Ribosomal RNA large subunit methyltransferase J
+Pangenome	NA	CDS	570682	572763	.	+	0	ID=g001318;gene=prlC;product=Oligopeptidase A
+Pangenome	NA	CDS	572764	574641	.	+	0	ID=g002062_1;gene=argH;product=Argininosuccinate lyase
+Pangenome	NA	CDS	574642	575937	.	+	0	ID=g002352_1;gene=argG;product=Argininosuccinate synthase
+Pangenome	NA	CDS	575938	576801	.	+	0	ID=g001280;gene=argB;product=Acetylglutamate kinase
+Pangenome	NA	CDS	576802	579372	.	+	0	ID=g001610;gene=thrA;product=Bifunctional aspartokinase/homoserine dehydrogenase 1
+Pangenome	NA	CDS	579373	580383	.	+	0	ID=g001586;gene=thrB;product=Homoserine kinase
+Pangenome	NA	CDS	580384	581700	.	+	0	ID=g001516;gene=thrC;product=Threonine synthase
+Pangenome	NA	CDS	581701	583737	.	+	0	ID=g002190_1;gene=typA;product=GTP-binding protein TypA/BipA
+Pangenome	NA	CDS	583738	584871	.	+	0	ID=g000612;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	584872	585336	.	+	0	ID=g001108;gene=dtd;product=D-aminoacyl-tRNA deacylase
+Pangenome	NA	CDS	585337	586080	.	+	0	ID=g002411;gene=ftsE;product=Cell division ATP-binding protein FtsE
+Pangenome	NA	CDS	586081	587151	.	+	0	ID=g000803;gene=ftsX;product=Cell division protein FtsX
+Pangenome	NA	CDS	587152	588018	.	+	0	ID=g001986;gene=rpoH;product=RNA polymerase sigma factor RpoH
+Pangenome	NA	CDS	588019	589053	.	+	0	ID=g001860;gene=corC;product=Magnesium and cobalt efflux protein CorC
+Pangenome	NA	CDS	589054	590718	.	+	0	ID=g000292;gene=lnt;product=Apolipoprotein N-acyltransferase
+Pangenome	NA	CDS	590719	591777	.	+	0	ID=g001961;gene=cysK;product=Cysteine synthase A
+Pangenome	NA	CDS	591778	592170	.	+	0	ID=g001314;gene=hpf;product=Ribosome hibernation promoting factor
+Pangenome	NA	CDS	592171	593556	.	+	0	ID=g002042;gene=mgtE;product=Magnesium transporter MgtE
+Pangenome	NA	CDS	593557	594570	.	+	0	ID=g000562_1;gene=oxyR;product=Hydrogen peroxide-inducible genes activator
+Pangenome	NA	CDS	594571	595794	.	+	0	ID=g000463;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	595795	597129	.	+	0	ID=g001644;gene=ndh;product=NADH dehydrogenase
+Pangenome	NA	CDS	597130	597708	.	+	0	ID=g001136;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	597709	598896	.	+	0	ID=g000134;gene=murB;product=UDP-N-acetylenolpyruvoylglucosamine reductase
+Pangenome	NA	CDS	598897	600030	.	+	0	ID=g000316;gene=birA;product=Bifunctional ligase/repressor BirA
+Pangenome	NA	CDS	600031	601188	.	+	0	ID=g000854;gene=coaA;product=Pantothenate kinase
+Pangenome	NA	CDS	601189	602154	.	+	0	ID=g001608_1;gene=rdgC;product=Recombination-associated protein RdgC
+Pangenome	NA	CDS	602155	602844	.	+	0	ID=g003074;gene=phoB;product=Phosphate regulon transcriptional regulatory protein PhoB
+Pangenome	NA	CDS	602845	604230	.	+	0	ID=g001545;gene=phoR;product=Phosphate regulon sensor protein PhoR
+Pangenome	NA	CDS	604231	605103	.	+	0	ID=g000041_1;gene=ompR;product=Transcriptional regulatory protein OmpR
+Pangenome	NA	CDS	605104	606627	.	+	0	ID=g000725;gene=envZ;product=Osmolarity sensor protein EnvZ
+Pangenome	NA	CDS	606628	608112	.	+	0	ID=g001353;gene=pntB;product=NAD(P) transhydrogenase subunit beta
+Pangenome	NA	CDS	608113	609714	.	+	0	ID=g000745;gene=pntA;product=NAD(P) transhydrogenase subunit alpha
+Pangenome	NA	CDS	609715	612033	.	+	0	ID=g001316;gene=rlmL;product=Ribosomal RNA large subunit methyltransferase K/L
+Pangenome	NA	CDS	612034	615768	.	+	0	ID=g001177_1;gene=uup;product=ABC transporter ATP-binding protein uup
+Pangenome	NA	CDS	615769	616584	.	+	0	ID=g002000;gene=gmk;product=Guanylate kinase
+Pangenome	NA	CDS	616585	617661	.	+	0	ID=g001784;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	617662	619053	.	+	0	ID=g001544_1;gene=rarA;product=Replication-associated recombination protein A
+Pangenome	NA	CDS	619054	619767	.	+	0	ID=g000717_1;gene=lolA;product=Outer-membrane lipoprotein carrier protein
+Pangenome	NA	CDS	619768	620304	.	+	0	ID=g002452;gene=asnC;product=Regulatory protein AsnC
+Pangenome	NA	CDS	620305	621258	.	+	0	ID=g000857;gene=rsmJ;product=Ribosomal RNA small subunit methyltransferase J
+Pangenome	NA	CDS	621259	622710	.	+	0	ID=g001047_1;gene=trkI;product=Trk system potassium uptake protein TrkI
+Pangenome	NA	CDS	622711	624135	.	+	0	ID=g003022;gene=trkA;product=Trk system potassium uptake protein TrkA
+Pangenome	NA	CDS	624136	625368	.	+	0	ID=g000018_2;gene=aroF;product=Phospho-2-dehydro-3-deoxyheptonate aldolase%2C Tyr-sensitive
+Pangenome	NA	CDS	625369	626526	.	+	0	ID=g000961_1;gene=tyrA;product=T-protein
+Pangenome	NA	CDS	626527	627318	.	+	0	ID=g002931_1;gene=uvrY;product=Response regulator UvrY
+Pangenome	NA	CDS	627319	629217	.	+	0	ID=g001480;gene=uvrC;product=UvrABC system protein C
+Pangenome	NA	CDS	629218	630360	.	+	0	ID=g001481_1;gene=sapD;product=Peptide transport system ATP-binding protein SapD
+Pangenome	NA	CDS	630361	631224	.	+	0	ID=g001420;gene=sapF;product=Putrescine export system ATP-binding protein SapF
+Pangenome	NA	CDS	631225	631608	.	+	0	ID=g000204;gene=yqcC;product=hypothetical protein
+Pangenome	NA	CDS	631609	632577	.	+	0	ID=g000444;gene=truC;product=tRNA pseudouridine synthase C
+Pangenome	NA	CDS	632578	634560	.	+	0	ID=g000674;gene=cydD;product=ATP-binding/permease protein CydD
+Pangenome	NA	CDS	634561	636363	.	+	0	ID=g000627;gene=btuD;product=Vitamin B12 import ATP-binding protein BtuD
+Pangenome	NA	CDS	636364	636807	.	+	0	ID=g001638;gene=secG;product=Protein-export membrane protein SecG
+Pangenome	NA	CDS	636808	637857	.	+	0	ID=g000246_1;gene=folP;product=Dihydropteroate synthase
+Pangenome	NA	CDS	637858	639672	.	+	0	ID=g001757;gene=pckA;product=Phosphoenolpyruvate carboxykinase (ATP)
+Pangenome	NA	CDS	639673	640581	.	+	0	ID=g000613;gene=hslO;product=33 kDa chaperonin
+Pangenome	NA	CDS	640582	642975	.	+	0	ID=g000469;gene=yccS;product=Inner membrane protein YccS
+Pangenome	NA	CDS	642976	644058	.	+	0	ID=g001765;gene=rbgA;product=Ribosome biogenesis GTPase A
+Pangenome	NA	CDS	644059	645051	.	+	0	ID=g001276;gene=metAS;product=Homoserine O-succinyltransferase
+Pangenome	NA	CDS	645052	645678	.	+	0	ID=g000622;gene=sspB;product=hypothetical protein
+Pangenome	NA	CDS	645679	646554	.	+	0	ID=g001267;gene=srlR;product=Glucitol operon repressor
+Pangenome	NA	CDS	646555	647367	.	+	0	ID=g001688;gene=nagB;product=Glucosamine-6-phosphate deaminase
+Pangenome	NA	CDS	647368	648690	.	+	0	ID=g001618;gene=proB;product=Glutamate 5-kinase
+Pangenome	NA	CDS	648691	650055	.	+	0	ID=g000823;gene=proA;product=Gamma-glutamyl phosphate reductase
+Pangenome	NA	CDS	650056	650886	.	+	0	ID=g000054_1;gene=pstB;product=Phosphate import ATP-binding protein PstB
+Pangenome	NA	CDS	650887	651618	.	+	0	ID=g002024;gene=phoU;product=Phosphate-specific transport system accessory protein PhoU
+Pangenome	NA	CDS	651619	652470	.	+	0	ID=g000927;gene=yigZ;product=IMPACT family member YigZ
+Pangenome	NA	CDS	652471	653955	.	+	0	ID=g002040;gene=trkH;product=Trk system potassium uptake protein TrkH
+Pangenome	NA	CDS	653956	654420	.	+	0	ID=g002534;gene=gpt;product=Xanthine phosphoribosyltransferase
+Pangenome	NA	CDS	654421	655875	.	+	0	ID=g000655_1;gene=adeP;product=Adenine permease AdeP
+Pangenome	NA	CDS	655876	657039	.	+	0	ID=g000853;gene=ydiK;product=Putative transport protein YdiK
+Pangenome	NA	CDS	657040	658314	.	+	0	ID=g000242;gene=rsmC;product=Ribosomal RNA small subunit methyltransferase C
+Pangenome	NA	CDS	658315	660624	.	+	0	ID=g000690;gene=priA;product=Primosomal protein N'
+Pangenome	NA	CDS	660625	661797	.	+	0	ID=g001762_1;gene=cytR;product=HTH-type transcriptional repressor CytR
+Pangenome	NA	CDS	661798	663435	.	+	0	ID=g000239;gene=comM;product=Competence protein ComM
+Pangenome	NA	CDS	663436	665031	.	+	0	ID=g000821_1;gene=cydA;product=Cytochrome bd-I ubiquinol oxidase subunit 1
+Pangenome	NA	CDS	665032	666192	.	+	0	ID=g001706;gene=ansA;product=L-asparaginase 1
+Pangenome	NA	CDS	666193	668220	.	+	0	ID=g000321_1;gene=sppA;product=Protease 4
+Pangenome	NA	CDS	668221	668508	.	+	0	ID=g000295;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	668509	669087	.	+	0	ID=g000617;gene=yrdA;product=Protein YrdA
+Pangenome	NA	CDS	669088	669459	.	+	0	ID=g002454;gene=erpA;product=Iron-sulfur cluster insertion protein ErpA
+Pangenome	NA	CDS	669460	669834	.	+	0	ID=g001227;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	669835	671094	.	+	0	ID=g000277;gene=truD;product=tRNA pseudouridine synthase D
+Pangenome	NA	CDS	671095	671976	.	+	0	ID=g000761;gene=surE;product=5'-nucleotidase SurE
+Pangenome	NA	CDS	671977	672216	.	+	0	ID=g005017;gene=rpmB;product=50S ribosomal protein L28
+Pangenome	NA	CDS	672217	672387	.	+	0	ID=g005977;gene=rpmG;product=50S ribosomal protein L33
+Pangenome	NA	CDS	672388	672975	.	+	0	ID=g002553;gene=hslV;product=ATP-dependent protease subunit HslV
+Pangenome	NA	CDS	672976	674331	.	+	0	ID=g001878;gene=hslU;product=ATP-dependent protease ATPase subunit HslU
+Pangenome	NA	CDS	674332	676539	.	+	0	ID=g001875;gene=mukF;product=Chromosome partition protein MukF
+Pangenome	NA	CDS	676540	681150	.	+	0	ID=g001077;gene=mukB;product=Chromosome partition protein MukB
+Pangenome	NA	CDS	681151	681861	.	+	0	ID=g001222;gene=ribE;product=Riboflavin synthase
+Pangenome	NA	CDS	681862	682431	.	+	0	ID=g004279;gene=ribH;product=6%2C7-dimethyl-8-ribityllumazine synthase
+Pangenome	NA	CDS	682432	682908	.	+	0	ID=g003720;gene=metJ;product=Met repressor
+Pangenome	NA	CDS	682909	684228	.	+	0	ID=g000752;gene=metB;product=Cystathionine gamma-synthase
+Pangenome	NA	CDS	684229	686511	.	+	0	ID=g000651;gene=icd2;product=Isocitrate dehydrogenase [NADP] 2
+Pangenome	NA	CDS	686512	687375	.	+	0	ID=g000153;gene=rluE;product=Ribosomal large subunit pseudouridine synthase E
+Pangenome	NA	CDS	687376	687765	.	+	0	ID=g002612;gene=ihfA;product=Integration host factor subunit alpha
+Pangenome	NA	CDS	687766	690348	.	+	0	ID=g001806_1;gene=pheT;product=Phenylalanine--tRNA ligase beta subunit
+Pangenome	NA	CDS	690349	691191	.	+	0	ID=g000452;gene=rluA;product=Dual-specificity RNA pseudouridine synthase RluA
+Pangenome	NA	CDS	691192	694152	.	+	0	ID=g001538_1;gene=rapA;product=RNA polymerase-associated protein RapA
+Pangenome	NA	CDS	694153	694950	.	+	0	ID=g002677_1;gene=soj;product=Sporulation initiation inhibitor protein Soj
+Pangenome	NA	CDS	694951	695619	.	+	0	ID=g000904;gene=rsmG;product=Ribosomal RNA small subunit methyltransferase G
+Pangenome	NA	CDS	695620	697416	.	+	0	ID=g001572;gene=ilvI;product=Acetolactate synthase isozyme 3 large subunit
+Pangenome	NA	CDS	697417	697950	.	+	0	ID=g002495;gene=ilvH;product=Acetolactate synthase isozyme 3 small subunit
+Pangenome	NA	CDS	697951	698532	.	+	0	ID=g002653;gene=rpoE;product=ECF RNA polymerase sigma-E factor
+Pangenome	NA	CDS	698533	699330	.	+	0	ID=g000569;gene=rseA;product=Anti-sigma-E factor RseA
+Pangenome	NA	CDS	699331	699948	.	+	0	ID=g000408_1;gene=def1;product=Peptide deformylase 1
+Pangenome	NA	CDS	699949	700989	.	+	0	ID=g000735;gene=fmt;product=Methionyl-tRNA formyltransferase
+Pangenome	NA	CDS	700990	702252	.	+	0	ID=g000958;gene=rnd;product=Ribonuclease D
+Pangenome	NA	CDS	702253	704145	.	+	0	ID=g000671_1;gene=fadD;product=Long-chain-fatty-acid--CoA ligase
+Pangenome	NA	CDS	704146	705384	.	+	0	ID=g001548_1;gene=trpB;product=Tryptophan synthase beta chain
+Pangenome	NA	CDS	705385	706239	.	+	0	ID=g000783;gene=trpA;product=Tryptophan synthase alpha chain
+Pangenome	NA	CDS	706240	707025	.	+	0	ID=g002117;gene=trmD;product=tRNA (guanine-N(1)-)-methyltransferase
+Pangenome	NA	CDS	707026	707388	.	+	0	ID=g003550;gene=rplS;product=50S ribosomal protein L19
+Pangenome	NA	CDS	707389	708822	.	+	0	ID=g000240_1;gene=mepM;product=Murein DD-endopeptidase MepM
+Pangenome	NA	CDS	708823	710535	.	+	0	ID=g002131;gene=purH;product=Bifunctional purine biosynthesis protein PurH
+Pangenome	NA	CDS	710536	711417	.	+	0	ID=g002019_1;gene=cysE;product=Serine acetyltransferase
+Pangenome	NA	CDS	711418	712287	.	+	0	ID=g001220;gene=dapB;product=4-hydroxy-tetrahydrodipicolinate reductase
+Pangenome	NA	CDS	712288	713517	.	+	0	ID=g001520;gene=epd;product=D-erythrose-4-phosphate dehydrogenase
+Pangenome	NA	CDS	713518	715251	.	+	0	ID=g000104;gene=waaA;product=3-deoxy-D-manno-octulosonic acid transferase
+Pangenome	NA	CDS	715252	715956	.	+	0	ID=g002867_1;gene=clpP;product=ATP-dependent Clp protease proteolytic subunit
+Pangenome	NA	CDS	715957	717186	.	+	0	ID=g000303_1;gene=cydB;product=Cytochrome bd-I ubiquinol oxidase subunit 2
+Pangenome	NA	CDS	717187	717360	.	+	0	ID=g004516;gene=rpmF;product=50S ribosomal protein L32
+Pangenome	NA	CDS	717361	718392	.	+	0	ID=g000533_1;gene=mscS;product=Small-conductance mechanosensitive channel
+Pangenome	NA	CDS	718393	719610	.	+	0	ID=g000493;gene=hldD;product=ADP-L-glycero-D-manno-heptose-6-epimerase
+Pangenome	NA	CDS	719611	719979	.	+	0	ID=g002342;gene=yhbY;product=RNA-binding protein YhbY
+Pangenome	NA	CDS	719980	722757	.	+	0	ID=g000225;gene=pepN;product=Aminopeptidase N
+Pangenome	NA	CDS	722758	723378	.	+	0	ID=g004072;gene=rpsD;product=30S ribosomal protein S4
+Pangenome	NA	CDS	723379	724599	.	+	0	ID=g000348_1;gene=thiL;product=Thiamine-monophosphate kinase
+Pangenome	NA	CDS	724600	724950	.	+	0	ID=g001924;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	724951	726534	.	+	0	ID=g000697;gene=sbcB;product=Exodeoxyribonuclease I
+Pangenome	NA	CDS	726535	727980	.	+	0	ID=g001184;gene=cysQ;product=3'(2')%2C5'-bisphosphate nucleotidase CysQ
+Pangenome	NA	CDS	727981	728499	.	+	0	ID=g001795;gene=NA;product=Purine nucleoside phosphoramidase
+Pangenome	NA	CDS	728500	728934	.	+	0	ID=g001504;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	728935	729831	.	+	0	ID=g000340;gene=trmO;product=tRNA (adenine(37)-N6)-methyltransferase
+Pangenome	NA	CDS	729832	731988	.	+	0	ID=g001899_1;gene=rep;product=ATP-dependent DNA helicase Rep
+Pangenome	NA	CDS	731989	732960	.	+	0	ID=g003058;gene=hexR;product=HTH-type transcriptional regulator HexR
+Pangenome	NA	CDS	732961	734421	.	+	0	ID=g001756;gene=srmB;product=ATP-dependent RNA helicase SrmB
+Pangenome	NA	CDS	734422	735294	.	+	0	ID=g000462_1;gene=cdsA;product=Phosphatidate cytidylyltransferase
+Pangenome	NA	CDS	735295	736881	.	+	0	ID=g000653;gene=clsA;product=Cardiolipin synthase A
+Pangenome	NA	CDS	736882	742275	.	+	0	ID=g002721;gene=rpoC;product=DNA-directed RNA polymerase subunit beta'
+Pangenome	NA	CDS	742276	743550	.	+	0	ID=g000495;gene=mltB;product=Tn3 family transposase TnXax1
+Pangenome	NA	CDS	743551	744753	.	+	0	ID=g001781;gene=fbp;product=Fructose-1%2C6-bisphosphatase class 1
+Pangenome	NA	CDS	744754	745998	.	+	0	ID=g001814;gene=serA;product=D-3-phosphoglycerate dehydrogenase
+Pangenome	NA	CDS	745999	746439	.	+	0	ID=g000429;gene=tusD;product=Sulfurtransferase TusD
+Pangenome	NA	CDS	746440	748752	.	+	0	ID=g000769;gene=ptsP;product=Phosphoenolpyruvate-dependent phosphotransferase system
+Pangenome	NA	CDS	748753	749505	.	+	0	ID=g000213;gene=tadA;product=tRNA-specific adenosine deaminase
+Pangenome	NA	CDS	749506	750996	.	+	0	ID=g002481;gene=ilvC;product=Ketol-acid reductoisomerase (NADP(+))
+Pangenome	NA	CDS	750997	752253	.	+	0	ID=g000314;gene=lpxM;product=Lipid A biosynthesis myristoyltransferase
+Pangenome	NA	CDS	752254	753072	.	+	0	ID=g000139;gene=ygfA;product=5-formyltetrahydrofolate cyclo-ligase
+Pangenome	NA	CDS	753073	754305	.	+	0	ID=g001357;gene=nagC;product=N-acetylglucosamine repressor
+Pangenome	NA	CDS	754306	755085	.	+	0	ID=g000807;gene=zapD;product=Cell division protein ZapD
+Pangenome	NA	CDS	755086	757059	.	+	0	ID=g000226;gene=tamA;product=Translocation and assembly module subunit TamA
+Pangenome	NA	CDS	757060	757896	.	+	0	ID=g000236;gene=yhdE;product=dTTP/UTP pyrophosphatase
+Pangenome	NA	CDS	757897	760575	.	+	0	ID=g000264_1;gene=lpoA;product=Penicillin-binding protein activator LpoA
+Pangenome	NA	CDS	760576	761274	.	+	0	ID=g001944;gene=yciO;product=putative protein YciO
+Pangenome	NA	CDS	761275	761964	.	+	0	ID=g000537;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	761965	762648	.	+	0	ID=g001713;gene=apt;product=Adenine phosphoribosyltransferase
+Pangenome	NA	CDS	762649	763554	.	+	0	ID=g002203;gene=udk;product=Uridine kinase
+Pangenome	NA	CDS	763555	765258	.	+	0	ID=g001264;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	765259	765828	.	+	0	ID=g000327;gene=pncC;product=Nicotinamide-nucleotide amidohydrolase PncC
+Pangenome	NA	CDS	765829	766251	.	+	0	ID=g002278;gene=clpS;product=ATP-dependent Clp protease adapter protein ClpS
+Pangenome	NA	CDS	766252	767802	.	+	0	ID=g000403;gene=coaBC;product=Coenzyme A biosynthesis bifunctional protein CoaBC
+Pangenome	NA	CDS	767803	768510	.	+	0	ID=g000867;gene=ubiJ;product=Ubiquinone biosynthesis accessory factor UbiJ
+Pangenome	NA	CDS	768511	768897	.	+	0	ID=g005509;gene=rplQ;product=50S ribosomal protein L17
+Pangenome	NA	CDS	768898	769491	.	+	0	ID=g003844;gene=rpsI;product=30S ribosomal protein S9
+Pangenome	NA	CDS	769492	773571	.	+	0	ID=g000820;gene=aceF;product=Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+Pangenome	NA	CDS	773572	774033	.	+	0	ID=g002241;gene=grxD;product=Glutaredoxin 4
+Pangenome	NA	CDS	774034	774897	.	+	0	ID=g001159;gene=rsmE;product=Ribosomal RNA small subunit methyltransferase E
+Pangenome	NA	CDS	774898	775596	.	+	0	ID=g000718;gene=yihI;product=Der GTPase-activating protein YihI
+Pangenome	NA	CDS	775597	776466	.	+	0	ID=g000422;gene=proC;product=Pyrroline-5-carboxylate reductase
+Pangenome	NA	CDS	776467	777315	.	+	0	ID=g000924;gene=yaaA;product=Peroxide stress resistance protein YaaA
+Pangenome	NA	CDS	777316	778629	.	+	0	ID=g001118_1;gene=aruC;product=Succinylornithine transaminase/acetylornithine aminotransferase
+Pangenome	NA	CDS	778630	779388	.	+	0	ID=g000892;gene=gloC;product=Hydroxyacylglutathione hydrolase GloC
+Pangenome	NA	CDS	779389	781119	.	+	0	ID=g002616_1;gene=ettA;product=Energy-dependent translational throttle protein EttA
+Pangenome	NA	CDS	781120	784137	.	+	0	ID=g000003_1;gene=barA;product=Signal transduction histidine-protein kinase BarA
+Pangenome	NA	CDS	784138	784782	.	+	0	ID=g000271;gene=rimI;product=[Ribosomal protein S18]-alanine N-acetyltransferase
+Pangenome	NA	CDS	784783	786627	.	+	0	ID=g001297;gene=yidC;product=Membrane protein insertase YidC
+Pangenome	NA	CDS	786628	787329	.	+	0	ID=g000426;gene=nudF;product=ADP-ribose pyrophosphatase
+Pangenome	NA	CDS	787330	788127	.	+	0	ID=g001406_1;gene=panB;product=3-methyl-2-oxobutanoate hydroxymethyltransferase
+Pangenome	NA	CDS	788128	790092	.	+	0	ID=g000879;gene=cysJ;product=Sulfite reductase [NADPH] flavoprotein alpha-component
+Pangenome	NA	CDS	790093	793353	.	+	0	ID=g002614;gene=carB;product=Carbamoyl-phosphate synthase large chain
+Pangenome	NA	CDS	793354	794553	.	+	0	ID=g001050_1;gene=glpX;product=Fructose-1%2C6-bisphosphatase 1 class 2
+Pangenome	NA	CDS	794554	795432	.	+	0	ID=g000760_1;gene=bamD;product=Outer membrane protein assembly factor BamD
+Pangenome	NA	CDS	795433	796230	.	+	0	ID=g001891;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	796231	797187	.	+	0	ID=g000564;gene=trmJ;product=tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ
+Pangenome	NA	CDS	797188	798594	.	+	0	ID=g000529;gene=hcaT;product=putative 3-phenylpropionic acid transporter
+Pangenome	NA	CDS	798595	799260	.	+	0	ID=g001066;gene=rraA;product=Regulator of ribonuclease activity A
+Pangenome	NA	CDS	799261	800076	.	+	0	ID=g000235;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	800077	802767	.	+	0	ID=g000815;gene=glnD;product=Bifunctional uridylyltransferase/uridylyl-removing enzyme
+Pangenome	NA	CDS	802768	805866	.	+	0	ID=g000331;gene=ptrA;product=Protease 3
+Pangenome	NA	CDS	805867	806625	.	+	0	ID=g000614_1;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	806626	807672	.	+	0	ID=g001816;gene=hisG;product=ATP phosphoribosyltransferase
+Pangenome	NA	CDS	807673	809379	.	+	0	ID=g000577;gene=bepA;product=Beta-barrel assembly-enhancing protease
+Pangenome	NA	CDS	809380	810648	.	+	0	ID=g001838;gene=ybeZ;product=PhoH-like protein
+Pangenome	NA	CDS	810649	810960	.	+	0	ID=g003941;gene=rplW;product=50S ribosomal protein L23
+Pangenome	NA	CDS	810961	811776	.	+	0	ID=g000713;gene=kdsB;product=3-deoxy-manno-octulosonate cytidylyltransferase
+Pangenome	NA	CDS	811777	814776	.	+	0	ID=g001081;gene=polA;product=DNA polymerase I
+Pangenome	NA	CDS	814777	815868	.	+	0	ID=g003748;gene=prs;product=Ribose-phosphate pyrophosphokinase
+Pangenome	NA	CDS	815869	816822	.	+	0	ID=g000159;gene=pabC;product=Aminodeoxychorismate lyase
+Pangenome	NA	CDS	816823	817290	.	+	0	ID=g000137_1;gene=ridA;product=RutC family protein
+Pangenome	NA	CDS	817291	820248	.	+	0	ID=g001568_1;gene=uvrA;product=UvrABC system protein A
+Pangenome	NA	CDS	820249	821031	.	+	0	ID=g001002;gene=gph;product=Phosphoglycolate phosphatase
+Pangenome	NA	CDS	821032	821466	.	+	0	ID=g002400;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	821467	823287	.	+	0	ID=g000603;gene=trpE;product=Anthranilate synthase component 1
+Pangenome	NA	CDS	823288	824100	.	+	0	ID=g001060;gene=nqrC;product=Na(+)-translocating NADH-quinone reductase subunit C
+Pangenome	NA	CDS	824101	825414	.	+	0	ID=g001456;gene=queA;product=S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+Pangenome	NA	CDS	825415	826533	.	+	0	ID=g001522;gene=nadA;product=Quinolinate synthase A
+Pangenome	NA	CDS	826534	827418	.	+	0	ID=g000566_1;gene=ssb;product=Single-stranded DNA-binding protein
+Pangenome	NA	CDS	827419	829476	.	+	0	ID=g000289;gene=mltF;product=Membrane-bound lytic murein transglycosylase F
+Pangenome	NA	CDS	829477	832164	.	+	0	ID=g001507;gene=ppc;product=Phosphoenolpyruvate carboxylase
+Pangenome	NA	CDS	832165	832530	.	+	0	ID=g000357;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	832531	833964	.	+	0	ID=g001901;gene=rhlB;product=ATP-dependent RNA helicase RhlB
+Pangenome	NA	CDS	833965	834912	.	+	0	ID=g001364_1;gene=prmA;product=Ribosomal protein L11 methyltransferase
+Pangenome	NA	CDS	834913	835665	.	+	0	ID=g001589_1;gene=tdk;product=Thymidine kinase
+Pangenome	NA	CDS	835666	836388	.	+	0	ID=g001336_1;gene=folE;product=GTP cyclohydrolase 1
+Pangenome	NA	CDS	836389	839001	.	+	0	ID=g001046;gene=yhgF;product=Protein YhgF
+Pangenome	NA	CDS	839002	840561	.	+	0	ID=g000045_1;gene=nupX;product=Putative nucleoside permease NupX
+Pangenome	NA	CDS	840562	843300	.	+	0	ID=g000297;gene=pstC1;product=hypothetical protein
+Pangenome	NA	CDS	843301	845895	.	+	0	ID=g000286_1;gene=mrcB;product=Penicillin-binding protein 1B
+Pangenome	NA	CDS	845896	847878	.	+	0	ID=g000096_1;gene=mrdA;product=Peptidoglycan D%2CD-transpeptidase MrdA
+Pangenome	NA	CDS	847879	848163	.	+	0	ID=g003178;gene=rpsT;product=30S ribosomal protein S20
+Pangenome	NA	CDS	848164	849666	.	+	0	ID=g001183;gene=avtA;product=Valine--pyruvate aminotransferase
+Pangenome	NA	CDS	849667	850533	.	+	0	ID=g000997;gene=yafJ;product=Putative glutamine amidotransferase YafJ
+Pangenome	NA	CDS	850534	850878	.	+	0	ID=g001828_1;gene=glnB;product=Nitrogen regulatory protein P-II
+Pangenome	NA	CDS	850879	851649	.	+	0	ID=g000319;gene=queC;product=7-cyano-7-deazaguanine synthase
+Pangenome	NA	CDS	851650	854028	.	+	0	ID=g000110;gene=mnmC;product=tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+Pangenome	NA	CDS	854029	854835	.	+	0	ID=g001978;gene=yeeN;product=putative transcriptional regulatory protein YeeN
+Pangenome	NA	CDS	854836	855147	.	+	0	ID=g014519;gene=rpsJ;product=30S ribosomal protein S10
+Pangenome	NA	CDS	855148	855618	.	+	0	ID=g005786;gene=rpsG;product=30S ribosomal protein S7
+Pangenome	NA	CDS	855619	857646	.	+	0	ID=g001320;gene=radD;product=Putative DNA repair helicase RadD
+Pangenome	NA	CDS	857647	858300	.	+	0	ID=g000025_1;gene=ppiB;product=Peptidyl-prolyl cis-trans isomerase B
+Pangenome	NA	CDS	858301	859605	.	+	0	ID=g000579_1;gene=ubiI;product=2-octaprenylphenol hydroxylase
+Pangenome	NA	CDS	859606	860772	.	+	0	ID=g000701;gene=dusA;product=tRNA-dihydrouridine(20/20a) synthase
+Pangenome	NA	CDS	860773	861498	.	+	0	ID=g000372;gene=bpt;product=Aspartate/glutamate leucyltransferase
+Pangenome	NA	CDS	861499	862854	.	+	0	ID=g002675;gene=ftsA;product=Cell division protein FtsA
+Pangenome	NA	CDS	862855	863886	.	+	0	ID=g001332;gene=tesB;product=Acyl-CoA thioesterase 2
+Pangenome	NA	CDS	863887	864684	.	+	0	ID=g002921;gene=ahpC;product=Alkyl hydroperoxide reductase C
+Pangenome	NA	CDS	864685	865737	.	+	0	ID=g001028;gene=pyrC;product=Dihydroorotase
+Pangenome	NA	CDS	865738	867732	.	+	0	ID=g002559;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	867733	868719	.	+	0	ID=g000681;gene=sopB;product=hypothetical protein
+Pangenome	NA	CDS	868720	870852	.	+	0	ID=g001723;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	870853	871389	.	+	0	ID=g002076;gene=ftnA;product=putative bacterial non-heme ferritin
+Pangenome	NA	CDS	871390	872397	.	+	0	ID=g003091;gene=gapA;product=Glyceraldehyde-3-phosphate dehydrogenase A
+Pangenome	NA	CDS	872398	872841	.	+	0	ID=g001074;gene=yqeY;product=putative protein YqeY
+Pangenome	NA	CDS	872842	874581	.	+	0	ID=g001231;gene=recN;product=DNA repair protein RecN
+Pangenome	NA	CDS	874582	875976	.	+	0	ID=g001326;gene=ppnN;product=Pyrimidine/purine nucleotide 5'-monophosphate nucleosidase
+Pangenome	NA	CDS	875977	877044	.	+	0	ID=g000586;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	877045	877545	.	+	0	ID=g002589_1;gene=nrdR;product=Transcriptional repressor NrdR
+Pangenome	NA	CDS	877546	878481	.	+	0	ID=g000736;gene=djlA;product=Co-chaperone protein DjlA
+Pangenome	NA	CDS	878482	879339	.	+	0	ID=g000176;gene=yecM;product=Protein YecM
+Pangenome	NA	CDS	879340	880119	.	+	0	ID=g002602;gene=argR;product=Arginine repressor
+Pangenome	NA	CDS	880120	881430	.	+	0	ID=g001780;gene=hflX;product=GTPase HflX
+Pangenome	NA	CDS	881431	882375	.	+	0	ID=g002355_1;gene=pdhR;product=Pyruvate dehydrogenase complex repressor
+Pangenome	NA	CDS	882376	882993	.	+	0	ID=g000895;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	882994	884313	.	+	0	ID=g000293;gene=queG;product=Epoxyqueuosine reductase
+Pangenome	NA	CDS	884314	885144	.	+	0	ID=g000840;gene=gloB;product=Hydroxyacylglutathione hydrolase
+Pangenome	NA	CDS	885145	886335	.	+	0	ID=g000964;gene=uspE;product=Universal stress protein E
+Pangenome	NA	CDS	886336	887025	.	+	0	ID=g001656;gene=rnfB;product=Ion-translocating oxidoreductase complex subunit B
+Pangenome	NA	CDS	887026	888291	.	+	0	ID=g000963;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	888292	889974	.	+	0	ID=g002155;gene=asnB;product=Asparagine synthetase B [glutamine-hydrolyzing]
+Pangenome	NA	CDS	889975	891486	.	+	0	ID=g000443;gene=ycjX;product=putative protein YcjX
+Pangenome	NA	CDS	891487	892824	.	+	0	ID=g000581_1;gene=glyA;product=Serine hydroxymethyltransferase
+Pangenome	NA	CDS	892825	894810	.	+	0	ID=g000414;gene=ppiD;product=Peptidyl-prolyl cis-trans isomerase D
+Pangenome	NA	CDS	894811	895359	.	+	0	ID=g001599;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	895360	896706	.	+	0	ID=g002013;gene=kbl;product=2-amino-3-ketobutyrate coenzyme A ligase
+Pangenome	NA	CDS	896707	897495	.	+	0	ID=g002943;gene=upp;product=Uracil phosphoribosyltransferase
+Pangenome	NA	CDS	897496	898911	.	+	0	ID=g000337;gene=envC;product=Murein hydrolase activator EnvC
+Pangenome	NA	CDS	898912	900585	.	+	0	ID=g002083;gene=pgi;product=Glucose-6-phosphate isomerase
+Pangenome	NA	CDS	900586	901326	.	+	0	ID=g001132;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	901327	901671	.	+	0	ID=g001415_1;gene=tusA;product=Sulfur carrier protein TusA
+Pangenome	NA	CDS	901672	903114	.	+	0	ID=g001299;gene=hisD;product=Histidinol dehydrogenase
+Pangenome	NA	CDS	903115	904260	.	+	0	ID=g001089;gene=hisC;product=Histidinol-phosphate aminotransferase
+Pangenome	NA	CDS	904261	905421	.	+	0	ID=g001991;gene=hisB;product=Histidine biosynthesis bifunctional protein HisB
+Pangenome	NA	CDS	905422	906144	.	+	0	ID=g001654;gene=hisH;product=Imidazole glycerol phosphate synthase subunit HisH
+Pangenome	NA	CDS	906145	906891	.	+	0	ID=g002398;gene=hisA;product=1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+Pangenome	NA	CDS	906892	907680	.	+	0	ID=g002570;gene=hisF;product=Imidazole glycerol phosphate synthase subunit HisF
+Pangenome	NA	CDS	907681	908400	.	+	0	ID=g001371;gene=hisI;product=Histidine biosynthesis bifunctional protein HisIE
+Pangenome	NA	CDS	908401	908964	.	+	0	ID=g000501;gene=hemG;product=Protoporphyrinogen IX dehydrogenase [menaquinone]
+Pangenome	NA	CDS	908965	911616	.	+	0	ID=g001014;gene=plsB;product=Glycerol-3-phosphate acyltransferase
+Pangenome	NA	CDS	911617	912258	.	+	0	ID=g002233;gene=lexA;product=LexA repressor
+Pangenome	NA	CDS	912259	913125	.	+	0	ID=g002423;gene=fabR;product=HTH-type transcriptional repressor FabR
+Pangenome	NA	CDS	913126	913470	.	+	0	ID=g003985;gene=rplV;product=50S ribosomal protein L22
+Pangenome	NA	CDS	913471	914181	.	+	0	ID=g004975;gene=rpsC;product=30S ribosomal protein S3
+Pangenome	NA	CDS	914182	914595	.	+	0	ID=g005506;gene=rplP;product=50S ribosomal protein L16
+Pangenome	NA	CDS	914596	914868	.	+	0	ID=g002374;gene=rpsQ;product=30S ribosomal protein S17
+Pangenome	NA	CDS	914869	915360	.	+	0	ID=g001747;gene=ptsN;product=Nitrogen regulatory protein
+Pangenome	NA	CDS	915361	916305	.	+	0	ID=g000781;gene=rapZ;product=RNase adapter protein RapZ
+Pangenome	NA	CDS	916306	916677	.	+	0	ID=g001110;gene=ptsO;product=Phosphocarrier protein NPr
+Pangenome	NA	CDS	916678	917028	.	+	0	ID=g002059;gene=sdhD;product=Succinate dehydrogenase hydrophobic membrane anchor subunit
+Pangenome	NA	CDS	917029	918798	.	+	0	ID=g002477;gene=sdhA;product=Succinate dehydrogenase flavoprotein subunit
+Pangenome	NA	CDS	918799	919521	.	+	0	ID=g002230;gene=sdhB;product=Succinate dehydrogenase iron-sulfur subunit
+Pangenome	NA	CDS	919522	919935	.	+	0	ID=g002862_1;gene=iscU;product=Iron-sulfur cluster assembly scaffold protein IscU
+Pangenome	NA	CDS	919936	920316	.	+	0	ID=g002430;gene=iscA;product=Iron-binding protein IscA
+Pangenome	NA	CDS	920317	920865	.	+	0	ID=g000834;gene=hscB;product=Co-chaperone protein HscB 
+Pangenome	NA	CDS	920866	921915	.	+	0	ID=g001625;gene=fabD;product=Malonyl CoA-acyl carrier protein transacylase
+Pangenome	NA	CDS	921916	922701	.	+	0	ID=g002531;gene=fabG;product=3-oxoacyl-[acyl-carrier-protein] reductase FabG
+Pangenome	NA	CDS	922702	923010	.	+	0	ID=g005966;gene=acpP;product=Acyl carrier protein
+Pangenome	NA	CDS	923011	923340	.	+	0	ID=g002244;gene=ilvM;product=Acetolactate synthase isozyme 2 small subunit
+Pangenome	NA	CDS	923341	925203	.	+	0	ID=g002130;gene=ilvD;product=Dihydroxy-acid dehydratase
+Pangenome	NA	CDS	925204	925509	.	+	0	ID=g002260;gene=ihfB;product=Integration host factor subunit beta
+Pangenome	NA	CDS	925510	926013	.	+	0	ID=g000793;gene=lapA;product=Lipopolysaccharide assembly protein A
+Pangenome	NA	CDS	926014	927558	.	+	0	ID=g001181;gene=cshA;product=DEAD-box ATP-dependent RNA helicase CshA
+Pangenome	NA	CDS	927559	929592	.	+	0	ID=g000437_1;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	929593	930969	.	+	0	ID=g001729;gene=argE;product=Acetylornithine deacetylase
+Pangenome	NA	CDS	930970	932076	.	+	0	ID=g000993;gene=argC;product=N-acetyl-gamma-glutamyl-phosphate reductase
+Pangenome	NA	CDS	932077	933600	.	+	0	ID=g001117;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	933601	934662	.	+	0	ID=g001331;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	934663	935004	.	+	0	ID=g001695;gene=uspB;product=Universal stress protein B
+Pangenome	NA	CDS	935005	936321	.	+	0	ID=g000531_1;gene=NA;product=putative protein
+Pangenome	NA	CDS	936322	937278	.	+	0	ID=g000587;gene=yigL;product=Pyridoxal phosphate phosphatase YigL
+Pangenome	NA	CDS	937279	938439	.	+	0	ID=g000279;gene=pldB;product=Lysophospholipase L2
+Pangenome	NA	CDS	938440	939612	.	+	0	ID=g001213_1;gene=yejK;product=Nucleoid-associated protein YejK
+Pangenome	NA	CDS	939613	939864	.	+	0	ID=g001952;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	939865	940488	.	+	0	ID=g001553_1;gene=pal;product=Peptidoglycan-associated lipoprotein
+Pangenome	NA	CDS	940489	941574	.	+	0	ID=g000757;gene=cpoB;product=Cell division coordinator CpoB
+Pangenome	NA	CDS	941575	942051	.	+	0	ID=g001475;gene=rsfS;product=Ribosomal silencing factor RsfS
+Pangenome	NA	CDS	942052	942636	.	+	0	ID=g002669;gene=rlmH;product=Ribosomal RNA large subunit methyltransferase H
+Pangenome	NA	CDS	942637	942873	.	+	0	ID=g001175;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	942874	944529	.	+	0	ID=g001388_1;gene=alsT;product=Amino-acid carrier protein AlsT
+Pangenome	NA	CDS	944530	945342	.	+	0	ID=g001000;gene=rsuA;product=Ribosomal small subunit pseudouridine synthase A
+Pangenome	NA	CDS	945343	946644	.	+	0	ID=g000848_1;gene=bcr;product=Bicyclomycin resistance protein
+Pangenome	NA	CDS	946645	947778	.	+	0	ID=g000905_1;gene=yadG;product=putative ABC transporter ATP-binding protein YadG
+Pangenome	NA	CDS	947779	948555	.	+	0	ID=g001866;gene=yadH;product=Inner membrane transport permease YadH
+Pangenome	NA	CDS	948556	949005	.	+	0	ID=g001717;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	949006	949944	.	+	0	ID=g000447;gene=NA;product=putative ketoamine kinase
+Pangenome	NA	CDS	949945	951135	.	+	0	ID=g001186;gene=pyrD;product=Dihydroorotate dehydrogenase (quinone)
+Pangenome	NA	CDS	951136	956187	.	+	0	ID=g001044_1;gene=gdh;product=NAD-specific glutamate dehydrogenase
+Pangenome	NA	CDS	956188	960891	.	+	0	ID=g000391_1;gene=recB;product=RecBCD enzyme subunit RecB
+Pangenome	NA	CDS	960892	965301	.	+	0	ID=g000392_1;gene=recC;product=RecBCD enzyme subunit RecC
+Pangenome	NA	CDS	965302	965742	.	+	0	ID=g001828_2;gene=glnB;product=Nitrogen regulatory protein P-II
+Pangenome	NA	CDS	965743	966981	.	+	0	ID=g001933_1;gene=amtB;product=Ammonia channel
+Pangenome	NA	CDS	966982	967632	.	+	0	ID=g003437;gene=rplM;product=50S ribosomal protein L13
+Pangenome	NA	CDS	967633	968166	.	+	0	ID=g000503;gene=yhcB;product=Inner membrane protein YhcB
+Pangenome	NA	CDS	968167	968736	.	+	0	ID=g001338;gene=orn;product=Oligoribonuclease
+Pangenome	NA	CDS	968737	969960	.	+	0	ID=g001269;gene=rsgA;product=Small ribosomal subunit biogenesis GTPase RsgA
+Pangenome	NA	CDS	969961	971736	.	+	0	ID=g001422_1;gene=cysI;product=Sulfite reductase [NADPH] hemoprotein beta-component
+Pangenome	NA	CDS	971737	972600	.	+	0	ID=g000858;gene=cysH;product=Phosphoadenosine phosphosulfate reductase
+Pangenome	NA	CDS	972601	973131	.	+	0	ID=g003119;gene=infC;product=Translation initiation factor IF-3
+Pangenome	NA	CDS	973132	973326	.	+	0	ID=g003453_1;gene=rpmI;product=50S ribosomal protein L35
+Pangenome	NA	CDS	973327	975450	.	+	0	ID=g000249_1;gene=walR;product=Transcriptional regulatory protein WalR
+Pangenome	NA	CDS	975451	975972	.	+	0	ID=g001471;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	975973	977070	.	+	0	ID=g000779;gene=menA;product=1%2C4-dihydroxy-2-naphthoate octaprenyltransferase
+Pangenome	NA	CDS	977071	977643	.	+	0	ID=g001772;gene=trmL;product=tRNA (cytidine(34)-2'-O)-methyltransferase
+Pangenome	NA	CDS	977644	978072	.	+	0	ID=g000376;gene=yffB;product=Protein YffB
+Pangenome	NA	CDS	978073	980796	.	+	0	ID=g002303;gene=aceE;product=Pyruvate dehydrogenase E1 component
+Pangenome	NA	CDS	980797	982953	.	+	0	ID=g000094_2;gene=fusA;product=Elongation factor G
+Pangenome	NA	CDS	982954	983586	.	+	0	ID=g001309;gene=NA;product=putative protein
+Pangenome	NA	CDS	983587	984501	.	+	0	ID=g000318;gene=mutM;product=Formamidopyrimidine-DNA glycosylase
+Pangenome	NA	CDS	984502	985173	.	+	0	ID=g000025_2;gene=ppiA;product=Peptidyl-prolyl cis-trans isomerase A
+Pangenome	NA	CDS	985174	985713	.	+	0	ID=g000573_1;gene=tatB;product=Sec-independent protein translocase protein TatB
+Pangenome	NA	CDS	985714	988431	.	+	0	ID=g000178;gene=polB;product=DNA polymerase II
+Pangenome	NA	CDS	988432	989091	.	+	0	ID=g000299;gene=mioC;product=Protein MioC
+Pangenome	NA	CDS	989092	989646	.	+	0	ID=g001071_1;gene=ibpA;product=Small heat shock protein IbpA
+Pangenome	NA	CDS	989647	990423	.	+	0	ID=g000504_1;gene=topA;product=DNA topoisomerase 1
+Pangenome	NA	CDS	990424	991356	.	+	0	ID=g000353;gene=rluC;product=hypothetical protein
+Pangenome	NA	CDS	991357	991836	.	+	0	ID=g000539_1;gene=tolR;product=Tol-Pal system protein TolR
+Pangenome	NA	CDS	991837	992289	.	+	0	ID=g002186;gene=rplI;product=50S ribosomal protein L9
+Pangenome	NA	CDS	992290	993234	.	+	0	ID=g000516;gene=cdd;product=Cytidine deaminase
+Pangenome	NA	CDS	993235	993792	.	+	0	ID=g001103;gene=matP;product=Macrodomain Ter protein
+Pangenome	NA	CDS	993793	994923	.	+	0	ID=g002199;gene=tdh;product=L-threonine 3-dehydrogenase
+Pangenome	NA	CDS	994924	996330	.	+	0	ID=g002482_1;gene=atpD;product=ATP synthase subunit beta
+Pangenome	NA	CDS	996331	996870	.	+	0	ID=g001691;gene=rraB;product=Regulator of ribonuclease activity B
+Pangenome	NA	CDS	996871	997932	.	+	0	ID=g000102_1;gene=gcvA;product=Glycine cleavage system transcriptional activator
+Pangenome	NA	CDS	997933	998271	.	+	0	ID=g003450;gene=ybaB;product=Nucleoid-associated protein YbaB
+Pangenome	NA	CDS	998272	998763	.	+	0	ID=g000792;gene=cidA;product=hypothetical protein
+Pangenome	NA	CDS	998764	999456	.	+	0	ID=g000481;gene=sixA;product=Phosphohistidine phosphatase SixA
+Pangenome	NA	CDS	999457	1000698	.	+	0	ID=g001430;gene=trmA;product=tRNA/tmRNA (uracil-C(5))-methyltransferase
+Pangenome	NA	CDS	1000699	1002129	.	+	0	ID=g000071;gene=garK;product=Glycerate 2-kinase
+Pangenome	NA	CDS	1002130	1003296	.	+	0	ID=g000702;gene=rseB;product=Sigma-E factor regulatory protein RseB
+Pangenome	NA	CDS	1003297	1003971	.	+	0	ID=g000284;gene=NA;product=Inosine/xanthosine triphosphatase
+Pangenome	NA	CDS	1003972	1005339	.	+	0	ID=g001546;gene=lysA;product=Diaminopimelate decarboxylase
+Pangenome	NA	CDS	1005340	1006134	.	+	0	ID=g001689;gene=yhhQ;product=Queuosine precursor transporter
+Pangenome	NA	CDS	1006135	1006731	.	+	0	ID=g000790;gene=ybgC;product=Acyl-CoA thioester hydrolase YbgC
+Pangenome	NA	CDS	1006732	1008909	.	+	0	ID=g001347_1;gene=uvrB;product=UvrABC system protein B
+Pangenome	NA	CDS	1008910	1009752	.	+	0	ID=g000214;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1009753	1010529	.	+	0	ID=g000449_1;gene=cobB;product=NAD-dependent protein deacylase
+Pangenome	NA	CDS	1010530	1011135	.	+	0	ID=g000325;gene=sprT;product=Protein SprT
+Pangenome	NA	CDS	1011136	1012101	.	+	0	ID=g000782;gene=ftsQ;product=Cell division protein FtsQ
+Pangenome	NA	CDS	1012102	1012836	.	+	0	ID=g002699;gene=arcA;product=Aerobic respiration control protein ArcA
+Pangenome	NA	CDS	1012837	1013934	.	+	0	ID=g000048_1;gene=purR;product=HTH-type transcriptional repressor PurR
+Pangenome	NA	CDS	1013935	1015623	.	+	0	ID=g000227_1;gene=murF;product=UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+Pangenome	NA	CDS	1015624	1016217	.	+	0	ID=g002144;gene=lpoB;product=Penicillin-binding protein activator LpoB
+Pangenome	NA	CDS	1016218	1017525	.	+	0	ID=g000483;gene=rssB;product=Regulator of RpoS
+Pangenome	NA	CDS	1017526	1020879	.	+	0	ID=g000431;gene=NA;product=putative protein
+Pangenome	NA	CDS	1020880	1022532	.	+	0	ID=g001019;gene=tyrR;product=Transcriptional regulatory protein TyrR
+Pangenome	NA	CDS	1022533	1024317	.	+	0	ID=g000136;gene=dacB;product=D-alanyl-D-alanine carboxypeptidase DacB
+Pangenome	NA	CDS	1024318	1025040	.	+	0	ID=g001197_1;gene=mtnN;product=5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+Pangenome	NA	CDS	1025041	1026411	.	+	0	ID=g001547;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1026412	1026624	.	+	0	ID=g000976;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1026625	1028115	.	+	0	ID=g001179;gene=dbpA;product=ATP-dependent RNA helicase DbpA
+Pangenome	NA	CDS	1028116	1030017	.	+	0	ID=g000798_1;gene=kefC;product=Glutathione-regulated potassium-efflux system protein KefC
+Pangenome	NA	CDS	1030018	1031010	.	+	0	ID=g000487;gene=aroE;product=Shikimate dehydrogenase (NADP(+))
+Pangenome	NA	CDS	1031011	1032216	.	+	0	ID=g002418;gene=carA;product=Carbamoyl-phosphate synthase small chain
+Pangenome	NA	CDS	1032217	1033626	.	+	0	ID=g002802;gene=glnA;product=Glutamine synthetase
+Pangenome	NA	CDS	1033627	1034373	.	+	0	ID=g001845;gene=hpt;product=Hypoxanthine phosphoribosyltransferase
+Pangenome	NA	CDS	1034374	1034715	.	+	0	ID=g001803;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1034716	1035705	.	+	0	ID=g000707;gene=parB;product=putative chromosome-partitioning protein ParB
+Pangenome	NA	CDS	1035706	1036494	.	+	0	ID=g002664;gene=udp;product=Uridine phosphorylase
+Pangenome	NA	CDS	1036495	1037178	.	+	0	ID=g001596;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1037179	1040154	.	+	0	ID=g000466;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1040155	1044774	.	+	0	ID=g000115;gene=tamB;product=Translocation and assembly module subunit TamB
+Pangenome	NA	CDS	1044775	1046115	.	+	0	ID=g001119;gene=rlmI;product=Ribosomal RNA large subunit methyltransferase I
+Pangenome	NA	CDS	1046116	1046697	.	+	0	ID=g001289;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1046698	1050813	.	+	0	ID=g002929_1;gene=rpoB;product=DNA-directed RNA polymerase subunit beta
+Pangenome	NA	CDS	1050814	1052202	.	+	0	ID=g002043;gene=parA;product=Plasmid partition protein A
+Pangenome	NA	CDS	1052203	1053342	.	+	0	ID=g000635_1;gene=dusC;product=tRNA-dihydrouridine(16) synthase
+Pangenome	NA	CDS	1053343	1054236	.	+	0	ID=g000130;gene=kdkA;product=3-deoxy-D-manno-octulosonic acid kinase
+Pangenome	NA	CDS	1054237	1055976	.	+	0	ID=g000312;gene=cpxA;product=Sensor histidine kinase CpxA
+Pangenome	NA	CDS	1055977	1057662	.	+	0	ID=g001778_1;gene=groL;product=60 kDa chaperonin
+Pangenome	NA	CDS	1057663	1059063	.	+	0	ID=g000207;gene=ubiH;product=2-octaprenyl-6-methoxyphenol hydroxylase
+Pangenome	NA	CDS	1059064	1060092	.	+	0	ID=g000513;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1060093	1060770	.	+	0	ID=g001114_1;gene=bceA;product=putative ABC transporter ATP-binding protein
+Pangenome	NA	CDS	1060771	1061013	.	+	0	ID=g000020_1;gene=cspD;product=Cold shock-like protein CspD
+Pangenome	NA	CDS	1061014	1061727	.	+	0	ID=g000168;gene=yceF;product=7-methyl-GTP pyrophosphatase
+Pangenome	NA	CDS	1061728	1063932	.	+	0	ID=g001509;gene=yoaA;product=putative ATP-dependent DNA helicase YoaA
+Pangenome	NA	CDS	1063933	1064616	.	+	0	ID=g001099_1;gene=btuR;product=Corrinoid adenosyltransferase
+Pangenome	NA	CDS	1064617	1065630	.	+	0	ID=g001736;gene=asd2;product=Aspartate-semialdehyde dehydrogenase 2
+Pangenome	NA	CDS	1065631	1067937	.	+	0	ID=g000298;gene=pilQ;product=Type IV pilus biogenesis and competence protein PilQ
+Pangenome	NA	CDS	1067938	1068903	.	+	0	ID=g000563;gene=ygdG;product=Flap endonuclease Xni
+Pangenome	NA	CDS	1068904	1070241	.	+	0	ID=g000800;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1070242	1071420	.	+	0	ID=g000185;gene=ygfZ;product=tRNA-modifying protein YgfZ
+Pangenome	NA	CDS	1071421	1072992	.	+	0	ID=g000552;gene=gppA;product=Guanosine-5'-triphosphate%2C3'-diphosphate pyrophosphatase
+Pangenome	NA	CDS	1072993	1073550	.	+	0	ID=g001105;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1073551	1074456	.	+	0	ID=g000195;gene=yeaD;product=Putative glucose-6-phosphate 1-epimerase
+Pangenome	NA	CDS	1074457	1075617	.	+	0	ID=g001620;gene=bioB;product=Biotin synthase
+Pangenome	NA	CDS	1075618	1075929	.	+	0	ID=g002670;gene=rpmE;product=50S ribosomal protein L31
+Pangenome	NA	CDS	1075930	1076655	.	+	0	ID=g000668;gene=bioD1;product=ATP-dependent dethiobiotin synthetase BioD 1
+Pangenome	NA	CDS	1076656	1077684	.	+	0	ID=g000324;gene=bioH;product=Pimeloyl-[acyl-carrier protein] methyl ester esterase
+Pangenome	NA	CDS	1077685	1078473	.	+	0	ID=g002204_1;gene=deoC;product=Deoxyribose-phosphate aldolase
+Pangenome	NA	CDS	1078474	1080204	.	+	0	ID=g000772;gene=pepD;product=Cytosol non-specific dipeptidase
+Pangenome	NA	CDS	1080205	1081197	.	+	0	ID=g000590;gene=mazG;product=Nucleoside triphosphate pyrophosphohydrolase
+Pangenome	NA	CDS	1081198	1081545	.	+	0	ID=g002475;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1081546	1082151	.	+	0	ID=g001658;gene=mutS2;product=Endonuclease MutS2
+Pangenome	NA	CDS	1082152	1083210	.	+	0	ID=g000706;gene=yciV;product=5'-3' exoribonuclease
+Pangenome	NA	CDS	1083211	1083477	.	+	0	ID=g001293;gene=slyX;product=Protein SlyX 
+Pangenome	NA	CDS	1083478	1085658	.	+	0	ID=g000729_1;gene=topB;product=DNA topoisomerase 3
+Pangenome	NA	CDS	1085659	1086837	.	+	0	ID=g000167;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1086838	1087308	.	+	0	ID=g000874;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1087309	1089447	.	+	0	ID=g000358;gene=ligA;product=DNA ligase
+Pangenome	NA	CDS	1089448	1090899	.	+	0	ID=g001300;gene=pyrP;product=Uracil permease
+Pangenome	NA	CDS	1090900	1091691	.	+	0	ID=g002832;gene=fnr;product=Fumarate and nitrate reduction regulatory protein
+Pangenome	NA	CDS	1091692	1092105	.	+	0	ID=g001562;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1092106	1092486	.	+	0	ID=g001292;gene=yciH;product=putative protein YciH
+Pangenome	NA	CDS	1092487	1093062	.	+	0	ID=g001657;gene=yeiP;product=Elongation factor P-like protein
+Pangenome	NA	CDS	1093063	1093323	.	+	0	ID=g004658;gene=rpmA;product=50S ribosomal protein L27
+Pangenome	NA	CDS	1093324	1094715	.	+	0	ID=g000404;gene=rlmG;product=Ribosomal RNA large subunit methyltransferase G
+Pangenome	NA	CDS	1094716	1095495	.	+	0	ID=g002205;gene=pth;product=Peptidyl-tRNA hydrolase
+Pangenome	NA	CDS	1095496	1096599	.	+	0	ID=g000198;gene=thiD;product=Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+Pangenome	NA	CDS	1096600	1097211	.	+	0	ID=g001718;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1097212	1098762	.	+	0	ID=g001392;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1098763	1099353	.	+	0	ID=g000619;gene=holC;product=DNA polymerase III subunit chi
+Pangenome	NA	CDS	1099354	1100433	.	+	0	ID=g000253;gene=gluQ;product=Glutamyl-Q tRNA(Asp) synthetase
+Pangenome	NA	CDS	1100434	1101105	.	+	0	ID=g000972;gene=rsd;product=Regulator of sigma D
+Pangenome	NA	CDS	1101106	1102332	.	+	0	ID=g000304;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1102333	1104546	.	+	0	ID=g000796;gene=dinG;product=ATP-dependent DNA helicase DinG
+Pangenome	NA	CDS	1104547	1105521	.	+	0	ID=g000448_1;gene=sfsA;product=Sugar fermentation stimulation protein A
+Pangenome	NA	CDS	1105522	1106415	.	+	0	ID=g000371;gene=cnoX;product=Chaperedoxin
+Pangenome	NA	CDS	1106416	1107327	.	+	0	ID=g000945;gene=lolD;product=Lipoprotein-releasing system ATP-binding protein LolD
+Pangenome	NA	CDS	1107328	1108647	.	+	0	ID=g001356_1;gene=mlc;product=Protein mlc
+Pangenome	NA	CDS	1108648	1109616	.	+	0	ID=g000514;gene=ybhK;product=Putative gluconeogenesis factor
+Pangenome	NA	CDS	1109617	1110303	.	+	0	ID=g001134;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1110304	1111305	.	+	0	ID=g005595;gene=rpoA;product=DNA-directed RNA polymerase subunit alpha
+Pangenome	NA	CDS	1111306	1112385	.	+	0	ID=g000777;gene=NA;product=Phosphoserine phosphatase
+Pangenome	NA	CDS	1112386	1112940	.	+	0	ID=g001692;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1112941	1113843	.	+	0	ID=g000200;gene=aat;product=Leucyl/phenylalanyl-tRNA--protein transferase
+Pangenome	NA	CDS	1113844	1114653	.	+	0	ID=g002337;gene=rph;product=Ribonuclease PH
+Pangenome	NA	CDS	1114654	1115793	.	+	0	ID=g000755;gene=srkA;product=Stress response kinase A
+Pangenome	NA	CDS	1115794	1116756	.	+	0	ID=g001841;gene=oxyR;product=Hydrogen peroxide-inducible genes activator
+Pangenome	NA	CDS	1116757	1117527	.	+	0	ID=g000971;gene=plsY;product=putative glycerol-3-phosphate acyltransferase
+Pangenome	NA	CDS	1117528	1119222	.	+	0	ID=g000323;gene=trpC;product=Tryptophan biosynthesis protein TrpCF
+Pangenome	NA	CDS	1119223	1119957	.	+	0	ID=g001098;gene=trpG;product=Anthranilate synthase component 2
+Pangenome	NA	CDS	1119958	1120773	.	+	0	ID=g002767;gene=dauR;product=Transcriptional regulator DauR
+Pangenome	NA	CDS	1120774	1121745	.	+	0	ID=g000806;gene=cysZ;product=Sulfate transporter CysZ
+Pangenome	NA	CDS	1121746	1122372	.	+	0	ID=g001287;gene=decR;product=DNA-binding transcriptional activator DecR
+Pangenome	NA	CDS	1122373	1122630	.	+	0	ID=g002855;gene=rmf;product=Ribosome modulation factor
+Pangenome	NA	CDS	1122631	1123395	.	+	0	ID=g000714_1;gene=fre;product=NAD(P)H-flavin reductase
+Pangenome	NA	CDS	1123396	1124028	.	+	0	ID=g000933;gene=pcm;product=Protein-L-isoaspartate O-methyltransferase
+Pangenome	NA	CDS	1124029	1124625	.	+	0	ID=g000766;gene=menI;product=1%2C4-dihydroxy-2-naphthoyl-CoA hydrolase
+Pangenome	NA	CDS	1124626	1125177	.	+	0	ID=g003846;gene=rplE;product=50S ribosomal protein L5
+Pangenome	NA	CDS	1125178	1125579	.	+	0	ID=g003409;gene=rpsH;product=30S ribosomal protein S8
+Pangenome	NA	CDS	1125580	1126128	.	+	0	ID=g002631;gene=rplF;product=50S ribosomal protein L6
+Pangenome	NA	CDS	1126129	1126494	.	+	0	ID=g003344_1;gene=rplR;product=50S ribosomal protein L18
+Pangenome	NA	CDS	1126495	1127004	.	+	0	ID=g005127;gene=rpsE;product=30S ribosomal protein S5
+Pangenome	NA	CDS	1127005	1127199	.	+	0	ID=g005019;gene=rpmD;product=50S ribosomal protein L30
+Pangenome	NA	CDS	1127200	1127640	.	+	0	ID=g003081;gene=rplO;product=50S ribosomal protein L15
+Pangenome	NA	CDS	1127641	1128981	.	+	0	ID=g004102;gene=secY;product=Protein translocase subunit SecY
+Pangenome	NA	CDS	1128982	1129452	.	+	0	ID=g004357;gene=rpsM;product=30S ribosomal protein S13
+Pangenome	NA	CDS	1129453	1130433	.	+	0	ID=g001976_1;gene=dppC;product=Dipeptide transport system permease protein DppC
+Pangenome	NA	CDS	1130434	1130934	.	+	0	ID=g000019_2;gene=fkpA;product=hypothetical protein
+Pangenome	NA	CDS	1130935	1131702	.	+	0	ID=g000568;gene=moaE;product=Molybdopterin synthase catalytic subunit
+Pangenome	NA	CDS	1131703	1132278	.	+	0	ID=g002236;gene=moaC;product=Cyclic pyranopterin monophosphate synthase
+Pangenome	NA	CDS	1132279	1132677	.	+	0	ID=g002058;gene=gcvH;product=Glycine cleavage system H protein
+Pangenome	NA	CDS	1132678	1133955	.	+	0	ID=g001122;gene=gcvT;product=Aminomethyltransferase
+Pangenome	NA	CDS	1133956	1134690	.	+	0	ID=g000616;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1134691	1136118	.	+	0	ID=g001298;gene=argA;product=Amino-acid acetyltransferase
+Pangenome	NA	CDS	1136119	1137627	.	+	0	ID=g000824;gene=mltA;product=Membrane-bound lytic murein transglycosylase A
+Pangenome	NA	CDS	1137628	1138587	.	+	0	ID=g002252;gene=tcdA;product=tRNA threonylcarbamoyladenosine dehydratase
+Pangenome	NA	CDS	1138588	1140516	.	+	0	ID=g000742;gene=hscA;product=Chaperone protein HscA
+Pangenome	NA	CDS	1140517	1140855	.	+	0	ID=g002372;gene=fdx;product=2Fe-2S ferredoxin
+Pangenome	NA	CDS	1140856	1141074	.	+	0	ID=g001832;gene=iscX;product=Protein IscX
+Pangenome	NA	CDS	1141075	1141419	.	+	0	ID=g000876;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1141420	1142289	.	+	0	ID=g002492_1;gene=cfxP;product=Phosphoribulokinase%2C plasmid
+Pangenome	NA	CDS	1142290	1143318	.	+	0	ID=g000228;gene=cysG;product=Siroheme synthase
+Pangenome	NA	CDS	1143319	1143804	.	+	0	ID=g001445;gene=yibL;product=putative protein YibL
+Pangenome	NA	CDS	1143805	1144674	.	+	0	ID=g000744;gene=znuC;product=Zinc import ATP-binding protein ZnuC
+Pangenome	NA	CDS	1144675	1145538	.	+	0	ID=g000829_1;gene=znuB;product=High-affinity zinc uptake system membrane protein ZnuB
+Pangenome	NA	CDS	1145539	1146522	.	+	0	ID=g001552;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1146523	1149432	.	+	0	ID=g000672;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1149433	1150461	.	+	0	ID=g001938;gene=dusB;product=tRNA-dihydrouridine synthase B
+Pangenome	NA	CDS	1150462	1150860	.	+	0	ID=g005795_1;gene=fis;product=DNA-binding protein Fis
+Pangenome	NA	CDS	1150861	1151691	.	+	0	ID=g003361_1;gene=rplB;product=50S ribosomal protein L2
+Pangenome	NA	CDS	1151692	1151970	.	+	0	ID=g007736;gene=rpsS;product=30S ribosomal protein S19
+Pangenome	NA	CDS	1151971	1154475	.	+	0	ID=g000691;gene=fadJ;product=Fatty acid oxidation complex subunit alpha
+Pangenome	NA	CDS	1154476	1155924	.	+	0	ID=g001429_1;gene=fadI;product=3-ketoacyl-CoA thiolase FadI
+Pangenome	NA	CDS	1155925	1157670	.	+	0	ID=g000276;gene=rsmF;product=Ribosomal RNA small subunit methyltransferase F
+Pangenome	NA	CDS	1157671	1158534	.	+	0	ID=g000967;gene=cvfB;product=Conserved virulence factor B
+Pangenome	NA	CDS	1158535	1159806	.	+	0	ID=g000555_1;gene=mltC;product=Membrane-bound lytic murein transglycosylase C
+Pangenome	NA	CDS	1159807	1163592	.	+	0	ID=g000877;gene=metH;product=Methionine synthase
+Pangenome	NA	CDS	1163593	1164393	.	+	0	ID=g000739;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1164394	1166898	.	+	0	ID=g001083;gene=lon;product=hypothetical protein
+Pangenome	NA	CDS	1166899	1168179	.	+	0	ID=g001419;gene=glnL;product=Sensory histidine kinase/phosphatase NtrB
+Pangenome	NA	CDS	1168180	1169631	.	+	0	ID=g000004_1;gene=glnG;product=DNA-binding transcriptional regulator NtrC
+Pangenome	NA	CDS	1169632	1170048	.	+	0	ID=g000389_1;gene=gloA;product=Lactoylglutathione lyase
+Pangenome	NA	CDS	1170049	1170804	.	+	0	ID=g001591;gene=nth;product=Endonuclease III
+Pangenome	NA	CDS	1170805	1172433	.	+	0	ID=g000032_1;gene=tolQ;product=Tol-Pal system protein TolQ
+Pangenome	NA	CDS	1172434	1173138	.	+	0	ID=g000032_2;gene=tolQ;product=hypothetical protein
+Pangenome	NA	CDS	1173139	1173561	.	+	0	ID=g000311;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1173562	1174329	.	+	0	ID=g000150;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1174330	1175592	.	+	0	ID=g001396_1;gene=pheA;product=Bifunctional chorismate mutase/prephenate dehydratase
+Pangenome	NA	CDS	1175593	1176000	.	+	0	ID=g001897_1;gene=yfiA;product=Ribosome-associated factor Y
+Pangenome	NA	CDS	1176001	1177023	.	+	0	ID=g001031;gene=cmoM;product=tRNA 5-carboxymethoxyuridine methyltransferase
+Pangenome	NA	CDS	1177024	1178100	.	+	0	ID=g001523;gene=trpGD;product=Bifunctional protein TrpGD
+Pangenome	NA	CDS	1178101	1180866	.	+	0	ID=g002302_1;gene=adhE;product=Aldehyde-alcohol dehydrogenase
+Pangenome	NA	CDS	1180867	1182474	.	+	0	ID=g000600;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1182475	1183179	.	+	0	ID=g000570;gene=greB;product=Transcription elongation factor GreB
+Pangenome	NA	CDS	1183180	1183737	.	+	0	ID=g000352_1;gene=mutT;product=8-oxo-dGTP diphosphatase
+Pangenome	NA	CDS	1183738	1184550	.	+	0	ID=g000309;gene=msrA;product=Peptide methionine sulfoxide reductase MsrA
+Pangenome	NA	CDS	1184551	1186410	.	+	0	ID=g000488;gene=panP;product=Aspartate 1-decarboxylase
+Pangenome	NA	CDS	1186411	1187469	.	+	0	ID=g001029;gene=hcaR;product=Hca operon transcriptional activator HcaR
+Pangenome	NA	CDS	1187470	1188396	.	+	0	ID=g001525;gene=purU;product=Formyltetrahydrofolate deformylase
+Pangenome	NA	CDS	1188397	1189422	.	+	0	ID=g001479;gene=mukE;product=Chromosome partition protein MukE
+Pangenome	NA	CDS	1189423	1191606	.	+	0	ID=g000098_1;gene=btuD;product=Putative multidrug export ATP-binding/permease protein
+Pangenome	NA	CDS	1191607	1192209	.	+	0	ID=g000956;gene=nudE;product=ADP compounds hydrolase NudE
+Pangenome	NA	CDS	1192210	1194264	.	+	0	ID=g000818;gene=prc;product=Tail-specific protease
+Pangenome	NA	CDS	1194265	1194456	.	+	0	ID=g004219;gene=rpmC;product=50S ribosomal protein L29
+Pangenome	NA	CDS	1194457	1195128	.	+	0	ID=g000866;gene=tsaC;product=Threonylcarbamoyl-AMP synthase
+Pangenome	NA	CDS	1195129	1196205	.	+	0	ID=g000406;gene=nagZ;product=Beta-hexosaminidase
+Pangenome	NA	CDS	1196206	1197285	.	+	0	ID=g001330;gene=nagK;product=N-acetyl-D-glucosamine kinase
+Pangenome	NA	CDS	1197286	1198245	.	+	0	ID=g000233_1;gene=murI;product=Glutamate racemase
+Pangenome	NA	CDS	1198246	1200153	.	+	0	ID=g000454_1;gene=pstA;product=hypothetical protein
+Pangenome	NA	CDS	1200154	1200645	.	+	0	ID=g000722_1;gene=hns;product=DNA-binding protein H-NS
+Pangenome	NA	CDS	1200646	1201389	.	+	0	ID=g001163;gene=ytjB;product=hypothetical protein
+Pangenome	NA	CDS	1201390	1202130	.	+	0	ID=g001403;gene=pflA;product=Pyruvate formate-lyase 1-activating enzyme
+Pangenome	NA	CDS	1202131	1203438	.	+	0	ID=g000843;gene=moeA;product=Molybdopterin molybdenumtransferase
+Pangenome	NA	CDS	1203439	1204869	.	+	0	ID=g000508;gene=pssA;product=CDP-diacylglycerol--serine O-phosphatidyltransferase
+Pangenome	NA	CDS	1204870	1205883	.	+	0	ID=g000138_1;gene=ybfF;product=Esterase YbfF
+Pangenome	NA	CDS	1205884	1206789	.	+	0	ID=g000199;gene=nudC;product=NADH pyrophosphatase
+Pangenome	NA	CDS	1206790	1207530	.	+	0	ID=g000374;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1207531	1208256	.	+	0	ID=g000201_1;gene=ampD;product=1%2C6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD
+Pangenome	NA	CDS	1208257	1208610	.	+	0	ID=g008614;gene=rplT;product=50S ribosomal protein L20
+Pangenome	NA	CDS	1208611	1209162	.	+	0	ID=g001716_1;gene=mgsA;product=Methylglyoxal synthase
+Pangenome	NA	CDS	1209163	1210770	.	+	0	ID=g001811_1;gene=ilvA;product=L-threonine dehydratase biosynthetic IlvA
+Pangenome	NA	CDS	1210771	1211844	.	+	0	ID=g001238;gene=moaA;product=GTP 3'%2C8-cyclase
+Pangenome	NA	CDS	1211845	1212402	.	+	0	ID=g000502;gene=ybaK;product=Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+Pangenome	NA	CDS	1212403	1213578	.	+	0	ID=g001025_1;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1213579	1214673	.	+	0	ID=g002527;gene=ychF;product=Ribosome-binding ATPase YchF
+Pangenome	NA	CDS	1214674	1215903	.	+	0	ID=g000492_1;gene=metC;product=Cystathionine beta-lyase MetC
+Pangenome	NA	CDS	1215904	1216176	.	+	0	ID=g000315_1;gene=hupA;product=DNA-binding protein HU-alpha
+Pangenome	NA	CDS	1216177	1217016	.	+	0	ID=g000019_3;gene=fklB;product=FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+Pangenome	NA	CDS	1217017	1217307	.	+	0	ID=g000813;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1217308	1217874	.	+	0	ID=g000272;gene=elaA;product=Protein ElaA
+Pangenome	NA	CDS	1217875	1220016	.	+	0	ID=g000179_1;gene=NA;product=NAD 5'-nucleotidase
+Pangenome	NA	CDS	1220017	1220472	.	+	0	ID=g002239;gene=sdhC;product=Succinate dehydrogenase cytochrome b556 subunit
+Pangenome	NA	CDS	1220473	1220964	.	+	0	ID=g001172;gene=yqaA;product=Inner membrane protein YqaA
+Pangenome	NA	CDS	1220965	1222488	.	+	0	ID=g001482;gene=metQ;product=D-methionine-binding lipoprotein MetQ
+Pangenome	NA	CDS	1222489	1223094	.	+	0	ID=g000328;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1223095	1223910	.	+	0	ID=g000259;gene=nudL;product=putative Nudix hydrolase NudL
+Pangenome	NA	CDS	1223911	1225125	.	+	0	ID=g000510_1;gene=bamB;product=Outer membrane protein assembly factor BamB
+Pangenome	NA	CDS	1225126	1226793	.	+	0	ID=g000252;gene=mepA;product=hypothetical protein
+Pangenome	NA	CDS	1226794	1227030	.	+	0	ID=g001344;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1227031	1228014	.	+	0	ID=g002045;gene=fabH1;product=3-oxoacyl-[acyl-carrier-protein] synthase 3 protein 1
+Pangenome	NA	CDS	1228015	1229733	.	+	0	ID=g001758_1;gene=ilvG;product=Acetolactate synthase isozyme 2 large subunit
+Pangenome	NA	CDS	1229734	1231506	.	+	0	ID=g001387;gene=glpK;product=Glycerol kinase
+Pangenome	NA	CDS	1231507	1232658	.	+	0	ID=g000256;gene=NA;product=Epimerase family protein
+Pangenome	NA	CDS	1232659	1235709	.	+	0	ID=g001477_1;gene=gcvP;product=Glycine dehydrogenase (decarboxylating)
+Pangenome	NA	CDS	1235710	1236753	.	+	0	ID=g001996;gene=metF;product=5%2C10-methylenetetrahydrofolate reductase
+Pangenome	NA	CDS	1236754	1237950	.	+	0	ID=g000305_1;gene=pstS;product=Phosphate-binding protein PstS
+Pangenome	NA	CDS	1237951	1238496	.	+	0	ID=g001824;gene=yceD;product=Large ribosomal RNA subunit accumulation protein YceD
+Pangenome	NA	CDS	1238497	1240791	.	+	0	ID=g000979_1;gene=malQ;product=4-alpha-glucanotransferase
+Pangenome	NA	CDS	1240792	1241769	.	+	0	ID=g001495;gene=ttcA;product=tRNA-cytidine(32) 2-sulfurtransferase
+Pangenome	NA	CDS	1241770	1242087	.	+	0	ID=g001414;gene=cyaY;product=Iron-sulfur cluster assembly protein CyaY
+Pangenome	NA	CDS	1242088	1243080	.	+	0	ID=g000127;gene=yfiC;product=tRNA1(Val) (adenine(37)-N6)-methyltransferase
+Pangenome	NA	CDS	1243081	1243392	.	+	0	ID=g000941;gene=yciI;product=Protein YciI
+Pangenome	NA	CDS	1243393	1243725	.	+	0	ID=g000390;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1243726	1244502	.	+	0	ID=g000478;gene=kefF;product=General stress protein 14
+Pangenome	NA	CDS	1244503	1245342	.	+	0	ID=g000489;gene=yfgD;product=putative protein YfgD
+Pangenome	NA	CDS	1245343	1247049	.	+	0	ID=g000825;gene=glpE;product=Thiosulfate sulfurtransferase GlpE
+Pangenome	NA	CDS	1247050	1248375	.	+	0	ID=g001813;gene=maeB;product=NADP-dependent malic enzyme
+Pangenome	NA	CDS	1248376	1249293	.	+	0	ID=g000412;gene=cpxR;product=Transcriptional regulatory protein CpxR
+Pangenome	NA	CDS	1249294	1250835	.	+	0	ID=g000491_1;gene=nhaA;product=Na(+)/H(+) antiporter NhaA
+Pangenome	NA	CDS	1250836	1252434	.	+	0	ID=g000441;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1252435	1253589	.	+	0	ID=g000461;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1253590	1254117	.	+	0	ID=g001558;gene=luxS;product=S-ribosylhomocysteine lyase
+Pangenome	NA	CDS	1254118	1254876	.	+	0	ID=g000450;gene=NA;product=Arylesterase
+Pangenome	NA	CDS	1254877	1255611	.	+	0	ID=g000786;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1255612	1256190	.	+	0	ID=g000355;gene=eis;product=hypothetical protein
+Pangenome	NA	CDS	1256191	1257279	.	+	0	ID=g000194_1;gene=rlmA;product=23S rRNA (guanine(745)-N(1))-methyltransferase
+Pangenome	NA	CDS	1257280	1257669	.	+	0	ID=g000939;gene=apaG;product=Protein ApaG
+Pangenome	NA	CDS	1257670	1260135	.	+	0	ID=g000942;gene=astD;product=N-succinylglutamate 5-semialdehyde dehydrogenase
+Pangenome	NA	CDS	1260136	1260870	.	+	0	ID=g000386_1;gene=rnfG;product=Ion-translocating oxidoreductase complex subunit G
+Pangenome	NA	CDS	1260871	1261764	.	+	0	ID=g000589;gene=ycfH;product=putative metal-dependent hydrolase YcfH
+Pangenome	NA	CDS	1261765	1262094	.	+	0	ID=g004910;gene=rplU;product=50S ribosomal protein L21
+Pangenome	NA	CDS	1262095	1262529	.	+	0	ID=g000522_1;gene=crl;product=Sigma factor-binding protein Crl
+Pangenome	NA	CDS	1262530	1263726	.	+	0	ID=g000985;gene=degS;product=Serine endoprotease DegS
+Pangenome	NA	CDS	1263727	1264848	.	+	0	ID=g001401;gene=dmlR;product=HTH-type transcriptional regulator DmlR
+Pangenome	NA	CDS	1264849	1265556	.	+	0	ID=g002901;gene=rplA;product=50S ribosomal protein L1
+Pangenome	NA	CDS	1265557	1266021	.	+	0	ID=g003445;gene=rplK;product=50S ribosomal protein L11
+Pangenome	NA	CDS	1266022	1266573	.	+	0	ID=g003630;gene=nusG;product=Transcription termination/antitermination protein NusG
+Pangenome	NA	CDS	1266574	1267965	.	+	0	ID=g001235;gene=thiH;product=2-iminoacetate synthase
+Pangenome	NA	CDS	1267966	1268925	.	+	0	ID=g001464;gene=thiG;product=Thiazole synthase
+Pangenome	NA	CDS	1268926	1270377	.	+	0	ID=g000158;gene=thiF;product=Sulfur carrier protein ThiS adenylyltransferase
+Pangenome	NA	CDS	1270378	1271109	.	+	0	ID=g001442;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1271110	1273431	.	+	0	ID=g000768;gene=hscA;product=Chaperone protein HscA
+Pangenome	NA	CDS	1273432	1274649	.	+	0	ID=g000018_3;gene=aroH;product=Phospho-2-dehydro-3-deoxyheptonate aldolase%2C Trp-sensitive
+Pangenome	NA	CDS	1274650	1275141	.	+	0	ID=g001601;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1275142	1275837	.	+	0	ID=g002052;gene=proQ;product=RNA chaperone ProQ
+Pangenome	NA	CDS	1275838	1276434	.	+	0	ID=g000833;gene=msrC;product=Free methionine-R-sulfoxide reductase
+Pangenome	NA	CDS	1276435	1278012	.	+	0	ID=g000014_1;gene=rhlE;product=ATP-dependent RNA helicase RhlE
+Pangenome	NA	CDS	1278013	1279680	.	+	0	ID=g000819_1;gene=ybiT;product=putative ABC transporter ATP-binding protein YbiT
+Pangenome	NA	CDS	1279681	1280055	.	+	0	ID=g005512;gene=rplN;product=50S ribosomal protein L14
+Pangenome	NA	CDS	1280056	1280379	.	+	0	ID=g003451;gene=rplX;product=50S ribosomal protein L24
+Pangenome	NA	CDS	1280380	1281507	.	+	0	ID=g001390;gene=metN;product=Methionine import ATP-binding protein MetN
+Pangenome	NA	CDS	1281508	1282227	.	+	0	ID=g001854;gene=metI;product=D-methionine transport system permease protein MetI
+Pangenome	NA	CDS	1282228	1283217	.	+	0	ID=g001840_1;gene=oppB;product=Oligopeptide transport system permease protein OppB
+Pangenome	NA	CDS	1283218	1285395	.	+	0	ID=g001381_1;gene=nrdD;product=Anaerobic ribonucleoside-triphosphate reductase
+Pangenome	NA	CDS	1285396	1286709	.	+	0	ID=g001613_1;gene=tig;product=Trigger factor
+Pangenome	NA	CDS	1286710	1287675	.	+	0	ID=g001627;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1287676	1289157	.	+	0	ID=g000114;gene=bioF;product=8-amino-7-oxononanoate synthase
+Pangenome	NA	CDS	1289158	1290378	.	+	0	ID=g000068_1;gene=yeiR;product=Zinc-binding GTPase YeiR
+Pangenome	NA	CDS	1290379	1292268	.	+	0	ID=g003556;gene=rpsA;product=30S ribosomal protein S1
+Pangenome	NA	CDS	1292269	1293426	.	+	0	ID=g000018_1;gene=aroG;product=Phospho-2-dehydro-3-deoxyheptonate aldolase%2C Phe-sensitive
+Pangenome	NA	CDS	1293427	1294605	.	+	0	ID=g000559;gene=apbC;product=Iron-sulfur cluster carrier protein
+Pangenome	NA	CDS	1294606	1294995	.	+	0	ID=g010613;gene=rpsK;product=30S ribosomal protein S11
+Pangenome	NA	CDS	1294996	1295238	.	+	0	ID=g001345;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1295239	1296486	.	+	0	ID=g000382_1;gene=menC;product=o-succinylbenzoate synthase
+Pangenome	NA	CDS	1296487	1296792	.	+	0	ID=g003773;gene=rpsN;product=30S ribosomal protein S14
+Pangenome	NA	CDS	1296793	1297623	.	+	0	ID=g000212_1;gene=mlaC;product=Intermembrane phospholipid transport system binding protein MlaC
+Pangenome	NA	CDS	1297624	1297974	.	+	0	ID=g000738;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1297975	1300050	.	+	0	ID=g000950;gene=hemF;product=Oxygen-dependent coproporphyrinogen-III oxidase
+Pangenome	NA	CDS	1300051	1300974	.	+	0	ID=g000856_1;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1300975	1302558	.	+	0	ID=g000747;gene=mpl;product=UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2%2C6-diaminoheptandioate ligase
+Pangenome	NA	CDS	1302559	1303716	.	+	0	ID=g000733;gene=rarD;product=Protein RarD
+Pangenome	NA	CDS	1303717	1305093	.	+	0	ID=g000751;gene=degQ;product=Periplasmic pH-dependent serine endoprotease DegQ
+Pangenome	NA	CDS	1305094	1306512	.	+	0	ID=g000131_1;gene=bioA;product=Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+Pangenome	NA	CDS	1306513	1307160	.	+	0	ID=g001167;gene=fldB;product=Flavodoxin 2
+Pangenome	NA	CDS	1307161	1308213	.	+	0	ID=g001126_1;gene=nhaR;product=Transcriptional activator protein NhaR
+Pangenome	NA	CDS	1308214	1309560	.	+	0	ID=g000345_1;gene=pncC;product=Nicotinamide-nucleotide amidohydrolase PncC
+Pangenome	NA	CDS	1309561	1310721	.	+	0	ID=g000362;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1310722	1311249	.	+	0	ID=g000377;gene=folK;product=2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+Pangenome	NA	CDS	1311250	1313211	.	+	0	ID=g000471_1;gene=sgrR;product=HTH-type transcriptional regulator SgrR
+Pangenome	NA	CDS	1313212	1314036	.	+	0	ID=g001001;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1314037	1315824	.	+	0	ID=g000472;gene=sapA;product=Peptide transport periplasmic protein SapA
+Pangenome	NA	CDS	1315825	1316106	.	+	0	ID=g002032;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1316107	1317339	.	+	0	ID=g000258;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1317340	1317711	.	+	0	ID=g002323;gene=rplL;product=50S ribosomal protein L7/L12
+Pangenome	NA	CDS	1317712	1318044	.	+	0	ID=g000315_2;gene=hupB;product=DNA-binding protein HU-beta
+Pangenome	NA	CDS	1318045	1318470	.	+	0	ID=g000936;gene=IMPDH;product=A-adding tRNA nucleotidyltransferase
+Pangenome	NA	CDS	1318471	1319196	.	+	0	ID=g001004_1;gene=yohK;product=Inner membrane protein YohK
+Pangenome	NA	CDS	1319197	1319988	.	+	0	ID=g000787;gene=zapC;product=Cell division protein ZapC
+Pangenome	NA	CDS	1319989	1320396	.	+	0	ID=g001922_1;gene=tolR;product=Tol-Pal system protein TolR
+Pangenome	NA	CDS	1320397	1321305	.	+	0	ID=g001885_1;gene=oppC;product=Oligopeptide transport system permease protein OppC
+Pangenome	NA	CDS	1321306	1322292	.	+	0	ID=g000017_1;gene=oppD;product=Oligopeptide transport ATP-binding protein OppD
+Pangenome	NA	CDS	1322293	1323360	.	+	0	ID=g000015_2;gene=oppF;product=Oligopeptide transport ATP-binding protein OppF
+Pangenome	NA	CDS	1323361	1325202	.	+	0	ID=g000051_1;gene=oppA;product=Periplasmic oligopeptide-binding protein
+Pangenome	NA	CDS	1325203	1326321	.	+	0	ID=g002266_1;gene=dppB;product=Dipeptide transport system permease protein DppB
+Pangenome	NA	CDS	1326322	1327956	.	+	0	ID=g001182_1;gene=dppA;product=Periplasmic dipeptide transport protein
+Pangenome	NA	CDS	1327957	1329720	.	+	0	ID=g000015_1;gene=gsiA;product=Glutathione import ATP-binding protein GsiA
+Pangenome	NA	CDS	1329721	1330443	.	+	0	ID=g000442;gene=nudF;product=ADP-ribose pyrophosphatase
+Pangenome	NA	CDS	1330444	1332288	.	+	0	ID=g001017_1;gene=ravA;product=ATPase RavA
+Pangenome	NA	CDS	1332289	1333515	.	+	0	ID=g001623;gene=leuO;product=HTH-type transcriptional regulator LeuO
+Pangenome	NA	CDS	1333516	1334340	.	+	0	ID=g000925_1;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1334341	1335018	.	+	0	ID=g000162;gene=glpG;product=hypothetical protein
+Pangenome	NA	CDS	1335019	1335381	.	+	0	ID=g004360;gene=rpmH;product=hypothetical protein
+Pangenome	NA	CDS	1335382	1337271	.	+	0	ID=g000290_1;gene=lon;product=Lon protease
+Pangenome	NA	CDS	1337272	1337967	.	+	0	ID=g001770;gene=puuR;product=hypothetical protein
+Pangenome	NA	CDS	1337968	1338462	.	+	0	ID=g000898;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1338463	1339479	.	+	0	ID=g000561;gene=yfeX;product=Dye-decolorizing peroxidase YfeX
+Pangenome	NA	CDS	1339480	1339734	.	+	0	ID=g000082_1;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1339735	1341039	.	+	0	ID=g002822_1;gene=eno;product=Enolase
+Pangenome	NA	CDS	1341040	1341582	.	+	0	ID=g001252;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1341583	1343031	.	+	0	ID=g000553_1;gene=ampG;product=Anhydromuropeptide permease
+Pangenome	NA	CDS	1343032	1343532	.	+	0	ID=g002747;gene=rplJ;product=50S ribosomal protein L10
+Pangenome	NA	CDS	1343533	1344207	.	+	0	ID=g000932;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1344208	1345362	.	+	0	ID=g000055_1;gene=ribBA;product=Riboflavin biosynthesis protein RibBA
+Pangenome	NA	CDS	1345363	1346835	.	+	0	ID=g000749_1;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1346836	1347705	.	+	0	ID=g001196_1;gene=minC;product=Septum site-determining protein MinC
+Pangenome	NA	CDS	1347706	1348305	.	+	0	ID=g000269_1;gene=msrB;product=Peptide methionine sulfoxide reductase MsrB
+Pangenome	NA	CDS	1348306	1351803	.	+	0	ID=g001178;gene=putA;product=Bifunctional protein PutA
+Pangenome	NA	CDS	1351804	1352073	.	+	0	ID=g000409;gene=moaD;product=Molybdopterin synthase sulfur carrier subunit
+Pangenome	NA	CDS	1352074	1352631	.	+	0	ID=g000215_1;gene=csdE;product=Sulfur acceptor protein CsdE
+Pangenome	NA	CDS	1352632	1354875	.	+	0	ID=g000118;gene=menE;product=2-succinylbenzoate--CoA ligase
+Pangenome	NA	CDS	1354876	1356138	.	+	0	ID=g000057_2;gene=ackA;product=Acetate kinase
+Pangenome	NA	CDS	1356139	1356387	.	+	0	ID=g000902;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1356388	1357155	.	+	0	ID=g000060_1;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1357156	1357485	.	+	0	ID=g000694_1;gene=ascD;product=hypothetical protein
+Pangenome	NA	CDS	1357486	1358061	.	+	0	ID=g000621_1;gene=nrdG;product=Anaerobic ribonucleoside-triphosphate reductase-activating protein
+Pangenome	NA	CDS	1358062	1358754	.	+	0	ID=g000647;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1358755	1359864	.	+	0	ID=g001622;gene=guaC;product=GMP reductase
+Pangenome	NA	CDS	1359865	1360413	.	+	0	ID=g002388;gene=secE;product=Protein translocase subunit SecE
+Pangenome	NA	CDS	1360414	1361907	.	+	0	ID=g000062_1;gene=gsk;product=Inosine-guanosine kinase
+Pangenome	NA	CDS	1361908	1362186	.	+	0	ID=g002123;gene=minE;product=Cell division topological specificity factor
+Pangenome	NA	CDS	1362187	1362465	.	+	0	ID=g002556;gene=grxA;product=Glutaredoxin 1
+Pangenome	NA	CDS	1362466	1362867	.	+	0	ID=g000465;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1362868	1363293	.	+	0	ID=g002393;gene=ppiC;product=Peptidyl-prolyl cis-trans isomerase C
+Pangenome	NA	CDS	1363294	1365930	.	+	0	ID=g000122_1;gene=menD;product=2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+Pangenome	NA	CDS	1365931	1369347	.	+	0	ID=g000343_1;gene=menF;product=Isochorismate synthase MenF
+Pangenome	NA	CDS	1369348	1370292	.	+	0	ID=g000417;gene=glpG;product=Rhomboid protease GlpG
+Pangenome	NA	CDS	1370293	1370997	.	+	0	ID=g000521;gene=ubiC;product=Chorismate pyruvate-lyase
+Pangenome	NA	CDS	1370998	1372224	.	+	0	ID=g000991;gene=nspC;product=Carboxynorspermidine/carboxyspermidine decarboxylase
+Pangenome	NA	CDS	1372225	1373529	.	+	0	ID=g002087;gene=NA;product=Carboxynorspermidine synthase
+Pangenome	NA	CDS	1373530	1374438	.	+	0	ID=g000282;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1374439	1375854	.	+	0	ID=g001931_1;gene=sthA;product=Soluble pyridine nucleotide transhydrogenase
+Pangenome	NA	CDS	1375855	1377387	.	+	0	ID=g000629;gene=norM;product=Multidrug resistance protein NorM
+Pangenome	NA	CDS	1377388	1378146	.	+	0	ID=g001632;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1378147	1379298	.	+	0	ID=g001958_1;gene=ald;product=Alanine dehydrogenase
+Pangenome	NA	CDS	1379299	1379952	.	+	0	ID=g000973;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1379953	1381041	.	+	0	ID=g000889;gene=cysL;product=HTH-type transcriptional regulator CysL
+Pangenome	NA	CDS	1381042	1381902	.	+	0	ID=g001834_1;gene=degU;product=Transcriptional regulatory protein DegU
+Pangenome	NA	CDS	1381903	1382400	.	+	0	ID=g000393;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1382401	1383711	.	+	0	ID=g000532_1;gene=zapE;product=Cell division protein ZapE
+Pangenome	NA	CDS	1383712	1384854	.	+	0	ID=g000161;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1384855	1385394	.	+	0	ID=g001064;gene=fkpB;product=FKBP-type 16 kDa peptidyl-prolyl cis-trans isomerase
+Pangenome	NA	CDS	1385395	1385610	.	+	0	ID=g001720;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1385611	1386375	.	+	0	ID=g002118_1;gene=rpe;product=Ribulose-phosphate 3-epimerase
+Pangenome	NA	CDS	1386376	1386975	.	+	0	ID=g000187;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1386976	1387428	.	+	0	ID=g000812;gene=yciN;product=Protein YciN
+Pangenome	NA	CDS	1387429	1387968	.	+	0	ID=g001472;gene=NA;product=putative acyl-CoA thioester hydrolase
+Pangenome	NA	CDS	1387969	1388613	.	+	0	ID=g001135;gene=smrA;product=putative DNA endonuclease SmrA
+Pangenome	NA	CDS	1388614	1389480	.	+	0	ID=g000549_1;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1389481	1389951	.	+	0	ID=g000899;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1389952	1392117	.	+	0	ID=g000547;gene=IMPDH;product=hypothetical protein
+Pangenome	NA	CDS	1392118	1392798	.	+	0	ID=g000789_1;gene=syd;product=Protein Syd
+Pangenome	NA	CDS	1392799	1394889	.	+	0	ID=g002216;gene=acs;product=Acetyl-coenzyme A synthetase
+Pangenome	NA	CDS	1394890	1395252	.	+	0	ID=g001174;gene=yihD;product=Protein YihD
+Pangenome	NA	CDS	1395253	1396128	.	+	0	ID=g002315_1;gene=minD;product=Septum site-determining protein MinD
+Pangenome	NA	CDS	1396129	1397970	.	+	0	ID=g001699_1;gene=maeA;product=NAD-dependent malic enzyme
+Pangenome	NA	CDS	1397971	1398783	.	+	0	ID=g001091;gene=yjjP;product=Inner membrane protein YjjP
+Pangenome	NA	CDS	1398784	1399314	.	+	0	ID=g001500;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1399315	1399761	.	+	0	ID=g001474;gene=ychQ;product=Protein YchQ
+Pangenome	NA	CDS	1399762	1400262	.	+	0	ID=g001109;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1400263	1400901	.	+	0	ID=g000868_1;gene=leuE;product=Leucine efflux protein
+Pangenome	NA	CDS	1400902	1401465	.	+	0	ID=g002451;gene=moaB;product=Molybdenum cofactor biosynthesis protein B
+Pangenome	NA	CDS	1401466	1402485	.	+	0	ID=g000385;gene=epmC;product=Elongation factor P hydroxylase
+Pangenome	NA	CDS	1402486	1403166	.	+	0	ID=g000764;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1403167	1404732	.	+	0	ID=g000983_1;gene=brnQ;product=Branched-chain amino acid transport system 2 carrier protein
+Pangenome	NA	CDS	1404733	1405776	.	+	0	ID=g000705;gene=ydhF;product=Oxidoreductase YdhF
+Pangenome	NA	CDS	1405777	1407030	.	+	0	ID=g000294;gene=menH;product=2-succinyl-6-hydroxy-2%2C4-cyclohexadiene-1-carboxylate synthase
+Pangenome	NA	CDS	1407031	1408554	.	+	0	ID=g001704;gene=sstT;product=Serine/threonine transporter SstT
+Pangenome	NA	CDS	1408555	1410204	.	+	0	ID=g000056_1;gene=mepM;product=Murein DD-endopeptidase MepM
+Pangenome	NA	CDS	1410205	1413468	.	+	0	ID=g000330_1;gene=hscA;product=Chaperone protein HscA
+Pangenome	NA	CDS	1413469	1413828	.	+	0	ID=g001139;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1413829	1414560	.	+	0	ID=g000388;gene=ycgM;product=putative protein YcgM
+Pangenome	NA	CDS	1414561	1415301	.	+	0	ID=g001247;gene=COQ3;product=hypothetical protein
+Pangenome	NA	CDS	1415302	1416750	.	+	0	ID=g000360;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1416751	1417953	.	+	0	ID=g001549_1;gene=yhdW;product=Putative amino-acid ABC transporter-binding protein YhdW
+Pangenome	NA	CDS	1417954	1419516	.	+	0	ID=g001612_1;gene=aspA;product=Aspartate ammonia-lyase
+Pangenome	NA	CDS	1419517	1420575	.	+	0	ID=g000160;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1420576	1421439	.	+	0	ID=g001465;gene=thyA;product=Thymidylate synthase
+Pangenome	NA	CDS	1421440	1422588	.	+	0	ID=g000919_1;gene=dmlR;product=HTH-type transcriptional regulator DmlR
+Pangenome	NA	CDS	1422589	1423632	.	+	0	ID=g000855;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1423633	1424241	.	+	0	ID=g000935;gene=yceI;product=Protein YceI
+Pangenome	NA	CDS	1424242	1427862	.	+	0	ID=g001080;gene=rcsC;product=Sensor histidine kinase RcsC
+Pangenome	NA	CDS	1427863	1428573	.	+	0	ID=g001593_1;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1428574	1429011	.	+	0	ID=g000650;gene=NA;product=DNA base-flipping protein
+Pangenome	NA	CDS	1429012	1429482	.	+	0	ID=g000872_1;gene=pyrI;product=Aspartate carbamoyltransferase regulatory chain
+Pangenome	NA	CDS	1429483	1430430	.	+	0	ID=g000505;gene=yknY;product=putative ABC transporter ATP-binding protein
+Pangenome	NA	CDS	1430431	1431702	.	+	0	ID=g000957;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1431703	1432689	.	+	0	ID=g000075_1;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1432690	1433892	.	+	0	ID=g000512_1;gene=lacC;product=Tagatose-6-phosphate kinase
+Pangenome	NA	CDS	1433893	1435536	.	+	0	ID=g001576;gene=cstA;product=Peptide transporter CstA
+Pangenome	NA	CDS	1435537	1437360	.	+	0	ID=g000696;gene=NA;product=Long-chain-fatty-acid--CoA ligase FadD15
+Pangenome	NA	CDS	1437361	1437864	.	+	0	ID=g001340;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1437865	1439013	.	+	0	ID=g000662_1;gene=astA;product=Arginine N-succinyltransferase
+Pangenome	NA	CDS	1439014	1439310	.	+	0	ID=g001751;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1439311	1439577	.	+	0	ID=g002124;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1439578	1441296	.	+	0	ID=g001575;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1441297	1441704	.	+	0	ID=g000248;gene=acyP;product=Acylphosphatase
+Pangenome	NA	CDS	1441705	1442739	.	+	0	ID=g001461_1;gene=tal;product=Transaldolase
+Pangenome	NA	CDS	1442740	1443315	.	+	0	ID=g000427;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1443316	1443669	.	+	0	ID=g001368_1;gene=hlyU;product=Transcriptional activator HlyU
+Pangenome	NA	CDS	1443670	1445127	.	+	0	ID=g000673_1;gene=nhaP;product=Na(+)/H(+) antiporter NhaP
+Pangenome	NA	CDS	1445128	1446294	.	+	0	ID=g000660;gene=apbE;product=FAD:protein FMN transferase
+Pangenome	NA	CDS	1446295	1448646	.	+	0	ID=g000728_1;gene=feoB;product=Fe(2+) transporter FeoB
+Pangenome	NA	CDS	1448647	1449261	.	+	0	ID=g000720;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1449262	1450446	.	+	0	ID=g000004_2;gene=pspF;product=Psp operon transcriptional activator
+Pangenome	NA	CDS	1450447	1451232	.	+	0	ID=g001890;gene=pspA;product=Phage shock protein A
+Pangenome	NA	CDS	1451233	1451670	.	+	0	ID=g000767;gene=pspC;product=Phage shock protein C
+Pangenome	NA	CDS	1451671	1452924	.	+	0	ID=g000191;gene=znuA;product=High-affinity zinc uptake system protein ZnuA
+Pangenome	NA	CDS	1452925	1453323	.	+	0	ID=g001076_1;gene=feoA;product=hypothetical protein
+Pangenome	NA	CDS	1453324	1454058	.	+	0	ID=g000424_1;gene=deoD1;product=Purine nucleoside phosphorylase DeoD-type 1
+Pangenome	NA	CDS	1454059	1454631	.	+	0	ID=g000721;gene=yhfA;product=Protein YhfA
+Pangenome	NA	CDS	1454632	1456734	.	+	0	ID=g001809;gene=thiC;product=Phosphomethylpyrimidine synthase
+Pangenome	NA	CDS	1456735	1457775	.	+	0	ID=g000209_1;gene=queF;product=NADPH-dependent 7-cyano-7-deazaguanine reductase
+Pangenome	NA	CDS	1457776	1458588	.	+	0	ID=g001555_1;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1458589	1459611	.	+	0	ID=g002366_1;gene=cysB;product=HTH-type transcriptional regulator CysB
+Pangenome	NA	CDS	1459612	1460436	.	+	0	ID=g000423;gene=queE;product=7-carboxy-7-deazaguanine synthase
+Pangenome	NA	CDS	1460437	1462248	.	+	0	ID=g002345;gene=actP;product=Cation/acetate symporter ActP
+Pangenome	NA	CDS	1462249	1463550	.	+	0	ID=g000190;gene=csdA;product=Cysteine desulfurase CsdA
+Pangenome	NA	CDS	1463551	1464660	.	+	0	ID=g000064_1;gene=ravA;product=hypothetical protein
+Pangenome	NA	CDS	1464661	1465365	.	+	0	ID=g001165;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1465366	1468464	.	+	0	ID=g000432;gene=argD;product=Acetylornithine/succinyldiaminopimelate aminotransferase
+Pangenome	NA	CDS	1468465	1468821	.	+	0	ID=g000811;gene=NA;product=hypothetical protein
+Pangenome	NA	CDS	1468822	1469505	.	+	0	ID=g000479_1;gene=yceJ;product=Cytochrome b561 
+Pangenome	NA	CDS	1469506	1471461	.	+	0	ID=g000301_1;gene=glpD;product=Aerobic glycerol-3-phosphate dehydrogenase

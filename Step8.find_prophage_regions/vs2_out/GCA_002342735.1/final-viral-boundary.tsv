@@ -1,0 +1,11 @@
+seqname	trim_orf_index_start	trim_orf_index_end	trim_bp_start	trim_bp_end	trim_pr	trim_pr_max	prox_orf_index_start	prox_orf_index_end	prox_bp_start	prox_bp_end	prox_pr	prox_pr_max	partial	full_orf_index_start	full_orf_index_end	full_bp_start	full_bp_end	pr_full	arc	bac	euk	vir	mix	unaligned	hallmark_cnt	group	shape	seqname_new	final_max_score	final_max_score_group
+GCA_002342735.1_99	1	6	2	3878	0.74	0.74	1	6	2	3878	NA	NA	0	1	6	2	3878	0.74	0.0	0.0	0.0	33.3	16.7	50.0	0	dsDNAphage	linear	GCA_002342735.1_99||full	0.74	dsDNAphage
+GCA_002342735.1_400	1	8	102	3590	0.827	0.827	1	8	102	3590	NA	NA	0	1	8	102	3590	0.827	0.0	0.0	0.0	25.0	0.0	75.0	0	dsDNAphage	linear	GCA_002342735.1_400||full	0.827	dsDNAphage
+GCA_002342735.1_385	1	6	3	3666	0.92	0.92	1	6	3	3666	NA	NA	0	1	6	3	3666	0.92	0.0	16.7	0.0	33.3	0.0	50.0	1	dsDNAphage	linear	GCA_002342735.1_385||full	0.92	dsDNAphage
+GCA_002342735.1_372	1	4	111	4347	0.633	0.633	1	4	111	4347	NA	NA	0	1	4	111	4347	0.633	0.0	0.0	0.0	75.0	0.0	25.0	0	dsDNAphage	linear	GCA_002342735.1_372||full	0.633	dsDNAphage
+GCA_002342735.1_358	1	18	1	14412	1.0	1.0	1	18	1	14412	NA	NA	0	1	18	1	14412	1.0	0.0	0.0	0.0	77.8	0.0	22.2	9	dsDNAphage	linear	GCA_002342735.1_358||full	1.0	dsDNAphage
+GCA_002342735.1_301	1	9	248	6189	0.673	0.673	1	9	248	6189	NA	NA	0	1	9	248	6189	0.673	0.0	11.1	0.0	33.3	0.0	55.6	0	dsDNAphage	linear	GCA_002342735.1_301||full	0.673	dsDNAphage
+GCA_002342735.1_280	1	15	1	10490	0.993	0.993	1	15	1	10490	NA	NA	0	1	15	1	10490	0.993	0.0	13.3	0.0	66.7	0.0	20.0	5	dsDNAphage	linear	GCA_002342735.1_280||full	0.993	dsDNAphage
+GCA_002342735.1_253	1	15	2	6266	0.94	0.94	1	15	2	6266	NA	NA	0	1	15	2	6266	0.94	0.0	20.0	0.0	46.7	0.0	33.3	0	dsDNAphage	linear	GCA_002342735.1_253||full	0.94	dsDNAphage
+GCA_002342735.1_215	1	3	30	2766	0.8	0.8	1	3	30	2766	NA	NA	0	1	3	30	2766	0.8	0.0	0.0	0.0	66.7	0.0	33.3	0	ssDNA	linear	GCA_002342735.1_215||full	0.8	ssDNA
+GCA_002342735.1_21	1	3	341	2679	1.0	1.0	1	3	341	2679	NA	NA	0	1	3	341	2679	1.0	0.0	0.0	0.0	100.0	0.0	0.0	0	ssDNA	linear	GCA_002342735.1_21||full	1.0	ssDNA

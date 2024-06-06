@@ -1,0 +1,11 @@
+seqname	trim_orf_index_start	trim_orf_index_end	trim_bp_start	trim_bp_end	trim_pr	trim_pr_max	prox_orf_index_start	prox_orf_index_end	prox_bp_start	prox_bp_end	prox_pr	prox_pr_max	partial	full_orf_index_start	full_orf_index_end	full_bp_start	full_bp_end	pr_full	arc	bac	euk	vir	mix	unaligned	hallmark_cnt	group	shape	seqname_new	final_max_score	final_max_score_group
+GCA_001048515.1_91	1	5	3	2080	1.0	1.0	1	5	3	2080	NA	NA	0	1	5	3	2080	1.0	0.0	0.0	0.0	60.0	0.0	40.0	0	dsDNAphage	linear	GCA_001048515.1_91||full	1.0	dsDNAphage
+GCA_001048515.1_47	1	4	2	1099	0.96	0.96	1	4	2	1099	NA	NA	0	1	4	2	1099	0.96	0.0	0.0	0.0	25.0	0.0	75.0	0	ssDNA	linear	GCA_001048515.1_47||full	0.96	ssDNA
+GCA_001048515.1_41	1	6	620	5350	0.833	0.833	1	6	620	5350	NA	NA	0	1	6	620	5350	0.833	0.0	0.0	0.0	33.3	0.0	66.7	0	dsDNAphage	linear	GCA_001048515.1_41||full	0.833	dsDNAphage
+GCA_001048515.1_26	1	2	2	1398	0.887	0.887	1	2	2	1398	NA	NA	0	1	2	2	1398	0.887	0.0	0.0	0.0	50.0	0.0	50.0	0	ssDNA	linear	GCA_001048515.1_26||full	0.887	ssDNA
+GCA_001048515.1_25	1	2	2	1398	0.86	0.86	1	2	2	1398	NA	NA	0	1	2	2	1398	0.86	0.0	0.0	0.0	50.0	0.0	50.0	0	ssDNA	linear	GCA_001048515.1_25||full	0.86	ssDNA
+GCA_001048515.1_18	1	6	2	1415	0.84	0.84	1	6	2	1415	NA	NA	0	1	6	2	1415	0.84	0.0	0.0	0.0	16.7	0.0	83.3	0	dsDNAphage	linear	GCA_001048515.1_18||full	0.84	dsDNAphage
+GCA_001048515.1_123	1	6	2	3308	0.847	0.847	1	6	2	3308	NA	NA	0	1	6	2	3308	0.847	0.0	0.0	0.0	50.0	0.0	50.0	0	ssDNA	linear	GCA_001048515.1_123||full	0.847	ssDNA
+GCA_001048515.1_12	1	6	3	2864	0.527	0.527	1	6	3	2864	NA	NA	0	1	6	3	2864	0.527	0.0	16.7	0.0	50.0	0.0	33.3	0	dsDNAphage	linear	GCA_001048515.1_12||full	0.527	dsDNAphage
+GCA_001048515.1_61	27	139	49392	158490	0.9	0.9	27	139	49392	158490	0.9	1.0	1	1	160	89	186868	0.667	0.0	33.6	0.0	24.0	15.2	27.2	13	dsDNAphage	linear	GCA_001048515.1_61||0_partial	0.9	dsDNAphage
+GCA_001048515.1_39	28	58	30515	50814	0.947	0.993	28	59	30515	51583	0.933	1.0	1	1	59	739	51583	0.34	0.0	9.4	0.0	15.6	12.5	62.5	1	dsDNAphage	linear	GCA_001048515.1_39||0_partial	0.947	dsDNAphage

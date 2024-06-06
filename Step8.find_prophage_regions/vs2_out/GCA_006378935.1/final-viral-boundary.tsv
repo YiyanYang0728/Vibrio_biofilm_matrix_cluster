@@ -1,0 +1,4 @@
+seqname	trim_orf_index_start	trim_orf_index_end	trim_bp_start	trim_bp_end	trim_pr	trim_pr_max	prox_orf_index_start	prox_orf_index_end	prox_bp_start	prox_bp_end	prox_pr	prox_pr_max	partial	full_orf_index_start	full_orf_index_end	full_bp_start	full_bp_end	pr_full	arc	bac	euk	vir	mix	unaligned	hallmark_cnt	group	shape	seqname_new	final_max_score	final_max_score_group
+GCA_006378935.1_60	1	5	1	3397	0.673	0.673	1	5	1	3397	NA	NA	0	1	5	1	3397	0.673	0.0	40.0	0.0	60.0	0.0	0.0	0	dsDNAphage	linear	GCA_006378935.1_60||full	0.673	dsDNAphage
+GCA_006378935.1_49	1	65	3	47911	0.953	0.993	1	66	3	48402	NA	NA	0	1	66	3	48402	0.94	0.0	15.2	0.0	18.2	4.5	62.1	1	dsDNAphage	linear	GCA_006378935.1_49||full	0.953	dsDNAphage
+GCA_006378935.1_16	46	115	50394	116953	0.927	0.973	46	118	50394	120314	0.9	0.993	1	1	421	502	475987	0.547	0.0	30.6	0.0	31.8	17.6	20.0	7	dsDNAphage	linear	GCA_006378935.1_16||0_partial	0.927	dsDNAphage

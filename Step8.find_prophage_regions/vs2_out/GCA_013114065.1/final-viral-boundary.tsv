@@ -1,0 +1,11 @@
+seqname	trim_orf_index_start	trim_orf_index_end	trim_bp_start	trim_bp_end	trim_pr	trim_pr_max	prox_orf_index_start	prox_orf_index_end	prox_bp_start	prox_bp_end	prox_pr	prox_pr_max	partial	full_orf_index_start	full_orf_index_end	full_bp_start	full_bp_end	pr_full	arc	bac	euk	vir	mix	unaligned	hallmark_cnt	group	shape	seqname_new	final_max_score	final_max_score_group
+GCA_013114065.1_37	1	4	64	2318	0.993	0.993	1	4	64	2318	NA	NA	0	1	4	64	2318	0.993	0.0	0.0	0.0	25.0	0.0	75.0	0	ssDNA	linear	GCA_013114065.1_37||full	0.993	ssDNA
+GCA_013114065.1_36	1	4	64	2319	0.993	0.993	1	4	64	2319	NA	NA	0	1	4	64	2319	0.993	0.0	0.0	0.0	25.0	0.0	75.0	0	ssDNA	linear	GCA_013114065.1_36||full	0.993	ssDNA
+GCA_013114065.1_34	1	4	3	2599	1.0	1.0	1	4	3	2599	NA	NA	0	1	4	3	2599	1.0	0.0	25.0	0.0	75.0	0.0	0.0	3	dsDNAphage	linear	GCA_013114065.1_34||full	1.0	dsDNAphage
+GCA_013114065.1_33	1	4	3	2599	1.0	1.0	1	4	3	2599	NA	NA	0	1	4	3	2599	1.0	0.0	25.0	0.0	75.0	0.0	0.0	3	dsDNAphage	linear	GCA_013114065.1_33||full	1.0	dsDNAphage
+GCA_013114065.1_26	1	30	490	15814	0.973	0.98	1	30	490	15814	NA	NA	0	1	30	490	15814	0.973	0.0	3.3	0.0	13.3	0.0	83.3	1	dsDNAphage	circular	GCA_013114065.1_26||full	0.973	dsDNAphage
+GCA_013114065.1_25	1	28	3	18624	0.947	0.96	1	28	3	18624	NA	NA	0	1	28	3	18624	0.947	0.0	32.1	0.0	28.6	0.0	39.3	6	dsDNAphage	linear	GCA_013114065.1_25||full	0.947	dsDNAphage
+GCA_013114065.1_22	1	28	1	20149	0.947	0.947	1	28	1	20149	NA	NA	0	1	28	1	20149	0.947	0.0	14.3	0.0	25.0	14.3	46.4	1	dsDNAphage	linear	GCA_013114065.1_22||full	0.947	dsDNAphage
+GCA_013114065.1_57	259	285	308556	329066	0.953	0.967	259	285	308556	329066	0.953	0.987	1	1	285	238	329066	0.327	0.0	22.2	0.0	40.7	3.7	33.3	6	dsDNAphage	linear	GCA_013114065.1_57||0_partial	0.953	dsDNAphage
+GCA_013114065.1_12	69	91	69480	84750	1.0	1.0	69	91	69480	84750	1.0	1.0	1	1	91	1	84750	0.333	0.0	4.3	0.0	34.8	8.7	52.2	1	dsDNAphage	linear	GCA_013114065.1_12||0_partial	1.0	dsDNAphage
+GCA_013114065.1_11	73	90	81065	91154	0.993	0.993	73	90	81065	91154	0.993	0.993	1	1	90	2	91154	0.48	0.0	5.6	0.0	27.8	5.6	61.1	2	dsDNAphage	linear	GCA_013114065.1_11||0_partial	0.993	dsDNAphage

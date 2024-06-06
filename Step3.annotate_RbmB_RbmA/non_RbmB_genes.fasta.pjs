@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "non_RbmB_genes.fasta",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "non_RbmB_genes.fasta",
+  "number-of-letters": 3421650,
+  "number-of-sequences": 5119,
+  "last-updated": "2024-06-05T00:53:00",
+  "number-of-volumes": 1,
+  "bytes-total": 4021609,
+  "bytes-to-cache": 3467842,
+  "files": [
+    "non_RbmB_genes.fasta.pdb",
+    "non_RbmB_genes.fasta.phr",
+    "non_RbmB_genes.fasta.pin",
+    "non_RbmB_genes.fasta.pot",
+    "non_RbmB_genes.fasta.psq",
+    "non_RbmB_genes.fasta.ptf",
+    "non_RbmB_genes.fasta.pto"
+  ]
+}

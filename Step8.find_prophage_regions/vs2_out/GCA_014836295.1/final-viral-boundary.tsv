@@ -1,0 +1,11 @@
+seqname	trim_orf_index_start	trim_orf_index_end	trim_bp_start	trim_bp_end	trim_pr	trim_pr_max	prox_orf_index_start	prox_orf_index_end	prox_bp_start	prox_bp_end	prox_pr	prox_pr_max	partial	full_orf_index_start	full_orf_index_end	full_bp_start	full_bp_end	pr_full	arc	bac	euk	vir	mix	unaligned	hallmark_cnt	group	shape	seqname_new	final_max_score	final_max_score_group
+GCA_014836295.1_84	1	4	2	3273	0.9	0.9	1	4	2	3273	NA	NA	0	1	4	2	3273	0.9	0.0	0.0	0.0	75.0	0.0	25.0	0	ssDNA	linear	GCA_014836295.1_84||full	0.9	ssDNA
+GCA_014836295.1_75	1	13	292	9935	1.0	1.0	1	13	292	9935	NA	NA	0	1	13	292	9935	1.0	0.0	0.0	0.0	30.8	0.0	69.2	2	dsDNAphage	linear	GCA_014836295.1_75||full	1.0	dsDNAphage
+GCA_014836295.1_3	1	6	313	3469	0.64	0.64	1	6	313	3469	NA	NA	0	1	6	313	3469	0.64	0.0	0.0	0.0	33.3	16.7	50.0	0	dsDNAphage	linear	GCA_014836295.1_3||full	0.64	dsDNAphage
+GCA_014836295.1_276	1	5	3	9861	0.987	0.987	1	5	3	9861	NA	NA	0	1	5	3	9861	0.987	0.0	0.0	0.0	20.0	0.0	80.0	1	dsDNAphage	linear	GCA_014836295.1_276||full	0.987	dsDNAphage
+GCA_014836295.1_253	1	59	2	44096	1.0	1.0	1	59	2	44096	NA	NA	0	1	59	2	44096	1.0	0.0	11.9	0.0	37.3	6.8	44.1	10	dsDNAphage	linear	GCA_014836295.1_253||full	1.0	dsDNAphage
+GCA_014836295.1_241	1	2	25	1613	0.993	0.993	1	2	25	1613	NA	NA	0	1	2	25	1613	0.993	0.0	0.0	0.0	50.0	0.0	50.0	0	ssDNA	linear	GCA_014836295.1_241||full	0.993	ssDNA
+GCA_014836295.1_216	1	55	3	37404	1.0	1.0	1	55	3	37404	NA	NA	0	1	55	3	37404	1.0	0.0	1.8	0.0	43.6	0.0	54.5	12	dsDNAphage	linear	GCA_014836295.1_216||full	1.0	dsDNAphage
+GCA_014836295.1_151	1	28	474	26958	0.833	0.833	1	28	474	26958	NA	NA	0	1	28	474	26958	0.833	0.0	14.3	0.0	21.4	14.3	50.0	2	dsDNAphage	linear	GCA_014836295.1_151||full	0.833	dsDNAphage
+GCA_014836295.1_120	1	61	447	45984	0.987	1.0	1	61	447	45984	NA	NA	0	1	61	447	45984	0.987	0.0	8.2	0.0	59.0	3.3	29.5	16	dsDNAphage	linear	GCA_014836295.1_120||full	0.987	dsDNAphage
+GCA_014836295.1_115	1	15	419	8922	1.0	1.0	1	15	419	8922	NA	NA	0	1	15	419	8922	1.0	0.0	0.0	0.0	60.0	6.7	33.3	1	dsDNAphage	linear	GCA_014836295.1_115||full	1.0	dsDNAphage
