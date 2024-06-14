@@ -1,14 +1,16 @@
 ### Step 1. Annotate biofilm matrix cluster
-# Input: 
-wd=/gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes
+# Input:
+wd=<your path storing Prokka genome annotation and Kofam annotation output>
 mkdir -p data/
-ls ${wd}/faa/*|parallel realpath {}|parallel ln -s {} data/
-ls ${wd}/fna/*|parallel realpath {}|parallel ln -s {} data/
-ls ${wd}/gff/*|parallel realpath {}|parallel ln -s {} data/
-ls ${wd}/kofam/*|parallel realpath {}|parallel ln -s {} data/
+# make sure all .faa, .fna, .gff. .kofam files are together in data/ folder
+
+# ls ${wd}/faa/*|parallel realpath {}|parallel ln -s {} data/
+# ls ${wd}/fna/*|parallel realpath {}|parallel ln -s {} data/
+# ls ${wd}/gff/*|parallel realpath {}|parallel ln -s {} data/
+# ls ${wd}/kofam/*|parallel realpath {}|parallel ln -s {} data/
 
 # Process:
-### Annotate with prokfunfind 
+### Annotate with prokfunfind
 mkdir -p run_PFF
 cd run_PFF
 ls data/*.kofam.tsv |parallel basename {} .kofam.tsv > ko_gid.list
