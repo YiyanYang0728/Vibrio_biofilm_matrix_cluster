@@ -1,0 +1,21 @@
+>Feature GCA_015343595.1_31|2-1502
+411	1	CDS
+			product	hypothetical protein
+			locus_tag	CBDRWIFZ_CDS_0001
+			transl_table	11
+752	411	CDS
+			product	hypothetical protein
+			locus_tag	CBDRWIFZ_CDS_0002
+			transl_table	11
+1155	793	CDS
+			product	hypothetical protein
+			locus_tag	CBDRWIFZ_CDS_0003
+			transl_table	11
+1335	1231	CDS
+			product	hypothetical protein
+			locus_tag	CBDRWIFZ_CDS_0004
+			transl_table	11
+1500	1396	CDS
+			product	hypothetical protein
+			locus_tag	CBDRWIFZ_CDS_0005
+			transl_table	11

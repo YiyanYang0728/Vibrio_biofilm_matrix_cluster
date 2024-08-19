@@ -1,0 +1,68 @@
+LOCUS       GCA_015343595.1_1261|24-1201 1178 bp    DNA     linear   VRL 08-AUG-2024
+DEFINITION  GCA_015343595.1_1261|24-1201.
+ACCESSION   GCA_015343595.1_1261|24-1201
+VERSION     GCA_015343595.1_1261|24-1201
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..312
+                     /ID="LELNGFFT_CDS_0001"
+                     /phrog="17819"
+                     /top_hit="p411564 VI_01840"
+                     /locus_tag="LELNGFFT_CDS_0001"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-88.49642236346956"
+                     /phase="0"
+                     /translation="MRSTTRKTFSAEFKLEAAQLVLDKNHTIIQAAKAMNVGKSTMDKW
+                     VRQLKLERQGGTPKASPITPEQIEIRELKKQVARLEEHNLILKKATALLMSDSMNNLR"
+     CDS             complement(380..514)
+                     /ID="LELNGFFT_CDS_0002"
+                     /phrog="No_PHROG"
+                     /top_hit="No_PHROG"
+                     /locus_tag="LELNGFFT_CDS_0002"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-0.2462365007969446"
+                     /phase="0"
+                     /translation="LLVTNCAIVRAPAEPLLIRCAAFTSLHRIVKSASIWSFLFSQYL"
+     CDS             552..1178
+                     /ID="LELNGFFT_CDS_0003"
+                     /phrog="9038"
+                     /top_hit="p414660 VI_08694"
+                     /locus_tag="LELNGFFT_CDS_0003"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-8894.308799679618"
+                     /phase="0"
+                     /translation="MLKLGLVSCQQPKHAYRKATQEHVAIPNTLNRQFAVTQPDQVWCG
+                     DVTYVWVGSRWAYLAVVLDLFSRKPVGWALSLSPDSELTCKALKMAFELRAQPENVMYH
+                     SDQGSHYTSLKFRQLLWRLQIEQSMSRRGNCWDNAPMERFFRSLKSEWVPANGYGNFTE
+                     ADKEITNYITGYYSETRPHQYNGGLTPNESERLYWNDSKTVANFT"
+ORIGIN
+        1 atgagatcga caaccagaaa aacatttagc gctgaattca aactagaagc agcccaatta
+       61 gtcctcgata aaaaccacac aatcattcaa gctgcaaaag cgatgaacgt gggtaaatcg
+      121 actatggata agtgggtgag acagttaaaa ttagaacgcc agggtggcac tcccaaagca
+      181 tctccgatta cccctgaaca aattgaaatc cgtgaactga agaaacaggt agcccgtctt
+      241 gaggagcata atctaatcct aaaaaaggct accgctctct tgatgtcaga ctcgatgaac
+      301 aatttgcgct aatcagccaa ctcaagcaga gccactctat tcttacaatt tgtaatgcat
+      361 tcaaagtgca tcgaagtagc tataaatatt ggctaaaaag aaaagaccat atcgatgctg
+      421 attttacaat tctatgcagt gaagtgaagg ccgcgcatcg tattagtaat ggctctgccg
+      481 gtgctcgaac gatagcgcaa ttagtgacta acaaagggat taaactcagt cgttatcgag
+      541 ctcgtaatct catgctaaag cttgggttag ttagttgtca gcagcctaag catgcttata
+      601 ggaaagcaac gcaagaacat gtcgctatcc caaatacgct taatcgacag tttgctgtta
+      661 cccaaccaga tcaagtctgg tgtggcgacg tgacgtatgt ttgggtcggc agtcgttggg
+      721 catatttagc ggttgttcta gacttatttt cccgcaaacc tgtgggatgg gcgttgtcat
+      781 tatcgcctga cagtgagctg acgtgtaagg ccttgaaaat ggcatttgag ttaagggcac
+      841 aacctgagaa tgtgatgtat cacagcgacc aaggttcaca ttatactagc ttgaaattcc
+      901 ggcaattatt atggcgtctt cagattgagc aaagcatgag tcgtcgcggg aattgttggg
+      961 ataatgcccc aatggagcgt ttctttagaa gtttaaaatc tgaatgggtg ccagcaaatg
+     1021 gttatggtaa ttttacagaa gcagataaag aaataacaaa ctacatcact ggatattaca
+     1081 gtgaaaccag accccatcaa tataatggtg ggttaacacc aaatgagtca gaacgtttat
+     1141 attggaatga ctctaaaacc gtggccaatt ttacttga
+//

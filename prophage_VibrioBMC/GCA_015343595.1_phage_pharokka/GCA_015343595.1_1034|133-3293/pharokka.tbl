@@ -1,0 +1,29 @@
+>Feature GCA_015343595.1_1034|133-3293
+531	1	CDS
+			product	hypothetical protein
+			locus_tag	ACQBVZRA_CDS_0001
+			transl_table	11
+1050	640	CDS
+			product	hypothetical protein
+			locus_tag	ACQBVZRA_CDS_0002
+			transl_table	11
+1315	1100	CDS
+			product	hypothetical protein
+			locus_tag	ACQBVZRA_CDS_0003
+			transl_table	11
+1625	1326	CDS
+			product	hypothetical protein
+			locus_tag	ACQBVZRA_CDS_0004
+			transl_table	11
+2039	1725	CDS
+			product	hypothetical protein
+			locus_tag	ACQBVZRA_CDS_0005
+			transl_table	11
+2292	2161	CDS
+			product	hypothetical protein
+			locus_tag	ACQBVZRA_CDS_0006
+			transl_table	11
+3161	2367	CDS
+			product	hypothetical protein
+			locus_tag	ACQBVZRA_CDS_0007
+			transl_table	11

@@ -1,0 +1,61 @@
+LOCUS       GCA_015343595.1_1018|1-1144 1144 bp    DNA     linear   VRL 08-AUG-2024
+DEFINITION  GCA_015343595.1_1018|1-1144.
+ACCESSION   GCA_015343595.1_1018|1-1144
+VERSION     GCA_015343595.1_1018|1-1144
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             complement(1..405)
+                     /ID="QEVDIZTJ_CDS_0001"
+                     /phrog="109"
+                     /top_hit="p307819 VI_07091"
+                     /locus_tag="QEVDIZTJ_CDS_0001"
+                     /function="DNA"
+                     /function=" RNA and nucleotide metabolism"
+                     /product="P-like helicase loader"
+                     /source="PHANOTATE"
+                     /score="-672.9035411252627"
+                     /phase="0"
+                     /translation="MIARNIAEIISLDSHARTVRFGQNEEIVKRPRKEHQPHPDRLQEA
+                     AGIINKLFAELQACFPAWKHSFPGQHDIAAAKRTWARGLVDAGISSEQQLQWGLRKARR
+                     SESPFWPSLGQFVKWCQPDPEDFCLPTPEVA"
+     CDS             complement(407..1144)
+                     /ID="QEVDIZTJ_CDS_0002"
+                     /phrog="37920"
+                     /top_hit="KU160673_p72"
+                     /locus_tag="QEVDIZTJ_CDS_0002"
+                     /function="DNA"
+                     /function=" RNA and nucleotide metabolism"
+                     /product="HTH DNA binding protein"
+                     /source="PHANOTATE"
+                     /score="-25121.76399304575"
+                     /phase="0"
+                     /translation="MSVIRRAHEQEFTVLPNRTIRDSRLSLDALGLLLKLISRPPNWEV
+                     RPYQLQKECSIGRDKLRRLLTELQDCGYLVRIKSRRADGTWDWISEVYQEAQTQSDSTM
+                     CGNSGHGSTIDVFPVDDSAVSGSPDDGKHGALKKKVLKNTKSQKTDTRESSSFTRRDLV
+                     ITDEMRHWANSVTPLVSIEWESQIFVNHPSGQTQRFNSSEALIGAWRTWMIRGQKYAEQ
+                     QQSTSQRRSLVDDLNDTSWAEGL"
+ORIGIN
+        1 cgctacttca ggcgtgggca aacagaaatc ttctggatct ggctggcacc atttaacgaa
+       61 ttgcccaagc gacggccaga atggggattc tgatcgtcga gccttcctta gtccccactg
+      121 gagctgttgt tcagaactga taccagcgtc taccaatcca cgtgcccatg ttcgtttcgc
+      181 ggcggcaatg tcgtgctgac ctggaaagct atgcttccat gcagggaaac aagcttggag
+      241 ttcagcgaaa agtttgttga tgatgcctgc cgcctcttgg aggcggtcag gatgtggctg
+      301 atgttctttg cgaggacgtt taacaatctc ctcattttgc ccaaacctga cggtccgggc
+      361 atgactatcc aaggaaatga tttcggcgat gtttctagct atcattttat agcccctccg
+      421 cccatgatgt atcattcaaa tcgtcaacta gagagcgcct ttgggacgtt gactgttgtt
+      481 gctctgcata cttttgacct ctgatcatcc aagtacgcca tgcgccgatc agtgcctcac
+      541 ttgagttgaa ccgctgggtt tgtccactgg gatggttaac aaaaatttgg ctttcccact
+      601 cgatactgac tagtggtgta acagaattcg cccaatgccg catttcatca gttataacca
+      661 aatcacgacg ggtaaaggaa gagctctctc ttgtatctgt tttttgtgat tttgtatttt
+      721 ttaaaacttt cttttttaga gcgccgtgtt taccgtcgtc gggtgaacca cttacggctg
+      781 aatcatcgac gggaaacacg tctatggtag aaccatgccc tgaatttccg cacatggtgc
+      841 tatcactctg agtttgggcc tcctgataaa cttctgaaat ccagtcccat gttccatctg
+      901 cacgccttga tttaatacga acgagataac cacaatcctg tagctcagtg agcaagcggc
+      961 gcaacttatc tctgccaatt gagcattctt tttgcaattg ataaggccgt acttcccagt
+     1021 ttggtggacg tgaaattagc tttaatagga gacctagcgc atccagagat agtcttgagt
+     1081 cacgaattgt tcgattgggc agaactgtaa attcttgttc atgcgctctg cggataacac
+     1141 tcat
+//

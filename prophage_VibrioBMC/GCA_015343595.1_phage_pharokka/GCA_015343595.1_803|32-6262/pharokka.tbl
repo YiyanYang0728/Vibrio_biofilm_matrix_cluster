@@ -1,0 +1,17 @@
+>Feature GCA_015343595.1_803|32-6262
+537	1	CDS
+			product	hypothetical protein
+			locus_tag	ZSEFKHLZ_CDS_0001
+			transl_table	11
+2730	541	CDS
+			product	hypothetical protein
+			locus_tag	ZSEFKHLZ_CDS_0002
+			transl_table	11
+5198	2742	CDS
+			product	hypothetical protein
+			locus_tag	ZSEFKHLZ_CDS_0003
+			transl_table	11
+6231	5203	CDS
+			product	integrase
+			locus_tag	ZSEFKHLZ_CDS_0004
+			transl_table	11

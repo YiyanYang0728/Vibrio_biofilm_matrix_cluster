@@ -1,0 +1,21 @@
+>Feature GCA_015343595.1_9|1-1358
+3	119	CDS
+			product	hypothetical protein
+			locus_tag	UNPEMCNY_CDS_0001
+			transl_table	11
+217	456	CDS
+			product	transposase
+			locus_tag	UNPEMCNY_CDS_0002
+			transl_table	11
+598	500	CDS
+			product	hypothetical protein
+			locus_tag	UNPEMCNY_CDS_0003
+			transl_table	11
+909	646	CDS
+			product	hypothetical protein
+			locus_tag	UNPEMCNY_CDS_0004
+			transl_table	11
+1358	906	CDS
+			product	hypothetical protein
+			locus_tag	UNPEMCNY_CDS_0005
+			transl_table	11

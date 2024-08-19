@@ -1,0 +1,55 @@
+LOCUS       GCA_015343595.1_683|1-1073 1073 bp    DNA     linear   VRL 08-AUG-2024
+DEFINITION  GCA_015343595.1_683|1-1073.
+ACCESSION   GCA_015343595.1_683|1-1073
+VERSION     GCA_015343595.1_683|1-1073
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             complement(80..259)
+                     /ID="YYVCRJCG_CDS_0001"
+                     /phrog="No_PHROG"
+                     /top_hit="No_PHROG"
+                     /locus_tag="YYVCRJCG_CDS_0001"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-0.1659121644489744"
+                     /phase="0"
+                     /translation="LKTSHNIFTLWLCLSFLIIKNCSVSPTSREPWLFLVFHYALQGEP
+                     ASFSIPEFLFAQGS"
+     CDS             447..1073
+                     /ID="YYVCRJCG_CDS_0002"
+                     /phrog="9038"
+                     /top_hit="p414660 VI_08694"
+                     /locus_tag="YYVCRJCG_CDS_0002"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-2611.3610449646776"
+                     /phase="0"
+                     /translation="MRTLGLVSCQEPKHRYRKASQEHIDVPNHLSRQFAVTAPNEVWVG
+                     DVTYIWTGNRWMYLAVVIDLFARKVIGWSMSLSPDSRLTGKALSMAYESRGKPKGVMFH
+                     SDQGSHYTSRKYRQLLWCFQIKQSLSRRGNCWDNAPMERFFRSLKTEWVPAVGYRSFAE
+                     AQQEITRYIIGYYCQLRPHQYNGGLTPNESERLYWENSKTVANFS"
+ORIGIN
+        1 aatgtgggca agtccacgat ggataaatgg gttcgccagc ttagagaaga acgccaaggg
+       61 aaaacaccga aagcttcacc tatgacccct gagcaaatag aaattcggga attgaaaaag
+      121 aagctggctc gccttgaaga gcataatgaa atactaaaaa aagccacggc tctcttgatg
+      181 tcggactcac tgaacaattc ttgataatca agaaactcaa gcagagccac agcgtaaaaa
+      241 tattatgcga agtcttcaat gttcatcgaa gtagttatca ctattggctt aaacgcccag
+      301 cgttaattaa tgcggaaaca ataaaactgc gcagcttgat tagcgaggct cacgccgcaa
+      361 gcaatggctc tgcgggagcg agaaccattg cagatatagt cacaaatcag ggtgtaaagc
+      421 tgagccgata ccgagcaaca aagctaatga gaactcttgg tttagtgagc tgccaagaac
+      481 caaagcatcg ttacagaaag gcttcacaag aacatattga cgttccaaat cacttaagtc
+      541 gtcagtttgc tgttacggct ccaaatgaag tctgggttgg cgatgttacg tatatttgga
+      601 caggtaatcg gtggatgtat ttagcggtcg ttatcgatct ttttgcccgc aaagtgatcg
+      661 gttggtcaat gtctttgtcg cctgatagtc ggttgacagg taaagcgctg tctatggcct
+      721 atgaatctcg cggaaagcca aaaggtgtca tgttccatag cgatcaaggc agtcactata
+      781 ccagccgtaa ataccgtcaa ttgctgtggt gttttcaaat aaaacagagt ttatctcgcc
+      841 gaggaaattg ttgggataat gcgccgatgg agcgcttctt tagaagtctg aagacggaat
+      901 gggtgccagc tgtgggttat cgtagcttcg ctgaggctca acaagagatc acccgctaca
+      961 ttatcggata ttactgccaa ctcaggccac atcagtataa cggtggtcta actcccaatg
+     1021 aatcagaacg attatattgg gaaaactcta aaaccgtggc caattttagt tga
+//

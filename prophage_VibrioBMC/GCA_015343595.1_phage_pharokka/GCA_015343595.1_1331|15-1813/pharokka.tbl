@@ -1,0 +1,9 @@
+>Feature GCA_015343595.1_1331|15-1813
+1	873	CDS
+			product	head maturation protease
+			locus_tag	IDVGFXTU_CDS_0001
+			transl_table	11
+876	1799	CDS
+			product	major head protein
+			locus_tag	IDVGFXTU_CDS_0002
+			transl_table	11

@@ -1,0 +1,73 @@
+>Feature GCA_013114135.1_13|51562-62367
+1	522	CDS
+			product	DNA helicase
+			locus_tag	VMCXNSQY_CDS_0001
+			transl_table	11
+543	1832	CDS
+			product	DNA helicase
+			locus_tag	VMCXNSQY_CDS_0002
+			transl_table	11
+1918	2178	CDS
+			product	hypothetical protein
+			locus_tag	VMCXNSQY_CDS_0003
+			transl_table	11
+2162	2287	CDS
+			product	hypothetical protein
+			locus_tag	VMCXNSQY_CDS_0004
+			transl_table	11
+2353	3258	CDS
+			product	hypothetical protein
+			locus_tag	VMCXNSQY_CDS_0005
+			transl_table	11
+3440	4630	CDS
+			product	hypothetical protein
+			locus_tag	VMCXNSQY_CDS_0006
+			transl_table	11
+4623	4985	CDS
+			product	hypothetical protein
+			locus_tag	VMCXNSQY_CDS_0007
+			transl_table	11
+5046	5768	CDS
+			product	hypothetical protein
+			locus_tag	VMCXNSQY_CDS_0008
+			transl_table	11
+5925	6500	CDS
+			product	hypothetical protein
+			locus_tag	VMCXNSQY_CDS_0009
+			transl_table	11
+6529	6642	CDS
+			product	hypothetical protein
+			locus_tag	VMCXNSQY_CDS_0010
+			transl_table	11
+6660	6785	CDS
+			product	hypothetical protein
+			locus_tag	VMCXNSQY_CDS_0011
+			transl_table	11
+6912	7775	CDS
+			product	hypothetical protein
+			locus_tag	VMCXNSQY_CDS_0012
+			transl_table	11
+7789	7884	CDS
+			product	hypothetical protein
+			locus_tag	VMCXNSQY_CDS_0013
+			transl_table	11
+7974	8198	CDS
+			product	hypothetical protein
+			locus_tag	VMCXNSQY_CDS_0014
+			transl_table	11
+8426	8316	CDS
+			product	hypothetical protein
+			locus_tag	VMCXNSQY_CDS_0015
+			transl_table	11
+8545	9048	CDS
+			product	hypothetical protein
+			locus_tag	VMCXNSQY_CDS_0016
+			transl_table	11
+9035	9364	CDS
+			product	hypothetical protein
+			locus_tag	VMCXNSQY_CDS_0017
+			transl_table	11
+9655	10806	CDS
+			product	hypothetical protein
+			locus_tag	VMCXNSQY_CDS_0018
+			transl_table	11

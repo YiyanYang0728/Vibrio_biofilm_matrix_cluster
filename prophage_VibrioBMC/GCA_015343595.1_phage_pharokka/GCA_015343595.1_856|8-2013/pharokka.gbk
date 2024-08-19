@@ -1,0 +1,89 @@
+LOCUS       GCA_015343595.1_856|8-2013 2006 bp    DNA     linear   VRL 08-AUG-2024
+DEFINITION  GCA_015343595.1_856|8-2013.
+ACCESSION   GCA_015343595.1_856|8-2013
+VERSION     GCA_015343595.1_856|8-2013
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..1464
+                     /ID="QATCAVSC_CDS_0001"
+                     /phrog="18263"
+                     /top_hit="p250601 VI_03655"
+                     /locus_tag="QATCAVSC_CDS_0001"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-210984190772.34903"
+                     /phase="0"
+                     /translation="LTTTVLETKNREVLKYIFNVLDSNIADLESEISIKSKKKQELTQE
+                     FKVVSRFLESVKFEEAVDIDDEITRLDELKITLNRELRNIDGKVTSESQLYSALKEARQ
+                     TILLKIKELEHKKIDSERNIERFSRLHNDYQNDINKIKSAKAAKELIGKESKNNTSCPI
+                     CESVLCTEDISEHFEISDNVKLDNEINSITRRCRELLELIHKNRSDLTEHVKNLNDLYK
+                     EKKDAEKYIDEELSKSISPYLSERDFLVREIAKNQQIRDALVSSLKVRNKQRDIAEKIG
+                     KIDSDIVSLKEKLEQLQKNAPSISDVLKKLGGHFDEFLSKIKINNHSGIKIDERTFLPV
+                     IRNIEYRHINSGGMRTIASIGYLYSILKSKLSMDTNLPNLMMIDTVGKFLGKTPENWNT
+                     QTDVLADIEEGVSDPEKYKNLYKSLIDLAQEFSTEDKLCQIILVDNDLPPEISETYRHL
+                     LVAHYRTNGVNGLPKGLIDDWSGLKFNSN"
+     CDS             1513..1638
+                     /ID="QATCAVSC_CDS_0002"
+                     /phrog="No_PHROG"
+                     /top_hit="No_PHROG"
+                     /locus_tag="QATCAVSC_CDS_0002"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-0.1856331908359643"
+                     /phase="0"
+                     /translation="VFNQTVHDSEHLKGYFNIAIILELKRPRLVISACYNHTENG"
+     CDS             complement(1620..1991)
+                     /ID="QATCAVSC_CDS_0003"
+                     /phrog="5682"
+                     /top_hit="MF001354_p127"
+                     /locus_tag="QATCAVSC_CDS_0003"
+                     /function="DNA"
+                     /function=" RNA and nucleotide metabolism"
+                     /product="thymidylate synthase"
+                     /source="PHANOTATE"
+                     /score="-912.4448234674328"
+                     /phase="0"
+                     /translation="MYSHHFSILGDTLYLNSTQRSCDVPLGLNFNMVQCYFLLAIMAQI
+                     TGLKAGKVFHKIVNAHIYEDQYELMRDVQLKRSPLKSPTFHINPEIKSLEDLETWVTLD
+                     DFKVEGYEYHEPIAYPFSV"
+ORIGIN
+        1 ttgaccacta cagttttaga aacaaagaat agagaagttc taaagtatat attcaatgtt
+       61 cttgacagta atatcgcaga tttagaatca gaaataagca taaagtcgaa gaaaaaacaa
+      121 gagttaactc aagagtttaa agttgtatcg agatttcttg aatctgttaa gtttgaagaa
+      181 gcagttgata ttgatgatga aataacaaga ctagatgagc ttaagataac tctaaaccgt
+      241 gagttaagaa atattgatgg taaagttacg tcagaaagtc agttatactc ggcactaaaa
+      301 gaagctcgtc aaacaattct tcttaaaatt aaagaattgg aacataaaaa aatagattcc
+      361 gaacggaaca tagaaaggtt ttctagatta cacaatgact atcaaaatga catcaacaag
+      421 ataaagtcgg ctaaagctgc taaagaattg ataggaaaag aaagtaagaa taatactagt
+      481 tgtcctattt gtgaaagtgt cttgtgtact gaagatatca gcgagcattt tgaaatttca
+      541 gataatgtta aacttgacaa tgaaataaat tcaataactc gaagatgtag agagttatta
+      601 gagctaattc ataaaaacag aagcgactta actgagcatg taaaaaattt aaacgattta
+      661 tacaaagaga aaaaagacgc tgaaaaatat attgatgaag aactatctaa atcaatttct
+      721 ccttatttgt ctgaaagaga ttttctcgtt agggagatcg caaaaaacca gcaaattagg
+      781 gatgcactag tcagttcttt aaaggtaaga aataagcagc gtgatattgc ggaaaaaatt
+      841 ggaaagatag atagtgacat cgtctcttta aaggaaaagc ttgagcaatt acaaaaaaat
+      901 gctccatcta tttcagatgt attgaagaag ttaggtggtc attttgacga atttctatcg
+      961 aaaataaaaa taaataatca ctcgggaatt aaaattgacg agaggacgtt tttaccagtt
+     1021 ataagaaata tagaatacag acatattaat tctggtggta tgagaacgat cgcttccatt
+     1081 ggttatcttt attccatttt aaaatctaag ctatcaatgg atactaattt accaaatctc
+     1141 atgatgattg atactgttgg taaattccta ggtaagactc ctgagaactg gaatactcaa
+     1201 accgatgttc ttgctgacat agaggaaggt gtatcagatc ctgaaaaata taagaatctg
+     1261 tataaatcat tgattgattt ggctcaagag ttttcgactg aagacaaatt atgtcaaata
+     1321 atattagtcg ataatgatct tccgccagaa atatcggaaa cgtatcgtca cttacttgtt
+     1381 gctcactaca gaacgaatgg tgtgaatgga ctgcctaaag gactaataga cgattggtct
+     1441 ggattgaagt ttaattcaaa ttgataaaca agctgttgta gatcgcagga ggacaactaa
+     1501 gttgcactat atgtgttcaa tcagaccgtg catgattcag agcaccttaa aggctatttc
+     1561 aatattgcca tcatactaga attaaaaagg ccaagattgg tgatctcggc ctgctataat
+     1621 catactgaga atgggtaagc tattggttcg tgatattcat agccttctac tttgaagtcg
+     1681 tcaagagtaa cccacgtttc caagtcttct agagatttga tttctggatt gatatggaat
+     1741 gttggcgatt tcaatgggct acgcttaagt tgtacatcac gcattaactc gtattggtct
+     1801 tcgtatatat gtgcatttac tattttgtga aaaactttcc ccgctttgag gcctgtgatt
+     1861 tgagccatga tcgctagtaa aaagtagcat tgaaccatat tgaagtttag gccaagtggt
+     1921 acatcacaag aacgttgtgt actgttcaga tatagagtat cgcctaaaat tgagaaatga
+     1981 tggctataca tacaaggacg taagca
+//

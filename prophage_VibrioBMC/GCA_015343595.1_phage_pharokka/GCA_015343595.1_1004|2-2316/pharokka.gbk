@@ -1,0 +1,128 @@
+LOCUS       GCA_015343595.1_1004|2-2316 2315 bp    DNA     linear   VRL 08-AUG-2024
+DEFINITION  GCA_015343595.1_1004|2-2316.
+ACCESSION   GCA_015343595.1_1004|2-2316
+VERSION     GCA_015343595.1_1004|2-2316
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             complement(1..624)
+                     /ID="HBBMSUDV_CDS_0001"
+                     /phrog="4771"
+                     /top_hit="AP017924_p168"
+                     /locus_tag="HBBMSUDV_CDS_0001"
+                     /function="other"
+                     /product="DHH phosphoesterase"
+                     /source="PHANOTATE"
+                     /score="-89774.6520472167"
+                     /phase="0"
+                     /translation="MGAAWVVHHALTQEKDIEFIAASYQQDLPDVTNAHVIIVDFSFKK
+                     DDMKQLAQKAKSITVIDHHKTAEKELSELLEGGVIDGVFDMTKSGAMLAWEWFFGDVEP
+                     PALIQHIQDRDLWKFELPGTREIQAALYSYPMEFNVWNMLMAIDTRTLYEEGVAINRAH
+                     MKNINGLVDFCVYESVIAGYLVPTLNCNYMFASDTGNIMAIGVPF"
+     CDS             complement(677..886)
+                     /ID="HBBMSUDV_CDS_0002"
+                     /phrog="16987"
+                     /top_hit="p435607 VI_11787"
+                     /locus_tag="HBBMSUDV_CDS_0002"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-27.178588272087207"
+                     /phase="0"
+                     /translation="METKKTEFGLVTISRPYFSRLSLSRVKSITLVKEENTNYGWGVSR
+                     ELPENLTITPELINVFAKEASELI"
+     CDS             complement(889..1503)
+                     /ID="HBBMSUDV_CDS_0003"
+                     /phrog="1891"
+                     /top_hit="NC_031036_p48"
+                     /locus_tag="HBBMSUDV_CDS_0003"
+                     /function="DNA"
+                     /function=" RNA and nucleotide metabolism"
+                     /product="HNH endonuclease"
+                     /source="PHANOTATE"
+                     /score="-6758.713051572808"
+                     /phase="0"
+                     /translation="MQRKCDYSSEMKAFLAEHYPVAPAADWVEKFNQTFGTKKSKAALV
+                     SSCKRFGIKSGRNGQFYKGMVPPNKGKPHPSRGRSRETLFGGVRGHKPDNKKPIGSTRI
+                     CSKDGYLVVKVGEPSVWKHAHVHLWEANNGKVPTGFVVRFYDNSPDKLKSPTLDNLFLV
+                     SRPVHCRLTQMKLCDIPMEHKDTAILIAKIEQQIKKIESKR"
+     CDS             complement(1470..1721)
+                     /ID="HBBMSUDV_CDS_0004"
+                     /phrog="2044"
+                     /top_hit="p221221 VI_00834"
+                     /locus_tag="HBBMSUDV_CDS_0004"
+                     /function="DNA"
+                     /function=" RNA and nucleotide metabolism"
+                     /product="RNA polymerase beta subunit"
+                     /source="PHANOTATE"
+                     /score="-35.730082602188894"
+                     /phase="0"
+                     /translation="VKNKLADLNDHLFAQLERLSEEDTKGDALLEEINRAKAVTSVSKE
+                     IISNASLLLDAVKFKNDFRGANLPEQLQCKENAITHQK"
+     CDS             complement(1753..2010)
+                     /ID="HBBMSUDV_CDS_0005"
+                     /phrog="10566"
+                     /top_hit="p168785 VI_12009"
+                     /locus_tag="HBBMSUDV_CDS_0005"
+                     /function="transcription regulation"
+                     /product="transcriptional regulator"
+                     /source="PHANOTATE"
+                     /score="-303.6318914326166"
+                     /phase="0"
+                     /translation="MTMLAGMESQERLELVISLTSIRSEPMKAALQRHFVDGVNSSACA
+                     ALEDIPESNFQRAIDRVQAADAIIEKVKEIDWARFKSENR"
+     CDS             complement(2010..2315)
+                     /ID="HBBMSUDV_CDS_0006"
+                     /phrog="17597"
+                     /top_hit="p15824 VI_02972"
+                     /locus_tag="HBBMSUDV_CDS_0006"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-85.92786138084713"
+                     /phase="0"
+                     /translation="ESDGWDVNRDFIAALENVCGHLAMAERTLVSSWFDDNKPVAPFNV
+                     GDELIVNGEVGVISEIFKHSPAYFGVKMPGMDENTCRLVKFEDAVPHLKVLSINKE"
+ORIGIN
+        1 gaaaggaacg cctatggcca tgatgtttcc agtatcagaa gcaaacatat aattgcaatt
+       61 gagcgtcggg accaaataac cagcaataac agactcatat acgcaaaaat caaccaagcc
+      121 atttatattt ttcatatgag ctcggttgat tgccacacct tcttcatata atgtcctggt
+      181 atcaatggcc attagcatat tccaaacatt gaactccatt gggtatgaat acaatgctgc
+      241 ttgaatctct cttgttcctg gtaactcaaa cttccacaag tcacgatctt ggatgtgttg
+      301 aatcaacgct ggcggctcaa catcaccaaa gaaccactcc caagcgagca tcgctcctga
+      361 ttttgtcata tcaaaaactc catcaatcac cccaccttca agcagctcag ataactcttt
+      421 ctctgctgtt ttatgatgat caataacggt gattgatttt gctttttgtg ccaactgttt
+      481 catgtcgtct tttttgaagc tgaaatcaac aataatgacg tgagcgttag tgacatctgg
+      541 aagatcttgt tgataagatg cggcgataaa ttcaatatct ttttcttggg ttagggcgtg
+      601 atgaacaacc catgcagctc ccattccgtc gcaacagttg gcatgataaa tacagatagt
+      661 tttcaagtta agatccttaa atcaactcgc ttgcttcttt ggcaaacacg ttaattagtt
+      721 ctggtgtgat ggttaggttt tctggcagct ctctacttac tccccagccg tagtttgtgt
+      781 tttcttcttt aaccaaagtt atagatttaa cacgtgatag gcttagtcgg ctgaagtagg
+      841 ggcgtgatat ggttacaagg ccaaattctg tttttttggt ttccatgctt acctcttact
+      901 ttctattttt tttatttgct gctcaatttt tgcgattaaa attgccgtgt ctttgtgttc
+      961 catagggatg tcacacagct tcatttgagt taatcgacag tgaactgggc ggctaacaag
+     1021 aaataagtta tccagagttg gagatttaag cttatctgga gagttatcgt aaaatcgcac
+     1081 aacaaagcca gtaggaacct ttccgttgtt agcctcccaa aggtgaacat gggcgtgttt
+     1141 ccatacgcta ggctcaccaa ctttaacgac taggtatcca tctttagagc aaattcgagt
+     1201 agatccgata ggctttttat tgtctggctt atgaccgcga actccaccaa aaagcgtctc
+     1261 tctagacctt cctcttgatg ggtgtggttt gcctttattt ggtgggacca ttcctttgta
+     1321 gaactgccca ttccttccgg atttaatgcc aaatcgtttg catgaactaa ccaaggctgc
+     1381 tttgcttttt tttgtgccaa atgtttggtt gaacttttca acccaatccg cagccggagc
+     1441 aacaggatag tgttcggcta aaaacgcttt catttctgat gagtaatcgc attttctttg
+     1501 cattgaagct gctccggcaa gtttgcgcct ctgaagtcat ttttaaactt cactgcatca
+     1561 agaagaagtg atgcatttga aatgatctct ttagagactg aagtaactgc ttttgctcgg
+     1621 ttaatttctt ctaaaagagc atcaccttta gtgtcttctt ctgataaccg ctctagctga
+     1681 gcaaatagat gatcgtttaa atctgcaagc ttgtttttca cgttaatccc tcgcaattaa
+     1741 gataaggttt gcttatcggt tttccgattt aaagcgagcc caatctattt cttttacttt
+     1801 ttcgataata gcgtcagctg cctgaactct atcgattgct cgctgaaagt tagactctgg
+     1861 aatatcttcc agagcagcac acgccgacga attaacacca tctacaaaat gtctttgtaa
+     1921 cgctgccttc atgggttcac ttcgaatgct agttagtgat ataacaagct caagccgttc
+     1981 ttggctttcc attcctgcca gcatagtcat cactccttgt taatggataa tacttttagg
+     2041 tgtggaacgg catcttcaaa ctttactaat cggcatgtgt tctcatccat gcccggcatt
+     2101 ttcacgccga agtaagcggg tgagtgttta aatatttcac ttataacacc aacttcgcca
+     2161 ttaacgatca gttcatcacc aacattaaac ggtgcgactg gcttgttatc atcaaaccaa
+     2221 cttgaaacta aagttcgctc agccatcgct aaatgtccgc atacattttc aagcgctgcg
+     2281 ataaaatcac gattaacatc ccagccatct gattc
+//

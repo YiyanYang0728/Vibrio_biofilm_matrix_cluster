@@ -6,7 +6,7 @@ start=`cut -f2 ${gene}.tmp`
 end=`cut -f3 ${gene}.tmp`
 
 # doc=`echo ${gid}|awk '{print substr($0,1,3)"/"substr($0,5,3)"/"substr($0,8,3)"/"substr($0,11,3)}'`
-fgrep -w ${ctg} /gpfs/gsfs12/users/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/RbmB_genes/Vibrio_rhbh_evol/run_virsorter2/vs2_prophage_regions.tsv > ${gene}.vs2.tmp
+fgrep -w ${ctg} /data/yangy34/projects/vibrio_paper/Step8.find_prophage_regions/vs2_prophage_regions.tsv > ${gene}.vs2.tmp
 printout=0
 if [ -s ${gene}.vs2.tmp ]
 then

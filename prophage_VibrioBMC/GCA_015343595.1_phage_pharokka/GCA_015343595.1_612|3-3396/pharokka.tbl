@@ -1,0 +1,17 @@
+>Feature GCA_015343595.1_612|3-3396
+1	1563	CDS
+			product	hypothetical protein
+			locus_tag	GRNHRSCA_CDS_0001
+			transl_table	11
+1563	2066	CDS
+			product	hypothetical protein
+			locus_tag	GRNHRSCA_CDS_0002
+			transl_table	11
+2238	2702	CDS
+			product	hypothetical protein
+			locus_tag	GRNHRSCA_CDS_0003
+			transl_table	11
+2741	3394	CDS
+			product	DNA invertase
+			locus_tag	GRNHRSCA_CDS_0004
+			transl_table	11

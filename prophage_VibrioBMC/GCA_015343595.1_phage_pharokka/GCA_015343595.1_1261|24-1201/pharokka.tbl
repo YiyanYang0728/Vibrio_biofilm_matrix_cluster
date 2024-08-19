@@ -1,0 +1,13 @@
+>Feature GCA_015343595.1_1261|24-1201
+1	312	CDS
+			product	hypothetical protein
+			locus_tag	LELNGFFT_CDS_0001
+			transl_table	11
+514	380	CDS
+			product	hypothetical protein
+			locus_tag	LELNGFFT_CDS_0002
+			transl_table	11
+552	1178	CDS
+			product	hypothetical protein
+			locus_tag	LELNGFFT_CDS_0003
+			transl_table	11

@@ -1,0 +1,82 @@
+LOCUS       GCA_015343595.1_966|2-1203 1202 bp    DNA     linear   VRL 08-AUG-2024
+DEFINITION  GCA_015343595.1_966|2-1203.
+ACCESSION   GCA_015343595.1_966|2-1203
+VERSION     GCA_015343595.1_966|2-1203
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             complement(42..236)
+                     /ID="WGKTUVLH_CDS_0001"
+                     /phrog="No_PHROG"
+                     /top_hit="No_PHROG"
+                     /locus_tag="WGKTUVLH_CDS_0001"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-5.1618310020073"
+                     /phase="0"
+                     /translation="MRFSCVDSCAKNTHTSLSRSLVTCRLCNVLSKSIALTFPSCANAS
+                     ETHQTKSRLRTRSLMTLTI"
+     CDS             complement(266..799)
+                     /ID="WGKTUVLH_CDS_0002"
+                     /phrog="No_PHROG"
+                     /top_hit="No_PHROG"
+                     /locus_tag="WGKTUVLH_CDS_0002"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-3062.57881116039"
+                     /phase="0"
+                     /translation="MSMEHLYTPALEPVRHFSEPRLPIEPKRFVSAPKFISKPRLSSFA
+                     QFMEDFKLPKRYDLSKINTLTNWREDLYRSTFRHGDFSRHMTRSFLDTCDNKSFNEAMI
+                     QVQAANDRLLINGHSAAMSDDEIKDLASAKSRAFKKQILSLPEPEQFAKACQLLASLGL
+                     SFRDELIKEKGKKR"
+     CDS             complement(802..1035)
+                     /ID="WGKTUVLH_CDS_0003"
+                     /phrog="5006"
+                     /top_hit="p421320 VI_07701"
+                     /locus_tag="WGKTUVLH_CDS_0003"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-12.464520500824818"
+                     /phase="0"
+                     /translation="MAILVKKAKLSNSMNPFVIIQLTSNHFLSSNGSYGSNRFAITPCR
+                     LNAVKLPLVTANSVLHQVKREFPLAQISYEVC"
+     CDS             complement(1038..1202)
+                     /ID="WGKTUVLH_CDS_0004"
+                     /phrog="No_PHROG"
+                     /top_hit="No_PHROG"
+                     /locus_tag="WGKTUVLH_CDS_0004"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-0.0879808504927136"
+                     /phase="0"
+                     /translation="QIHDSRTSYRWQSLTNACKQQGVDVSDLSAHRALADCEMTRRLIH
+                     AVNAKIEAR"
+ORIGIN
+        1 aaaactgctg gggcggatca cagcaatcgt gaaccagttt tctaaatcgt tagggtcata
+       61 agcgaccgtg ttctcaagcg cgatttggtt tgatgtgttt cgctcgcgtt ggcgcatgac
+      121 ggaaaagtca gagcaataga cttgcttagc acgttgcaca agcgacaagt cacgagcgac
+      181 ctgctcaacg atgtatgcgt attttttgcg caactgtcta cgcaagaaaa tctcatcaca
+      241 aacgcgatta accaaagaaa aaagttcacc tttttttccc cttttctttg attaattcat
+      301 cacggaacga aaggcccaga gaggccaaaa gttggcaagc cttggcgaat tgctcaggct
+      361 caggcaaaga aagaatttgc tttttaaatg cgcgagattt agcggatgcc aaatctttta
+      421 tttcatcgtc agacatggcc gcgctgtggc cgttaatcag tagtcggtca ttggcggctt
+      481 gaacttgaat catggcctca ttgaacgatt tgttgtcaca ggtatctaaa aatgagcgcg
+      541 tcatgtggcg actaaaatca ccgtgacgaa aagtagagcg gtacaagtcc tcgcgccagt
+      601 tggtaagcgt gttgattttt gaaaggtcgt aacgcttagg aagtttgaaa tcctccatga
+      661 actgggcaaa agacgaaagg cgaggtttgg aaataaattt aggagcagat acgaaacgct
+      721 taggctcaat cggcaagcgt ggttcggaga aatggcgaac aggctcaaga gctggcgtgt
+      781 ataaatgctc catgctcata actagcaaac ctcgtatgaa atttgagcta gaggaaattc
+      841 acgcttaact tgatgcaaaa cagagttagc agtaacaaga ggaagcttaa cggcgttaag
+      901 gcgacatgga gtgatagcaa aacgattgga gccataagag ccgtttgaag aaagaaagtg
+      961 atttgaagtt aactgaataa tcacaaacgg attcattgag tttgataact tagctttctt
+     1021 aactaaaatt gccatgatta acgagcctca atttttgcgt taacagcatg aataaggcgg
+     1081 cgtgtcattt cgcagtcagc taaggcgcga tgagcgctaa ggtctgaaac atctacacct
+     1141 tgttgcttgc aagcgttggt aagagattgc caacggtaac ttgtacgcga gtcatgaatt
+     1201 tg
+//

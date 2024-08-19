@@ -1,0 +1,68 @@
+LOCUS       GCA_015343595.1_1118|3-1083 1081 bp    DNA     linear   VRL 08-AUG-2024
+DEFINITION  GCA_015343595.1_1118|3-1083.
+ACCESSION   GCA_015343595.1_1118|3-1083
+VERSION     GCA_015343595.1_1118|3-1083
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             complement(1..162)
+                     /ID="PARILMAE_CDS_0001"
+                     /phrog="No_PHROG"
+                     /top_hit="No_PHROG"
+                     /locus_tag="PARILMAE_CDS_0001"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-11.238350169137568"
+                     /phase="0"
+                     /translation="MAIKTQGTSLYTIDPADGTLLAVSCVTSIDGIDSALDQIETSCLE
+                     GDARTYEAG"
+     CDS             complement(258..626)
+                     /ID="PARILMAE_CDS_0002"
+                     /phrog="78"
+                     /top_hit="NC_024356_p11"
+                     /locus_tag="PARILMAE_CDS_0002"
+                     /function="connector"
+                     /product="tail terminator"
+                     /source="PHANOTATE"
+                     /score="-125.00878076867264"
+                     /phase="0"
+                     /translation="VNTAPIFSICQQDPVVTSLIGSNPLRLYMFGLAPQSPTKPYAVWQ
+                     VIGGQPENYMDGRPDIDGFTIQIDTYADSASIARDVAGAIRHAIEPYCMLTIYRGESRD
+                     DQTMNYRSGFDVDWLVDR"
+     CDS             complement(623..1081)
+                     /ID="PARILMAE_CDS_0003"
+                     /phrog="5"
+                     /top_hit="p213190 VI_00256"
+                     /locus_tag="PARILMAE_CDS_0003"
+                     /function="connector"
+                     /product="tail completion or Neck1 protein"
+                     /source="PHANOTATE"
+                     /score="-654.1051605491161"
+                     /phase="0"
+                     /translation="NFDFSILGLDEVTKRLSRLSLEVGDAAGRRALRKAANVVAKAARE
+                     NAMLVDDPTTGRRIRDNIRLQFASRHYKETGDLMYRVGVSTLKGRIPKGNPDEGPKGNT
+                     PHWHLVELGTERSRAQPFLRSALSENINKVVDTLVVELDKEITKELSK"
+ORIGIN
+        1 gccagcttca taagtgcgag cgtcaccttc taagcatgag gtttcgattt gatctagtgc
+       61 tgaatcaatg ccgtcaatag aagtaacaca gctaacggct aaaagtgtgc cgtctgctgg
+      121 gtcaatcgta tatagcgagg tgccctgtgt cttaatggcc atgttttatc tccaattggg
+      181 ccgcgatact gcggcatttg ttacgcgcat aaaaaagcaa acccgacacg gtggtcgggt
+      241 ttttgttgat tgtttcgtta tctgtccact agccagtcga catcgaaacc acttcggtaa
+      301 ttcatggtct gatcgtctcg actttcgcct cggtagatgg ttagcatgca ataaggctct
+      361 attgcgtgtc ttattgctcc ggctacatct ctggctattg atgctgaatc tgcataggtg
+      421 tcgatttgta ttgtaaagcc gtcaatatct ggccttccgt ccatgtagtt ttctggctgt
+      481 ccgccgatca cttgccaaac tgcgtaaggc tttgttggtg actgaggagc aaggccaaac
+      541 atatataaac gaagtgggtt tgaaccgatt aatgacgtaa caactggatc ttgctggcag
+      601 atgctgaaaa ttggcgctgt attcacttgg atagctcctt ggtgatctct ttatctagct
+      661 ctaccaccag cgtatcaacc accttgttta tgttttctga aagtgctgat cttaagaatg
+      721 gctgcgctct gcttctttct gttcctagct cgacaaggtg ccagtgcgga gtgtttccct
+      781 ttggaccttc gtcagggttt cctttcggta tccggccttt tagcgtagaa acaccaacgc
+      841 gatacattag atcgcccgtt tctttgtaat gtcggctagc aaactgcagg cgtatgttat
+      901 ctctaattct tcggcctgtt gttgggtcat ccaccagcat cgcgttttct cttgcggctt
+      961 ttgctactac atttgccgct tttcttaatg ctcttcgacc tgctgcatca ccaacttcaa
+     1021 gacttaggcg tgacagcctt ttagttactt catcaagacc aaggatcgag aaatcaaaat
+     1081 t
+//

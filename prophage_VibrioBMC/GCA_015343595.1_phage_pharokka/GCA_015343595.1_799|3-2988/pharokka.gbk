@@ -1,0 +1,155 @@
+LOCUS       GCA_015343595.1_799|3-2988 2986 bp    DNA     linear   VRL 08-AUG-2024
+DEFINITION  GCA_015343595.1_799|3-2988.
+ACCESSION   GCA_015343595.1_799|3-2988
+VERSION     GCA_015343595.1_799|3-2988
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             complement(1..369)
+                     /ID="OPXSHJHI_CDS_0001"
+                     /phrog="638"
+                     /top_hit="p438490 VI_02648"
+                     /locus_tag="OPXSHJHI_CDS_0001"
+                     /function="transcription regulation"
+                     /product="transcriptional regulator"
+                     /source="PHANOTATE"
+                     /score="-2652.378364680329"
+                     /phase="0"
+                     /translation="MYQSQLLDAYKKAQNYIQDKQIAHDLNLNPSRICEMRKGMRYISD
+                     EEAVFLAEQAGIDPELALLGCHADRNENPRIKQLWEHIAKKHNGLGLRTISMGCGALAL
+                     MVSTKTEAILQCALWTINY"
+     CDS             361..450
+                     /ID="OPXSHJHI_CDS_0002"
+                     /phrog="No_PHROG"
+                     /top_hit="No_PHROG"
+                     /locus_tag="OPXSHJHI_CDS_0002"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-0.0631384657916752"
+                     /phase="0"
+                     /translation="LIHGKSSFFSILAYNLRKFASSNCRILQL"
+     CDS             543..1109
+                     /ID="OPXSHJHI_CDS_0003"
+                     /phrog="192"
+                     /top_hit="NC_026597_p76"
+                     /locus_tag="OPXSHJHI_CDS_0003"
+                     /function="DNA"
+                     /function=" RNA and nucleotide metabolism"
+                     /product="DNA polymerase exonuclease subunit"
+                     /source="PHANOTATE"
+                     /score="-21679.27987363292"
+                     /phase="0"
+                     /translation="MQALNLENAVILDTETTGLDSGARICEISIIDALSGDVLYSNLVS
+                     PLRSIPDVAQKIHGISDSLVADEPSFDVVWNEIKSILFGKKVIAYNFDFDYRMVAQSLS
+                     DFDYPLQNLSYFLLHDGTNCAMTWYAEFYGQIHDSRTDYRWQSLTNACKQQGVDVSDLS
+                     AHRALADCEMTRRLIHVVNAKIEAR"
+     CDS             1112..1330
+                     /ID="OPXSHJHI_CDS_0004"
+                     /phrog="17357"
+                     /top_hit="p6175 VI_06632"
+                     /locus_tag="OPXSHJHI_CDS_0004"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-30.35188546131165"
+                     /phase="0"
+                     /translation="MPIQIKPLKKRPVYFEHHQNGYWCSVDGIPEYFKNKHEMYMFACN
+                     ESRELIEITNENERILRASGAFAVIHE"
+     CDS             1323..2561
+                     /ID="OPXSHJHI_CDS_0005"
+                     /phrog="453"
+                     /top_hit="p438425 VI_01048"
+                     /locus_tag="OPXSHJHI_CDS_0005"
+                     /function="DNA"
+                     /function=" RNA and nucleotide metabolism"
+                     /product="replication initiation protein"
+                     /source="PHANOTATE"
+                     /score="-70569275.93328658"
+                     /phase="0"
+                     /translation="MNKTIIDYLSFSGSPLLLERCKEMAKQRFTLSQAPNVFESQIPLA
+                     VASRENAKIRYFAENLAQVLGCNEMESFANRDLYYASLDKKLVECDMEIATDCTFNECY
+                     QQLISNIGIDMLDVLCHFEVESFVELLNEEITYKDNHWTLERRGGFSGYSHSALLLCNG
+                     SQAGLVAWGAANFGFYVSFSGSGCSAIKMDVLHKALKQMPYVKLTRVDVAYDDLEGAIT
+                     VPYLREQYENGEFITRGAPPGYSYFESGSLVTRDESKKYGVVPDKGRTLYVGQRQNGKL
+                     FRGYEKGKQMKSIEYPDWTRLEVQIGNKSRVIPLDILIDSDAYFTGAYPALASALENVE
+                     PKRIPIARVIANAQIHRYTEIAKKQYGKFINFLNLMHQDSEHVIKLMTDGFLITDIPDR
+                     LKIPLWSESIGDI"
+     CDS             2563..2871
+                     /ID="OPXSHJHI_CDS_0006"
+                     /phrog="929"
+                     /top_hit="p442863 VI_07506"
+                     /locus_tag="OPXSHJHI_CDS_0006"
+                     /function="moron"
+                     /function=" auxiliary metabolic gene and host takeover"
+                     /product="RstB sensor of two protein system"
+                     /source="PHANOTATE"
+                     /score="-144.60321016247465"
+                     /phase="0"
+                     /translation="MGKITVIVIGCEHSKGLAKTTNKPYDFAMANYLKPNEGWNSEKGR
+                     CTPYGFIQEQISMSTNPSLLAEFQKLQDKFPLVCDLMLDADPSNPQRNIVVDIKPHA"
+     CDS             2891..2986
+                     /ID="OPXSHJHI_CDS_0007"
+                     /phrog="2924"
+                     /top_hit="p441921 VI_08397"
+                     /locus_tag="OPXSHJHI_CDS_0007"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-2.72797542609995"
+                     /phase="0"
+                     /translation="MPSCALANPDGFLAIVSVDASSCTGYIMSIS"
+ORIGIN
+        1 ataatttatt gtccataatg cgcactgtaa tatagcttct gttttggtgc taaccattag
+       61 cgctaatgct ccgcaaccca ttgatattgt tcttaatcct agcccgttgt gcttttttgc
+      121 tatgtgttcc catagctgtt ttattcttgg gttttcgttg cggtctgcgt ggcatccgag
+      181 caaagccagc tcggggtcaa ttcctgcttg ttctgctagg aaaactgctt cctcatcaga
+      241 tatatagcgc atacctttgc gcatttcgca tatcctcgat ggatttagat tcaaatcatg
+      301 tgcaatttgt ttgtcttgta tgtagttttg ggcctttttg taggcatcta atagctgact
+      361 ttgatacatg gcaaatcctc ctttttttca attctagcct ataacttgcg gaagttcgca
+      421 tctagcaatt gcagaattct gcaattatga ttgcggaaat tcgcaatttg actgccttgg
+      481 gcgcttgctc ttgacgctct cgcccttggt ggtcaatctc tcaatcagtc aaggtggttg
+      541 ttatgcaggc tctcaattta gaaaacgctg ttattctcga taccgaaacc acgggcctag
+      601 actctggcgc tcgtatctgt gaaatttcaa tcattgatgc tctttcgggt gatgttcttt
+      661 acagtaattt ggtttcacct cttcgctcta ttcctgatgt tgctcagaaa atacatggca
+      721 ttagtgattc tcttgtcgct gatgagccat cttttgatgt tgtttggaat gaaatcaagt
+      781 ctattttgtt cggcaaaaaa gtcattgctt acaactttga ttttgattac cgcatggtag
+      841 ctcagtcact ttctgacttt gattatccgc ttcagaatct ttcttatttt cttcttcatg
+      901 acggcaccaa ttgcgcaatg acttggtacg ctgagtttta cggtcaaatt catgactcgc
+      961 gtacagatta ccgctggcag tctcttacta acgcttgtaa gcagcaaggc gttgacgttt
+     1021 cagaccttag cgctcaccgc gccttagctg actgtgaaat gacacgccgc ttgattcatg
+     1081 ttgttaacgc aaaaatcgag gctcgttaat catgccaatc caaatcaaac cactcaaaaa
+     1141 acgccctgtg tactttgagc atcaccaaaa cggctattgg tgctctgttg acggcatccc
+     1201 tgagtatttt aagaacaaac acgaaatgta catgtttgct tgtaacgaat ctcgcgaact
+     1261 cattgaaatc actaatgaga atgaaagaat tctacgcgcc tctggtgctt ttgcggtgat
+     1321 tcatgaataa gacaatcatt gactatttga gtttctctgg ctctccgctt cttcttgagc
+     1381 gttgcaaaga aatggcaaag cagcgtttta cgctatctca agcgcctaac gtgtttgagt
+     1441 ctcaaatacc tttggctgtc gccagtcgtg agaatgccaa gattcgttac tttgctgaga
+     1501 acttggctca agtgcttggt tgcaatgaaa tggaaagctt cgctaatcgt gatttgtact
+     1561 atgcctcact ggataaaaag ctggttgagt gtgatatgga aatcgcaacg gattgcactt
+     1621 ttaacgagtg ctatcaacag ctcatttcta acatcggcat cgatatgttg gacgtgcttt
+     1681 gtcactttga agttgagtct tttgtcgagc tactcaacga agaaattact tataaagaca
+     1741 accattggac gcttgaacgt cgcggcggtt tctctggtta ttctcatagt gcgctattgc
+     1801 tttgtaacgg ctctcaagcg ggtttagttg cttggggcgc ggctaacttt ggtttctatg
+     1861 tctcgttctc tggctctggt tgctctgcaa tcaagatgga tgttttacat aaagcattaa
+     1921 agcaaatgcc gtatgtaaag ctgacacgtg ttgacgtggc ttatgatgat ttggaaggtg
+     1981 ctatcactgt tccctatctt cgcgaacaat acgaaaacgg tgaatttatc actcgtggcg
+     2041 ctcctcctgg ctacagctat tttgagtctg gctctttggt cactcgtgat gaatcaaaaa
+     2101 aatacggtgt ggttcctgat aagggccgga cgctttatgt tggtcaacgt caaaacggca
+     2161 agttatttcg cggctatgag aaaggcaaac aaatgaaatc cattgagtat cctgattgga
+     2221 cacgtttgga agttcagatt gggaataagt ctcgcgttat tccgcttgat attttaattg
+     2281 atagtgatgc ttattttacg ggtgcgtacc ctgctctagc ttccgctctt gaaaacgttg
+     2341 agcctaaacg cattccaatt gctcgtgtaa tcgctaacgc gcaaatacat cgctataccg
+     2401 aaatcgcaaa aaaacagtac ggcaaattta ttaacttttt aaatttaatg catcaagatt
+     2461 ctgagcacgt tattaaatta atgactgacg gattcttaat aactgacatt cccgaccgtt
+     2521 taaaaattcc gctatggtcg gaatcaattg gagatatata acatgggtaa aataacagta
+     2581 attgtgattg gttgtgagca ttctaagggc ttggctaaga caactaataa gccttacgat
+     2641 tttgctatgg ctaattactt aaaaccaaat gagggttgga attctgagaa aggccgatgt
+     2701 actccatatg gttttattca agagcaaatt tcaatgagta ccaaccctag tttgcttgct
+     2761 gagtttcaga aactccaaga taaatttcca ttagtgtgcg atttaatgct tgatgctgac
+     2821 ccatcgaatc cgcaacgtaa tattgttgtt gatattaagc ctcacgctta attaaaaaaa
+     2881 aggaatctgt atgccttcgt gtgccttagc taatcccgat ggttttctag cgatagtttc
+     2941 tgttgatgcc tccagttgta ccggatacat catgagtatc tcttaa
+//

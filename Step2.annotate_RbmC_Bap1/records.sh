@@ -187,7 +187,7 @@ cd ..
 
 awk -F"\t" 'NR==FNR{a[$1]=$2}NR!=FNR{if($1 in a){print $2"\t"a[$1]}}' gene_types.2.updated.tsv repr2dup.mapping > gene_types.rest.updated.tsv
 cat gene_types.2.updated.tsv gene_types.rest.updated.tsv > gene_types.all.updated.tsv # 4065
-
+grep Bap1 gene_types.all.updated.tsv|cut -f1 |parallel -k ../scripts/get_faa_seq.sh {}  > Bap1_genes_2062_latest.fasta
 # overwrite mapping file
 paste <(cut -f1 gene_types.all.updated.tsv|cut -f1-2 -d_) gene_types.all.updated.tsv > gid_gene_type.RbmC_Bap1.mapping
 python ../scripts/pickle_file.py gid_gene_type.RbmC_Bap1.mapping

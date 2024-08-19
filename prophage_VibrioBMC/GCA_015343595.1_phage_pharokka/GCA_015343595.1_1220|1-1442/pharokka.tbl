@@ -1,0 +1,25 @@
+>Feature GCA_015343595.1_1220|1-1442
+330	1	CDS
+			product	HTH DNA binding protein
+			locus_tag	PQKUIFZY_CDS_0001
+			transl_table	11
+350	484	CDS
+			product	hypothetical protein
+			locus_tag	PQKUIFZY_CDS_0002
+			transl_table	11
+477	704	CDS
+			product	hypothetical protein
+			locus_tag	PQKUIFZY_CDS_0003
+			transl_table	11
+701	1051	CDS
+			product	hypothetical protein
+			locus_tag	PQKUIFZY_CDS_0004
+			transl_table	11
+1048	1269	CDS
+			product	hypothetical protein
+			locus_tag	PQKUIFZY_CDS_0005
+			transl_table	11
+1266	1442	CDS
+			product	hypothetical protein
+			locus_tag	PQKUIFZY_CDS_0006
+			transl_table	11

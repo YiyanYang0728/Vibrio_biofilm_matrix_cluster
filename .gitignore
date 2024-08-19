@@ -1,6 +1,12 @@
 Figure*/
 Suppl_*/
 data/
+pick_*/
 Step2.annotate_RbmC_Bap1/all.*
 Step6.build_species_tree/gff/
 Step8.find_prophage_regions/fna/
+Step8.find_prophage_regions/vs2_out/
+ProkFunFind_config.zip
+ProkFunFind_config/
+vps_2_like_clusters/
+prophage_in_looplessBap1/

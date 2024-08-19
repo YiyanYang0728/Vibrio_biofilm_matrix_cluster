@@ -1,0 +1,293 @@
+>Feature GCA_015343595.1_707|467-47381
+1	1167	CDS
+			product	ParA-like partition protein
+			locus_tag	NDWSQPNF_CDS_0001
+			transl_table	11
+1170	2123	CDS
+			product	ParB-like partition protein
+			locus_tag	NDWSQPNF_CDS_0002
+			transl_table	11
+2144	3127	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0003
+			transl_table	11
+3189	3344	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0004
+			transl_table	11
+3317	3430	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0005
+			transl_table	11
+3786	3460	CDS
+			product	transcriptional repressor
+			locus_tag	NDWSQPNF_CDS_0006
+			transl_table	11
+4014	3832	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0007
+			transl_table	11
+4054	4233	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0008
+			transl_table	11
+5249	4230	CDS
+			product	tail protein
+			locus_tag	NDWSQPNF_CDS_0009
+			transl_table	11
+5452	5240	CDS
+			product	baseplate hub
+			locus_tag	NDWSQPNF_CDS_0010
+			transl_table	11
+5849	5445	CDS
+			product	tail protein
+			locus_tag	NDWSQPNF_CDS_0011
+			transl_table	11
+8758	5849	CDS
+			product	tail length tape measure protein
+			locus_tag	NDWSQPNF_CDS_0012
+			transl_table	11
+8859	8758	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0013
+			transl_table	11
+9449	8871	CDS
+			product	tail protein
+			locus_tag	NDWSQPNF_CDS_0014
+			transl_table	11
+10032	9526	CDS
+			product	head closure
+			locus_tag	NDWSQPNF_CDS_0015
+			transl_table	11
+11198	10032	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0016
+			transl_table	11
+11377	11201	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0017
+			transl_table	11
+11727	11452	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0018
+			transl_table	11
+12579	11737	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0019
+			transl_table	11
+13244	12594	CDS
+			product	tail fiber protein
+			locus_tag	NDWSQPNF_CDS_0020
+			transl_table	11
+13552	13247	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0021
+			transl_table	11
+13935	13561	CDS
+			product	unknown function
+			locus_tag	NDWSQPNF_CDS_0022
+			transl_table	11
+14471	13944	CDS
+			product	tail fiber protein
+			locus_tag	NDWSQPNF_CDS_0023
+			transl_table	11
+15205	14468	CDS
+			product	tail protein
+			locus_tag	NDWSQPNF_CDS_0024
+			transl_table	11
+16197	15202	CDS
+			product	baseplate protein
+			locus_tag	NDWSQPNF_CDS_0025
+			transl_table	11
+16543	16181	CDS
+			product	baseplate wedge subunit
+			locus_tag	NDWSQPNF_CDS_0026
+			transl_table	11
+17199	16540	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0027
+			transl_table	11
+17831	17199	CDS
+			product	baseplate assembly protein
+			locus_tag	NDWSQPNF_CDS_0028
+			transl_table	11
+18363	17815	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0029
+			transl_table	11
+18964	18332	CDS
+			product	tail completion or Neck1 protein
+			locus_tag	NDWSQPNF_CDS_0030
+			transl_table	11
+19388	18981	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0031
+			transl_table	11
+19900	19406	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0032
+			transl_table	11
+21001	19961	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0033
+			transl_table	11
+21385	21041	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0034
+			transl_table	11
+22713	21397	CDS
+			product	head maturation protease
+			locus_tag	NDWSQPNF_CDS_0035
+			transl_table	11
+24292	22706	CDS
+			product	portal protein
+			locus_tag	NDWSQPNF_CDS_0036
+			transl_table	11
+24501	24292	CDS
+			product	head-tail adaptor Ad1
+			locus_tag	NDWSQPNF_CDS_0037
+			transl_table	11
+26499	24502	CDS
+			product	terminase large subunit
+			locus_tag	NDWSQPNF_CDS_0038
+			transl_table	11
+26977	26387	CDS
+			product	terminase small subunit
+			locus_tag	NDWSQPNF_CDS_0039
+			transl_table	11
+27312	27106	CDS
+			product	holin
+			locus_tag	NDWSQPNF_CDS_0040
+			transl_table	11
+27463	27299	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0041
+			transl_table	11
+27588	27466	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0042
+			transl_table	11
+27834	27730	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0043
+			transl_table	11
+27983	27804	CDS
+			product	Rz-like spanin
+			locus_tag	NDWSQPNF_CDS_0044
+			transl_table	11
+28401	27985	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0045
+			transl_table	11
+28972	28391	CDS
+			product	endolysin
+			locus_tag	NDWSQPNF_CDS_0046
+			transl_table	11
+29247	28969	CDS
+			product	holin
+			locus_tag	NDWSQPNF_CDS_0047
+			transl_table	11
+30323	29277	CDS
+			product	DNA methyltransferase
+			locus_tag	NDWSQPNF_CDS_0048
+			transl_table	11
+30462	30337	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0049
+			transl_table	11
+30622	30530	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0050
+			transl_table	11
+31034	30738	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0051
+			transl_table	11
+31106	31201	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0052
+			transl_table	11
+31218	31454	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0053
+			transl_table	11
+31679	31488	CDS
+			product	nucleoside 2-deoxyribosyltransferase
+			locus_tag	NDWSQPNF_CDS_0054
+			transl_table	11
+33119	31830	CDS
+			product	transposase
+			locus_tag	NDWSQPNF_CDS_0055
+			transl_table	11
+34008	33154	CDS
+			product	phosphoadenosine phosphosulfate reductase
+			locus_tag	NDWSQPNF_CDS_0056
+			transl_table	11
+34243	34082	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0057
+			transl_table	11
+34737	34243	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0058
+			transl_table	11
+34870	34697	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0059
+			transl_table	11
+35349	34957	CDS
+			product	single strand DNA binding protein
+			locus_tag	NDWSQPNF_CDS_0060
+			transl_table	11
+36635	35349	CDS
+			product	exonuclease recombination-associated
+			locus_tag	NDWSQPNF_CDS_0061
+			transl_table	11
+36830	36645	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0062
+			transl_table	11
+37684	36848	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0063
+			transl_table	11
+37854	37699	CDS
+			product	Lar-like restriction alleviation protein
+			locus_tag	NDWSQPNF_CDS_0064
+			transl_table	11
+38614	37886	CDS
+			product	anti-termination protein Q-like
+			locus_tag	NDWSQPNF_CDS_0065
+			transl_table	11
+39240	38626	CDS
+			product	CII-like transcriptional activator
+			locus_tag	NDWSQPNF_CDS_0066
+			transl_table	11
+39434	39237	CDS
+			product	transcriptional regulator
+			locus_tag	NDWSQPNF_CDS_0067
+			transl_table	11
+39551	40180	CDS
+			product	transcriptional repressor
+			locus_tag	NDWSQPNF_CDS_0068
+			transl_table	11
+40262	40444	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0069
+			transl_table	11
+40506	44144	CDS
+			product	replication
+			locus_tag	NDWSQPNF_CDS_0070
+			transl_table	11
+44144	44353	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0071
+			transl_table	11
+44384	44848	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0072
+			transl_table	11
+46915	44885	CDS
+			product	hypothetical protein
+			locus_tag	NDWSQPNF_CDS_0073
+			transl_table	11

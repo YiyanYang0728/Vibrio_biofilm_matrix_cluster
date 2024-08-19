@@ -1,0 +1,81 @@
+>Feature GCA_013114135.1_9|19711-29921
+549	1	CDS
+			product	head scaffolding protein
+			locus_tag	WESQFYHR_CDS_0001
+			transl_table	11
+1652	624	CDS
+			product	hypothetical protein
+			locus_tag	WESQFYHR_CDS_0002
+			transl_table	11
+1906	1754	CDS
+			product	hypothetical protein
+			locus_tag	WESQFYHR_CDS_0003
+			transl_table	11
+2195	1911	CDS
+			product	transcriptional regulator
+			locus_tag	WESQFYHR_CDS_0004
+			transl_table	11
+2371	2189	CDS
+			product	transcriptional regulator
+			locus_tag	WESQFYHR_CDS_0005
+			transl_table	11
+2547	2362	CDS
+			product	hypothetical protein
+			locus_tag	WESQFYHR_CDS_0006
+			transl_table	11
+2756	2616	CDS
+			product	hypothetical protein
+			locus_tag	WESQFYHR_CDS_0007
+			transl_table	11
+2924	2814	CDS
+			product	hypothetical protein
+			locus_tag	WESQFYHR_CDS_0008
+			transl_table	11
+3250	3026	CDS
+			product	hypothetical protein
+			locus_tag	WESQFYHR_CDS_0009
+			transl_table	11
+5034	3250	CDS
+			product	DNA helicase
+			locus_tag	WESQFYHR_CDS_0010
+			transl_table	11
+5131	5256	CDS
+			product	hypothetical protein
+			locus_tag	WESQFYHR_CDS_0011
+			transl_table	11
+5476	5381	CDS
+			product	hypothetical protein
+			locus_tag	WESQFYHR_CDS_0012
+			transl_table	11
+5978	5790	CDS
+			product	hypothetical protein
+			locus_tag	WESQFYHR_CDS_0013
+			transl_table	11
+6385	6029	CDS
+			product	terminase large subunit
+			locus_tag	WESQFYHR_CDS_0014
+			transl_table	11
+6627	6382	CDS
+			product	transcriptional regulator
+			locus_tag	WESQFYHR_CDS_0015
+			transl_table	11
+9295	6644	CDS
+			product	DNA primase
+			locus_tag	WESQFYHR_CDS_0016
+			transl_table	11
+9475	9383	CDS
+			product	hypothetical protein
+			locus_tag	WESQFYHR_CDS_0017
+			transl_table	11
+9666	9481	CDS
+			product	hypothetical protein
+			locus_tag	WESQFYHR_CDS_0018
+			transl_table	11
+9946	9686	CDS
+			product	hypothetical protein
+			locus_tag	WESQFYHR_CDS_0019
+			transl_table	11
+10211	9957	CDS
+			product	Cox-like excisionase and repressor
+			locus_tag	WESQFYHR_CDS_0020
+			transl_table	11

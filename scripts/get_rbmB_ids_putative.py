@@ -90,7 +90,7 @@ for q_gene in gene_list:
             rbmA_dist = q_gene.gene_dist(rbmA)
             # print(rbmA_dist)
             # a putative RbmB is close to RbmA and have rhbh domain
-            if abs(rbmA_dist) <= 8:
+            if abs(rbmA_dist) <= 8 and q_gene.Id in rhbh_id_list:
                 picked_rbmB_dict[q_gene]["rbmA"] = (other_gene, rbmA_dist)
                 break
             else:

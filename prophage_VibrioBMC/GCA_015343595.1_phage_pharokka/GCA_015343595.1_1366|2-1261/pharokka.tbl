@@ -1,0 +1,29 @@
+>Feature GCA_015343595.1_1366|2-1261
+64	177	CDS
+			product	endolysin
+			locus_tag	QGIWQTVK_CDS_0001
+			transl_table	11
+155	541	CDS
+			product	hypothetical protein
+			locus_tag	QGIWQTVK_CDS_0002
+			transl_table	11
+538	744	CDS
+			product	hypothetical protein
+			locus_tag	QGIWQTVK_CDS_0003
+			transl_table	11
+716	838	CDS
+			product	hypothetical protein
+			locus_tag	QGIWQTVK_CDS_0004
+			transl_table	11
+835	975	CDS
+			product	hypothetical protein
+			locus_tag	QGIWQTVK_CDS_0005
+			transl_table	11
+980	1090	CDS
+			product	hypothetical protein
+			locus_tag	QGIWQTVK_CDS_0006
+			transl_table	11
+1132	1260	CDS
+			product	hypothetical protein
+			locus_tag	QGIWQTVK_CDS_0007
+			transl_table	11

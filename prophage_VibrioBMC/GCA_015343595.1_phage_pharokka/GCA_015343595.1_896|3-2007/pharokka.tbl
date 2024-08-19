@@ -1,0 +1,13 @@
+>Feature GCA_015343595.1_896|3-2007
+822	1	CDS
+			product	hypothetical protein
+			locus_tag	KCLDABAE_CDS_0001
+			transl_table	11
+1660	815	CDS
+			product	terminase small subunit
+			locus_tag	KCLDABAE_CDS_0002
+			transl_table	11
+2005	1775	CDS
+			product	hypothetical protein
+			locus_tag	KCLDABAE_CDS_0003
+			transl_table	11

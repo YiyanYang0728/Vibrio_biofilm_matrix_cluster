@@ -1,0 +1,25 @@
+>Feature GCA_015343595.1_1142|2-4721
+744	1	CDS
+			product	hypothetical protein
+			locus_tag	YNYNGMAJ_CDS_0001
+			transl_table	11
+1331	753	CDS
+			product	hypothetical protein
+			locus_tag	YNYNGMAJ_CDS_0002
+			transl_table	11
+1776	1321	CDS
+			product	hypothetical protein
+			locus_tag	YNYNGMAJ_CDS_0003
+			transl_table	11
+1880	1740	CDS
+			product	hypothetical protein
+			locus_tag	YNYNGMAJ_CDS_0004
+			transl_table	11
+3447	1897	CDS
+			product	hypothetical protein
+			locus_tag	YNYNGMAJ_CDS_0005
+			transl_table	11
+4720	3461	CDS
+			product	hypothetical protein
+			locus_tag	YNYNGMAJ_CDS_0006
+			transl_table	11

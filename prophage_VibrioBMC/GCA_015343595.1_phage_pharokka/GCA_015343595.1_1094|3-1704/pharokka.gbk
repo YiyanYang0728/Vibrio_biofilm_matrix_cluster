@@ -1,0 +1,82 @@
+LOCUS       GCA_015343595.1_1094|3-1704 1702 bp    DNA     linear   VRL 08-AUG-2024
+DEFINITION  GCA_015343595.1_1094|3-1704.
+ACCESSION   GCA_015343595.1_1094|3-1704
+VERSION     GCA_015343595.1_1094|3-1704
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             complement(1..192)
+                     /ID="AZSFURDJ_CDS_0001"
+                     /phrog="9148"
+                     /top_hit="p122927 VI_06636"
+                     /locus_tag="AZSFURDJ_CDS_0001"
+                     /function="other"
+                     /product="UDP-glucose dehydrogenase"
+                     /source="PHANOTATE"
+                     /score="-151.72013660981145"
+                     /phase="0"
+                     /translation="MKITIAGTGYVGLSNAMLLAQHHDVMALDIIQQKIDLLNDKISPI
+                     VDNEIEHFLKEKPLNFYAT"
+     CDS             complement(203..1207)
+                     /ID="AZSFURDJ_CDS_0002"
+                     /phrog="540"
+                     /top_hit="NC_031906_p110"
+                     /locus_tag="AZSFURDJ_CDS_0002"
+                     /function="DNA"
+                     /function=" RNA and nucleotide metabolism"
+                     /product="nucleotide-sugar epimerase"
+                     /source="PHANOTATE"
+                     /score="-8777815.577350918"
+                     /phase="0"
+                     /translation="MKYLVTGAAGFIGSATAEKLLAAGHEVVGIDNINDYYDMSLKQAR
+                     LDRIQHANFRFIVLDIADRQSVEALFAEHQFDRVIHLAAQAGVRYSIENPHAYADSNLV
+                     GHLNILEGCRQNQVKHLIYASSSSVYGLNAKVTFETSDSVDHPVSLYAATKKSNELMAH
+                     SYSHLYDIPTTGLRFFTVYGPWGRPDMAPFIFTKKILDGETIDINNNGDMWRDFTYIDD
+                     IIEGVVRIADVIPTRNPQWTVEAGTPASSSAPYAVYNIGHGSPISLMDFIKAIEDELGI
+                     EAKKNFREMQAGDVYQTYAETTDLFAATGYTSKVSVKEGVAKFVQWYREFYNK"
+     CDS             complement(1250..1702)
+                     /ID="AZSFURDJ_CDS_0003"
+                     /phrog="No_PHROG"
+                     /top_hit="No_PHROG"
+                     /locus_tag="AZSFURDJ_CDS_0003"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-3351.127658005026"
+                     /phase="0"
+                     /translation="FRLLGFLDVNNPSAVSKQEMQSWVDEGIVNYLGTSDSVEKEIAQV
+                     DCMVLPSFYREGVPKSLLEACAMGKPIVTTDNVGCRETVDDGMNGYLCEPRSTASLVKK
+                     LEMMVAHSHEQRLKMGLQSRSKVEKEFDEKIVINKYLEAVNHALKA"
+ORIGIN
+        1 agtggcatag aaattaagcg gtttttcttt tagaaaatgt tcaatttcgt tatccacaat
+       61 cggagagatt ttatcattca ataaatcaat tttttgttga atgatatcaa gagccatgac
+      121 gtcgtgatgc tgcgcaagca gcattgcgtt agacaagccg acatagcctg tccctgctat
+      181 tgttattttc atttttaagc ttctatttat tgtaaaactc gcggtaccac tgaacaaact
+      241 tggccacgcc ttcttttacg ctaaccttag atgtataacc agtcgctgca aataaatcgg
+      301 ttgtttctgc ataggtttgg tatacatcac cagcttgcat ttcacggaaa tttttctttg
+      361 cttcgatacc tagctcgtct tcaatggctt taataaaatc cattaagcta atagggctgc
+      421 catggccgat attataaacg gcataaggtg cagaactgct cgctggtgtt ccggcttcta
+      481 ctgtccattg aggattacga gttggaataa catccgcaat acggacaacc ccttctatga
+      541 tgtcatcgat ataagtaaag tctcgccaca tatcaccgtt gttattaata tcgatggttt
+      601 caccgtcgag aattttcttg gtgaaaataa aaggtgccat atcagggcga ccccaagggc
+      661 cataaaccgt aaagaaacgc aagccagtgg tagggatgtc ataaaggtgc gaataggagt
+      721 gcgccattaa ctcattcgac tttttggttg cggcataaag agaaacgggg tgatcgacag
+      781 aatccgacgt ttcaaacgtc actttggcat ttaggccata gacagaactt gaagaggcat
+      841 aaattaaatg cttcacctga ttttggcggc agccttctaa aatattcagg tggccaacta
+      901 aattggaatc tgcataggcg tgtgggtttt caatcgagta acgcacccct gcttgggccg
+      961 caaggtggat cacgcgatca aactggtgct ctgcaaacag cgcttcaacc gattgtcgat
+     1021 cagcaatatc tagtacgata aatctaaaat tggcatgttg gatacgatct aaacgtgctt
+     1081 gttttaaaga catgtcgtag tagtcattaa tattgtcgat acccactact tcatgccctg
+     1141 ctgctaatag tttttctgcg gtcgcactgc caataaagcc tgcagcacct gtgacaagat
+     1201 atttcattat ctatttcctt tatactcttt aaaccattaa ctaacgcgat tatgccttta
+     1261 acgcgtgatt tactgcttct agatatttat tgatgacaat tttttcatca aattccttct
+     1321 cgactttact acggctctgt aagcccattt tcagacgttg ctcgtgagaa tgagcaacca
+     1381 tcatctctag ttttttaaca aggcttgctg tactgcgagg ttcacacaaa tagccattca
+     1441 taccgtcatc aaccgtctct cgacacccta cattatccgt agtcacaata ggcttaccca
+     1501 ttgcgcatgc ttctaaaagg gatttaggta cgccttctcg ataaaacgaa ggcaacacca
+     1561 tacaatcaac ttgagcaatt tctttctcta ctgaatcgga tgtgcctaaa tagttgacta
+     1621 tcccttcatc tacccaagat tgcatctctt gtttagacac cgctgaaggg ttattgacat
+     1681 caagaaatcc caaaagtcga aa
+//

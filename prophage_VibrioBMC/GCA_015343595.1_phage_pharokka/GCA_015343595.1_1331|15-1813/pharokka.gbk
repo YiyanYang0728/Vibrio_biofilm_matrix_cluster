@@ -1,0 +1,73 @@
+LOCUS       GCA_015343595.1_1331|15-1813 1799 bp    DNA     linear   VRL 08-AUG-2024
+DEFINITION  GCA_015343595.1_1331|15-1813.
+ACCESSION   GCA_015343595.1_1331|15-1813
+VERSION     GCA_015343595.1_1331|15-1813
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             1..873
+                     /ID="IDVGFXTU_CDS_0001"
+                     /phrog="1684"
+                     /top_hit="p408288 VI_04182"
+                     /locus_tag="IDVGFXTU_CDS_0001"
+                     /function="head and packaging"
+                     /product="head maturation protease"
+                     /source="PHANOTATE"
+                     /score="-991.435610117126"
+                     /phase="0"
+                     /translation="MTINIKNWLMNSSRMQSDISPKAMEMWNPSIRAEAYNSETSITIY
+                     GVIGEDWWGDGVTLKRIDAALRSIGDQDVTVYINSPGGDMWEGIAIYNRLREHPKKVTI
+                     KVIGIAASAASVIAMASDYREIASTAFLMIHNCWTCLCGNRHFLREMADTMEEFDLTMA
+                     DLYSDTSGQPVAEMSRMMDAESYIRGKKAVEMGLCTAIIDPSEVTESNDEQAKQANALK
+                     AMDVALAKSGMPRAKRRELFSSLKSGTHNAAGGDTPSAVLTDTPNAVAQLDLSASLSAA
+                     NNILETLRS"
+     CDS             876..1799
+                     /ID="IDVGFXTU_CDS_0002"
+                     /phrog="10"
+                     /top_hit="p205037 VI_04338"
+                     /locus_tag="IDVGFXTU_CDS_0002"
+                     /function="head and packaging"
+                     /product="major head protein"
+                     /source="PHANOTATE"
+                     /score="-17831329.715006977"
+                     /phase="0"
+                     /translation="MPVPVEQQVETLNASIKNIGDLVKAQAESANKEVARLGAMSEETR
+                     ASVDKILTQQGELQARLQSAEQQMLNAGKDDDQEEFRSAGNIVAAKLSEQGVTSAFNGK
+                     TRIQMPRSAITSVDGSGGALVAPDRRPGIIGIPEQALTIRDLIAPGTTTSNMIQYVKET
+                     GFTNNAAPVAEGAAKPYSDITFSLENASVQVIAHLMKASRQILDDASAMASFIDARARS
+                     GLRIKEEGQLLYGNGTGANLHGLIPQASAFAAPTGSEVTLEQRMDRLRLAILQAALAEY
+                     QANGIVLHPTDWATIELLKDSQGKYII"
+ORIGIN
+        1 atgaccatca atattaaaaa ctggctgatg aattcaagcc gaatgcaaag cgatataagc
+       61 ccaaaagcaa tggagatgtg gaatcccagc atccgagctg aagcctacaa ctcagaaaca
+      121 tcaatcacga tttatggtgt tatcggtgaa gactggtggg gtgatggtgt cacactaaaa
+      181 cgcattgatg ccgcattgcg ctcaattggt gatcaggacg taactgtcta catcaactcg
+      241 ccaggtggcg atatgtggga aggtatcgcg atttacaacc gccttcgcga gcacccaaag
+      301 aaagtaacaa tcaaggtgat cggaattgcg gcttctgcgg catcagttat tgccatggcc
+      361 agtgattaca gagaaatagc ttcaacagcc tttcttatga ttcacaactg ctggacttgc
+      421 ttatgcggta accgtcactt ccttagagaa atggcagata ccatggaaga gttcgaccta
+      481 acaatggccg atctttattc tgataccagc ggacagccag tcgctgaaat gtctcgcatg
+      541 atggacgcag aaagctacat tcgcggaaag aaagccgttg aaatgggcct ttgcactgca
+      601 attatcgacc cttcagaagt aaccgaatca aatgacgagc aagcaaagca agccaacgcg
+      661 ctaaaagcga tggatgttgc acttgctaaa tcaggcatgc cgcgagccaa gcgccgcgag
+      721 ctgttttcaa gtttaaagtc cggtacgcat aacgctgctg gcggggatac gcctagcgct
+      781 gtcctgaccg atacgcctaa cgctgtcgct caactcgatc tatccgcctc tttgagcgcg
+      841 gcaaacaaca ttcttgaaac tttaaggagc taaatatgcc agtaccagta gaacaacaag
+      901 tagaaacact taacgcaagc atcaaaaaca ttggtgatct agttaaagct caggcggaat
+      961 cagcaaataa agaagttgct cgccttggtg caatgagcga agaaactcgc gcatcagttg
+     1021 ataaaatcct tactcagcaa ggcgaactgc aagcgcgttt gcaatcggct gagcagcaaa
+     1081 tgctcaatgc tggtaaagat gacgaccaag aagagtttcg ctcagcaggt aacatcgttg
+     1141 cggctaagct ttctgagcaa ggtgttacat cagcatttaa cggtaaaaca cgcatccaaa
+     1201 tgccacgctc tgccatcaca tcagttgatg gttctggcgg tgcgttagtt gcacctgatc
+     1261 gccgccccgg catcattggc attccagaac aagctttaac gattcgcgat cttattgcgc
+     1321 cgggaaccac aacaagcaat atgattcagt acgtgaaaga aactggattt accaacaacg
+     1381 ccgcaccagt ggccgaaggt gcagcaaagc cttactctga tattaccttt tctttagaaa
+     1441 atgccagcgt tcaagttatc gctcacttaa tgaaagcatc acgccaaatt cttgatgatg
+     1501 catcagcaat ggcaagcttt attgatgctc gagcccgttc tggtcttcgc atcaaagaag
+     1561 aaggtcagtt actttacggt aacggaactg gcgcaaatct tcatggcctg attccgcaag
+     1621 cctctgcttt tgcggctccg actggctctg aagtaacgct agaacaacgc atggatagac
+     1681 ttcgcttagc cattcttcaa gcagcgcttg ctgaatacca agcaaacggc attgtgttac
+     1741 accctactga ttgggcaacc attgagctat taaaagatag ccaaggtaaa tacatcatc
+//

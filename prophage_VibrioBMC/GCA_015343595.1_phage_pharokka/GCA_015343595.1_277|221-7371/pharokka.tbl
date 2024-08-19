@@ -1,0 +1,37 @@
+>Feature GCA_015343595.1_277|221-7371
+2931	1	CDS
+			product	hypothetical protein
+			locus_tag	KGHSKVBJ_CDS_0001
+			transl_table	11
+3342	2962	CDS
+			product	hypothetical protein
+			locus_tag	KGHSKVBJ_CDS_0002
+			transl_table	11
+4707	3400	CDS
+			product	methyltransferase
+			locus_tag	KGHSKVBJ_CDS_0003
+			transl_table	11
+4802	4704	CDS
+			product	hypothetical protein
+			locus_tag	KGHSKVBJ_CDS_0004
+			transl_table	11
+4835	4924	CDS
+			product	hypothetical protein
+			locus_tag	KGHSKVBJ_CDS_0005
+			transl_table	11
+4985	5110	CDS
+			product	hypothetical protein
+			locus_tag	KGHSKVBJ_CDS_0006
+			transl_table	11
+5103	5726	CDS
+			product	transcriptional regulator
+			locus_tag	KGHSKVBJ_CDS_0007
+			transl_table	11
+5824	6015	CDS
+			product	hypothetical protein
+			locus_tag	KGHSKVBJ_CDS_0008
+			transl_table	11
+6018	7151	CDS
+			product	hypothetical protein
+			locus_tag	KGHSKVBJ_CDS_0009
+			transl_table	11

@@ -1,0 +1,37 @@
+>Feature GCA_015343595.1_1001|329-6551
+1	408	CDS
+			product	UmuD-like protein
+			locus_tag	HPTMNPTB_CDS_0001
+			transl_table	11
+408	1664	CDS
+			product	DNA polymerase
+			locus_tag	HPTMNPTB_CDS_0002
+			transl_table	11
+2069	1677	CDS
+			product	hypothetical protein
+			locus_tag	HPTMNPTB_CDS_0003
+			transl_table	11
+2530	2066	CDS
+			product	ATPase
+			locus_tag	HPTMNPTB_CDS_0004
+			transl_table	11
+2909	2787	CDS
+			product	hypothetical protein
+			locus_tag	HPTMNPTB_CDS_0005
+			transl_table	11
+3651	3031	CDS
+			product	hypothetical protein
+			locus_tag	HPTMNPTB_CDS_0006
+			transl_table	11
+5094	3745	CDS
+			product	hypothetical protein
+			locus_tag	HPTMNPTB_CDS_0007
+			transl_table	11
+5142	5441	CDS
+			product	hypothetical protein
+			locus_tag	HPTMNPTB_CDS_0008
+			transl_table	11
+5977	5573	CDS
+			product	hypothetical protein
+			locus_tag	HPTMNPTB_CDS_0009
+			transl_table	11

@@ -1,0 +1,13 @@
+>Feature GCA_015343595.1_856|8-2013
+1	1464	CDS
+			product	hypothetical protein
+			locus_tag	QATCAVSC_CDS_0001
+			transl_table	11
+1513	1638	CDS
+			product	hypothetical protein
+			locus_tag	QATCAVSC_CDS_0002
+			transl_table	11
+1991	1620	CDS
+			product	thymidylate synthase
+			locus_tag	QATCAVSC_CDS_0003
+			transl_table	11

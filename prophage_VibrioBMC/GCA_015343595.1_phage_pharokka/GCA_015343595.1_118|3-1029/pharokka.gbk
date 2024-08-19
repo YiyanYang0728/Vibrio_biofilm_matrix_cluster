@@ -1,0 +1,77 @@
+LOCUS       GCA_015343595.1_118|3-1029 1027 bp    DNA     linear   VRL 08-AUG-2024
+DEFINITION  GCA_015343595.1_118|3-1029.
+ACCESSION   GCA_015343595.1_118|3-1029
+VERSION     GCA_015343595.1_118|3-1029
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             complement(1..216)
+                     /ID="JODVNTWW_CDS_0001"
+                     /phrog="No_PHROG"
+                     /top_hit="No_PHROG"
+                     /locus_tag="JODVNTWW_CDS_0001"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-90.11272041758384"
+                     /phase="0"
+                     /translation="MQLDTRSAVDGAIRGFQVAEGYYQRKADNERRDKLDERAEQRYQD
+                     EQSRLSQIDAKNEQRYQDEMIFRHAET"
+     CDS             complement(216..479)
+                     /ID="JODVNTWW_CDS_0002"
+                     /phrog="594"
+                     /top_hit="p185251 VI_11784"
+                     /locus_tag="JODVNTWW_CDS_0002"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-6.410987961350228"
+                     /phase="0"
+                     /translation="MMAYSLLSLGADTRKRALAGMQESAQREEQRNQTNQSLKEAQHTK
+                     RLSSATTGAGMGMMAGMQAGSVGGPMGAAIGAAAGLILGELF"
+     CDS             complement(479..856)
+                     /ID="JODVNTWW_CDS_0003"
+                     /phrog="596"
+                     /top_hit="p185332 VI_11786"
+                     /locus_tag="JODVNTWW_CDS_0003"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-1415.878674446781"
+                     /phase="0"
+                     /translation="MSVHVSGSAAQNYANITNAMYQDWLERFYPQQKQLLEQTQNGELL
+                     TQQLGRVGANFSSAQQSARLANVNQMARFGVQADTNPNDDAKLSLAQVTAKNSLRENEQ
+                     ERAMSVLSGGAKDKLSQLKVG"
+     CDS             complement(860..961)
+                     /ID="JODVNTWW_CDS_0004"
+                     /phrog="No_PHROG"
+                     /top_hit="No_PHROG"
+                     /locus_tag="JODVNTWW_CDS_0004"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-5.604658563161875"
+                     /phase="0"
+                     /translation="MNRAKPDSSFVNVDTKTLKGQAGMDHSWVLNRG"
+ORIGIN
+        1 cgtttcagcg tgacgaaaaa tcatttcatc ttggtaacgt tgctcattct ttgcgtcaat
+       61 ctgagagagt ctagattgct catcttgata acgttgctct gctcgctcat caagcttatc
+      121 tcgacgttca ttatccgctt tacgttggta gtaaccttcg gcgacctgaa atccgcggat
+      181 cgcgccatca acggcactgc gagtatctaa ttgcattaga aaagctctcc tagaatcaaa
+      241 cctgctgccg caccaatcgc tgctcccatg ggtccaccca cactacccgc ttgcatgccc
+      301 gccatcatgc ccatacccgc ccccgtcgtt gcactggata aacgcttagt atgctgtgct
+      361 tctttgaggc tttgattggt ttgatttcgc tgctcttcgc gctgcgccga ttcttgcatc
+      421 cctgccagcg cccgtttacg ggtatctgcg cctaaactca ataaactgta tgccatcatt
+      481 accccacttt aagctgtgat aatttatctt tcgcgccacc actgagtaca ctcatcgcac
+      541 gctcttgctc gttttcacgc aaactgttct tggccgtcac ttgcgccagc gacagcttgg
+      601 cgtcatcgtt aggattggtg tctgcctgaa cgccaaaacg tgccatttgg ttaacattcg
+      661 cgagccgtgc actctgttgc gcgctcgaaa aattggctcc tactcggcca agttgctgtg
+      721 tcagtaactc accattttgt gtttgctcaa gtagctgttt ttgctgcgga taaaatcgtt
+      781 ctaaccaatc ttgatacatg gcgttggtga tattggcgta gttttgcgcc gccgaacctg
+      841 aaacatgaac gctcattatt tatcctctgt tgagaaccca actatgatcc ataccagctt
+      901 gacctttcag cgtcttggta tcgacattca caaaactgct atcaggcttg gcgcggttca
+      961 tgtacatact ggttccaata cctgccaacg tacccaccgc ttgagcattt ccactacgtc
+     1021 gattaaa
+//

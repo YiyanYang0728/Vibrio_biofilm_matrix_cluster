@@ -1,0 +1,13 @@
+>Feature GCA_013114135.1_55|3-1673
+1281	1	CDS
+			product	replication protein
+			locus_tag	FLRSXVJB_CDS_0001
+			transl_table	11
+1415	1278	CDS
+			product	hypothetical protein
+			locus_tag	FLRSXVJB_CDS_0002
+			transl_table	11
+1468	1671	CDS
+			product	hypothetical protein
+			locus_tag	FLRSXVJB_CDS_0003
+			transl_table	11

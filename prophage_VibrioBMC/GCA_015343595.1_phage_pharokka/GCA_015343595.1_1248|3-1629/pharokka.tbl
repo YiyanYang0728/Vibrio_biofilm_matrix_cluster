@@ -1,0 +1,13 @@
+>Feature GCA_015343595.1_1248|3-1629
+1	897	CDS
+			product	integrase
+			locus_tag	PQIYAJJJ_CDS_0001
+			transl_table	11
+990	1373	CDS
+			product	hypothetical protein
+			locus_tag	PQIYAJJJ_CDS_0002
+			transl_table	11
+1418	1627	CDS
+			product	hypothetical protein
+			locus_tag	PQIYAJJJ_CDS_0003
+			transl_table	11

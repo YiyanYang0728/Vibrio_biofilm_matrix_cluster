@@ -7,13 +7,13 @@ scr=../scripts/curate_Bap1_RbmABC_VpsEF.py
 cut -f1 -d. ../Step1.annotate_cluster/ko_gid.list > gid.list
 cat gid.list | parallel -k python ${scr} {} ../Step1.annotate_cluster/repr_pff_res/*{}*.gff ../Step2.annotate_RbmC_Bap1/gid_gene_type.RbmC_Bap1.mapping.pkl ../Step1.annotate_cluster/data/{}.*.gff repr_pff_res_RbmC_checked/pffres.{}.annot.gff
 
-# get gene predicted to have G3DSA:2.160.20.10 domain
+# get gene predicted to have SSF51126 domain
 cat gid.list | parallel ../scripts/get_rhbh_domain.sh {} | sort -u > rhbh_domain.list
 
 # get putative RbmB ids
 cat gid.list | parallel -k "grep 'Name=rbmB' repr_pff_res_RbmC_checked/pffres.{}.annot.gff|grep -oP 'ID=\KGCA_[0-9]*\.[0-9]*_[0-9]*'" > rbmB_ids.list
 
-# get putative RbmB with G3DSA:2.160.20.10 domain
+# get putative RbmB with SSF51126 domain
 sort <(cut -f1 rhbh_domain.list|sort -u) <(cut -f1 rbmB_ids.list|sort -u)|uniq -d > rbmB_rhbh.list
 
 # get gene name, length and if they are putative RbmB
@@ -21,8 +21,8 @@ cut -f1 rhbh_domain.list | parallel -k ../scripts/get_gene_name.sh {} > rhbh_dom
 paste <(sort rhbh_domain.list|cut -f1,2) <(sort rhbh_domain_name.tsv|cut -f2) > rhbh_domain_name_len.tsv
 awk -F"\t" 'NR==FNR{a[$1];next}$1 in a{print $1"\t"$2"\t"$3"\tRbmB"}!($1 in a){print $1"\t"$2"\t"$3"\tnon-RbmB"}' rbmB_rhbh.list rhbh_domain_name_len.tsv > rhbh_domain_name_len_label.tsv
 
-# get more refined RbmB: a putative RbmB should be near either an RbmA or an RbmC; should be annotated as either rbmB hits based on hmm search or with G3DSA:2.160.20.10 domain
-cat gid.list | parallel -k python ../scripts/get_rbmB_ids_putative.py {} repr_pff_res_RbmC_checked/pffres.{}.annot.gff ../Step1.annotate_cluster/data/{}.*.gff rhbh_domain.list > rbmB_ids_putative.tsv # 1750
+# get more refined RbmB: a putative RbmB should be near either an RbmA or an RbmC; should be annotated as either rbmB hits based on hmm search or with SSF51126 domain
+cat gid.list | parallel -k python ../scripts/get_rbmB_ids_putative.py {} repr_pff_res_RbmC_checked/pffres.{}.annot.gff ../Step1.annotate_cluster/data/{}.*.gff rhbh_domain.list > rbmB_ids_putative.tsv
 
 # find split RbmB genes:
 cut -f1 -d. rbmB_ids_putative.tsv|sort |uniq -d|grep -wf - rbmB_ids_putative.tsv|awk 'BEGIN{OFS="\t"}{split($1,a,".");print a[1],$1,$2}'|datamash -s -g 1 collapse 2 sum 3
@@ -45,25 +45,26 @@ cut -f1 -d. rbmB_ids_putative.tsv|sort |uniq -d|grep -wf - rbmB_ids_putative.tsv
 # GCA_009764005   GCA_009764005.1_00989,GCA_009764005.1_00990     402
 # GCA_013357785   GCA_013357785.1_01930,GCA_013357785.1_01931     354
 
-cut -f1 -d. rbmB_ids_putative.tsv|sort|uniq -u|grep -wf - rbmB_ids_putative.tsv | awk 'BEGIN{OFS="\t"}{split($1,a,".");print a[1],$1,$2}' > rbmB_gid2ids_putative.tsv
-cut -f1 -d. rbmB_ids_putative.tsv|sort |uniq -d|grep -wf - rbmB_ids_putative.tsv|awk 'BEGIN{OFS="\t"}{split($1,a,".");print a[1],$1,$2}'|datamash -s -g 1 collapse 2 sum 3 >> rbmB_gid2ids_putative.tsv
-# 1732
+cut -f1 -d. rbmB_ids_putative.tsv|sort|uniq -u|grep -wf - rbmB_ids_putative.tsv | awk -F"\t" 'BEGIN{OFS="\t"}{split($1,a,".");print a[1],$1,$2}' > rbmB_gid2ids_putative.tsv
+cut -f1 -d. rbmB_ids_putative.tsv|sort |uniq -d|grep -wf - rbmB_ids_putative.tsv|awk -F"\t" 'BEGIN{OFS="\t"}{split($1,a,".");print a[1],$1,$2}'|datamash -s -g 1 collapse 2 sum 3 >> rbmB_gid2ids_putative.tsv
+# 1735 (1732+3 102-length genes)
 
 # add putative genes to rhbh_domain_name_len_label.tsv ==> rhbh_domain_name_len_label_2.tsv
 awk -F"\t" 'NR==FNR{a[$1];next}$1 in a{print $1"\t"$2"\t"$3"\tRbmB"}!($1 in a){print $1"\t"$2"\t"$3"\tnon-RbmB"}' <(cut -f2 rbmB_gid2ids_putative.tsv|tr "," "\n") rhbh_domain_name_len.tsv > rhbh_domain_name_len_label_2.tsv
 sort <(cut -f2 rbmB_gid2ids_putative.tsv|tr "," "\n") <(cut -f1 rhbh_domain_name_len.tsv) <(cut -f1 rhbh_domain_name_len.tsv)|uniq -u |parallel ../scripts/get_gene_len.sh {} > diff_ids.len
-awk '{print $1"\t"$2"\thypothetical protein\tRbmB"}' diff_ids.len >> rhbh_domain_name_len_label_2.tsv
+awk -F"\t" '{print $1"\t"$2"\thypothetical protein\tRbmB"}' diff_ids.len >> rhbh_domain_name_len_label_2.tsv
 
 # add seq similar genes to rhbh_domain_name_len_label_2.tsv ==> rhbh_domain_name_len_label_3.tsv
-awk '$NF=="non-RbmB"{print $1}' rhbh_domain_name_len_label_2.tsv |parallel -k ../scripts/get_faa_seq.sh {} > non_RbmB_genes.fasta
-awk '$NF=="RbmB"{print $1}' rhbh_domain_name_len_label_2.tsv |parallel -k ../scripts/get_faa_seq.sh {} > RbmB_genes.fasta
+awk -F"\t" '$NF=="non-RbmB"{print $1}' rhbh_domain_name_len_label_2.tsv |parallel -k ../scripts/get_faa_seq.sh {} > non_RbmB_genes.fasta
+awk -F"\t" '$NF=="RbmB"{print $1}' rhbh_domain_name_len_label_2.tsv |parallel -k ../scripts/get_faa_seq.sh {} > RbmB_genes.fasta
 makeblastdb -in non_RbmB_genes.fasta -dbtype prot
 blastp -query RbmB_genes.fasta -db non_RbmB_genes.fasta -num_threads 32 -outfmt 6 > RbmB_vs_nonRbmB_blastp.out
 awk -F"\t" 'BEGIN{OFS="\t"}NR==FNR{a[$1]=$2;next}{print $0"\t"a[$1]"\t"a[$2]}' rhbh_domain_name_len_label_2.tsv RbmB_vs_nonRbmB_blastp.out > RbmB_vs_nonRbmB_blastp_qrylen_sbjlen.out
 awk -F"\t" '$3>60 && ($4/$NF>0.9 || $4/$(NF-1)>0.9)' RbmB_vs_nonRbmB_blastp_qrylen_sbjlen.out|cut -f2|sort -u|awk -F"\t" 'BEGIN{OFS="\t"}NR==FNR{a[$1];next}$1 in a{print $1,$2,$3,"RbmB"}!($1 in a){print }' - rhbh_domain_name_len_label_2.tsv > rhbh_domain_name_len_label_3.tsv
 
-awk '$NF=="RbmB"' rhbh_domain_name_len_label_2.tsv |cut -f1 > rhbh_domain_name_len_label_2.rbmB.ids
-awk '$NF=="RbmB"' rhbh_domain_name_len_label_3.tsv |cut -f1 > rhbh_domain_name_len_label_3.rbmB.ids
+awk -F"\t" '$NF=="RbmB"' rhbh_domain_name_len_label_2.tsv |cut -f1 > rhbh_domain_name_len_label_2.rbmB.ids
+awk -F"\t" '$NF=="RbmB"' rhbh_domain_name_len_label_3.tsv |cut -f1 > rhbh_domain_name_len_label_3.rbmB.ids
+cat rhbh_domain_name_len_label_3.rbmB.ids |parallel -k ../scripts/get_faa_seq.sh {} > RbmB_genes_1763_latest.fasta # get largest RbmB genes
 sort rhbh_domain_name_len_label_2.rbmB.ids rhbh_domain_name_len_label_2.rbmB.ids rhbh_domain_name_len_label_3.rbmB.ids | uniq -u > extra_rbmB_genes
 # # 10 extra genes are added according to seq similarity:
 # GCA_000287115.2_01678
@@ -86,15 +87,15 @@ awk '{split($1,a,"_"); print a[1]"_"a[2]"\t"$1"\tRbmB"}' rhbh_domain_name_len_la
 cat rbmB.mapping ../Step2.annotate_RbmC_Bap1/gid_gene_type.RbmC_Bap1.mapping > gid_gene_type.RbmBC_Bap1.mapping
 python ../scripts/pickle_file.py gid_gene_type.RbmBC_Bap1.mapping
 
-awk '$2<1000 && $2>=200{print $1}' rhbh_domain_name_len_label_3.tsv | parallel -k ../scripts/get_faa_seq.sh {} > rhbh_domain_len_filtered.fasta
+awk -F"\t" '$2<1000 && $2>=200{print $1}' rhbh_domain_name_len_label_3.tsv | parallel -k ../scripts/get_faa_seq.sh {} > rhbh_domain_len_filtered.fasta
 seqkit rmdup -s rhbh_domain_len_filtered.fasta -D rhbh_domain_len_filtered.dup.list -d rhbh_domain_len_filtered.dup.tsv -o rhbh_domain_len_filtered_rmdup.fasta
-# 2545 unique seqs left
+# 2850 unique seqs left
 
-# align seqs seq_len ==> 4584 (too long)
+###########################################
 mafft --dash --thread 32 --localpair rhbh_domain_len_filtered_rmdup.fasta > rhbh_domain_len_filtered_rmdup.mafft.aln
 trimal -gt 0.2 -in rhbh_domain_len_filtered_rmdup.mafft.aln -out trimal_out.fasta
-# MSA seq_len ==> 1017
 seqkit fx2tab trimal_out.fasta | awk '$1~/GCA/' | seqkit tab2fx -w 0 > rhbh_domain_rmdup_trimmed.fasta
+# aln_len: 926
 
 ##### 3.2 annotate RbmA proteins
 # get curated RbmC, Bap1 and RbmB ProkFunFind results

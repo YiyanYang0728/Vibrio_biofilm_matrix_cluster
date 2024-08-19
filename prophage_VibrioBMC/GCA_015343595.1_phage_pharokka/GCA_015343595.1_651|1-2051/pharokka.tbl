@@ -1,0 +1,21 @@
+>Feature GCA_015343595.1_651|1-2051
+1	780	CDS
+			product	hypothetical protein
+			locus_tag	AYXSWBXJ_CDS_0001
+			transl_table	11
+802	1074	CDS
+			product	hypothetical protein
+			locus_tag	AYXSWBXJ_CDS_0002
+			transl_table	11
+1121	1426	CDS
+			product	hypothetical protein
+			locus_tag	AYXSWBXJ_CDS_0003
+			transl_table	11
+1761	1648	CDS
+			product	hypothetical protein
+			locus_tag	AYXSWBXJ_CDS_0004
+			transl_table	11
+1854	2051	CDS
+			product	hypothetical protein
+			locus_tag	AYXSWBXJ_CDS_0005
+			transl_table	11

@@ -1,0 +1,25 @@
+>Feature GCA_015343595.1_1242|3-1783
+495	1	CDS
+			product	replication protein
+			locus_tag	YGVLYRSA_CDS_0001
+			transl_table	11
+501	599	CDS
+			product	hypothetical protein
+			locus_tag	YGVLYRSA_CDS_0002
+			transl_table	11
+638	769	CDS
+			product	hypothetical protein
+			locus_tag	YGVLYRSA_CDS_0003
+			transl_table	11
+793	912	CDS
+			product	hypothetical protein
+			locus_tag	YGVLYRSA_CDS_0004
+			transl_table	11
+977	1483	CDS
+			product	transcriptional regulator
+			locus_tag	YGVLYRSA_CDS_0005
+			transl_table	11
+1781	1527	CDS
+			product	hypothetical protein
+			locus_tag	YGVLYRSA_CDS_0006
+			transl_table	11

@@ -1,0 +1,21 @@
+>Feature GCA_015343595.1_1065|51-2418
+1008	1	CDS
+			product	HNH endonuclease
+			locus_tag	RFTKFHXO_CDS_0001
+			transl_table	11
+1292	1002	CDS
+			product	hypothetical protein
+			locus_tag	RFTKFHXO_CDS_0002
+			transl_table	11
+1543	1301	CDS
+			product	hypothetical protein
+			locus_tag	RFTKFHXO_CDS_0003
+			transl_table	11
+2031	1540	CDS
+			product	Holliday junction resolvase
+			locus_tag	RFTKFHXO_CDS_0004
+			transl_table	11
+2353	2024	CDS
+			product	hypothetical protein
+			locus_tag	RFTKFHXO_CDS_0005
+			transl_table	11

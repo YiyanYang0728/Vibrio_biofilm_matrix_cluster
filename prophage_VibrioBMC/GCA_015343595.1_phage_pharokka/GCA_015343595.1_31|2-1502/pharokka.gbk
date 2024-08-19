@@ -1,0 +1,98 @@
+LOCUS       GCA_015343595.1_31|2-1502 1501 bp    DNA     linear   VRL 08-AUG-2024
+DEFINITION  GCA_015343595.1_31|2-1502.
+ACCESSION   GCA_015343595.1_31|2-1502
+VERSION     GCA_015343595.1_31|2-1502
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             complement(1..411)
+                     /ID="CBDRWIFZ_CDS_0001"
+                     /phrog="611"
+                     /top_hit="p37027 VI_01908"
+                     /locus_tag="CBDRWIFZ_CDS_0001"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-1023.787168010094"
+                     /phase="0"
+                     /translation="MGGKKNGRVQETAAEIAASQVAAKEWNLYNTELKAFEDIFIQRVN
+                     NLNSEANMADVKQAADLNYQSEYGKAREATAEYLTASGSDPSSGKFKATLSSLATDQTL
+                     AEGDTVNRAQVNEQDKYVVGKQDVVALGAGQKA"
+     CDS             complement(411..752)
+                     /ID="CBDRWIFZ_CDS_0002"
+                     /phrog="610"
+                     /top_hit="p185330 VI_11786"
+                     /locus_tag="CBDRWIFZ_CDS_0002"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-340.13914795767454"
+                     /phase="0"
+                     /translation="MEQTERRNRHAFAKQVDEALLNGRASLFLVEEGLFVLEPSLDNDE
+                     MQVWVLFAWSVRKGALKRQLPRVEHLAKRIQAKKLLLNTAVKSLRVSLIDSGFCCIETG
+                     DVETWCKEI"
+     CDS             complement(793..1155)
+                     /ID="CBDRWIFZ_CDS_0003"
+                     /phrog="35787"
+                     /top_hit="p185329 VI_11786"
+                     /locus_tag="CBDRWIFZ_CDS_0003"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-506.8783239625212"
+                     /phase="0"
+                     /translation="MMVTTEKEQYRFYFQEEVTDWNTFNAAYDAGNISDELYYERLALR
+                     QTWLDGHEVNERAWARAELAATDFMELPTATYQGERLVTSPKLTEMLAYREAVRRYDLR
+                     EEPRPVRPTWFVDESL"
+     CDS             complement(1231..1335)
+                     /ID="CBDRWIFZ_CDS_0004"
+                     /phrog="No_PHROG"
+                     /top_hit="No_PHROG"
+                     /locus_tag="CBDRWIFZ_CDS_0004"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-11.453598783064924"
+                     /phase="0"
+                     /translation="MVMPSKRRTLPVVVRSLAMAGLTPLPSPYVFGCA"
+     CDS             complement(1396..1500)
+                     /ID="CBDRWIFZ_CDS_0005"
+                     /phrog="No_PHROG"
+                     /top_hit="No_PHROG"
+                     /locus_tag="CBDRWIFZ_CDS_0005"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-1.3558857319942943"
+                     /phase="0"
+                     /translation="WAGLAFYKSLFRPLISVVGSLQRQGLLELIPPMR"
+ORIGIN
+        1 agctttctga ccagcaccga gagccacaac atcttgctta cccaccacat acttatcctg
+       61 ctcattcact tgagcgcggt ttacggtgtc gccctcagcg agtgtttggt ctgtagccaa
+      121 gctacttaag gttgctttaa attttccaga gctcggatca ctacccgatg ctgtaagata
+      181 ctctgccgtt gcctctcgcg ctttgccgta ctcactctga taatttaaat ctgccgcctg
+      241 tttcacgtcg gccatattgg cctctgagtt aaggttgttc actcgctgta tgaagatatc
+      301 ttcaaacgcc ttgagctctg tgttgtaaag gttccactct ttcgccgcga cttgtgaagc
+      361 ggcgatttcc gccgccgttt cctgaacgcg gccattcttc tttccaccca ttagatctcc
+      421 ttgcaccaag tctcaacatc accggtttcg atacaacaaa acccactatc aataaggctc
+      481 actcgcaaag atttcacggc tgtattcagc agcaactttt tggcctgtat gcgcttagct
+      541 aagtgttcaa ccctcggtaa ctgacgctta agcgcgcctt tacgaacact ccaagcaaac
+      601 agtacccata cctgcatctc gtcattatcc aaactgggct caaggacaaa caatccctcc
+      661 tccaccaaaa acagcgaagc cctaccattg agtagagctt cgtccacttg cttggcgaac
+      721 gcgtgccggt tgcgccgctc ggtctgttcc atcaatggca atactcggta tcgccacgat
+      781 tcgtaagaca gtttataaag actcatcgac aaaccatgtc ggcctcacag ggcgaggctc
+      841 ctcacgtaaa tcataacgcc gtaccgcttc gcgataggcc aacatttcag tcagctttgg
+      901 cgatgtcact aaccgctctc cttgataggt cgccgttggc aactccataa aatcggtagc
+      961 cgcaagttcg gctcgcgccc aagctctttc attgacctca tggccatcga gccaagtttg
+     1021 ccgcagcgcc aatcgctcat aatagagctc atcggagata ttccctgcat cataagccgc
+     1081 attaaacgta ttccagtcgg taacttcttc ttggaagtag aatcgatatt gttctttttc
+     1141 agttgtcacc atcatgccat caccttgggt cgatactgtt attgatagac gctgacatgt
+     1201 tgacgatcac cgcaccatcg tgcagcgacg ttaagcgcag ccgaaaacgt aaggactggg
+     1261 aagcggcgta agtccagcca tagccaaaga gcgaacgacg actggcaatg tgcgcctctt
+     1321 cgacggcata accattgcct cctcctctgt agtaggtgag cgcaaaactg acccctgcca
+     1381 catttacggt cgtgcctacc gcattggcgg tatcagttcc aacaatcctt gcctctgcaa
+     1441 cgaccccacc actgagatta atggcctgaa caaagatttg taaaaagcca gacccgccca
+     1501 t
+//

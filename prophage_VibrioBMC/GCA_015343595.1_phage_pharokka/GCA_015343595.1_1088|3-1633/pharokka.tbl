@@ -1,0 +1,9 @@
+>Feature GCA_015343595.1_1088|3-1633
+1	591	CDS
+			product	hypothetical protein
+			locus_tag	QSKPICNB_CDS_0001
+			transl_table	11
+582	1631	CDS
+			product	beta-1,4-glycosyltransferase
+			locus_tag	QSKPICNB_CDS_0002
+			transl_table	11

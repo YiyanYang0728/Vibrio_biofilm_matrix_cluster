@@ -1,0 +1,305 @@
+>Feature GCA_013114135.1_2|316589-363522
+1308	1	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0001
+			transl_table	11
+1575	1417	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0002
+			transl_table	11
+1647	2189	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0003
+			transl_table	11
+2235	2336	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0004
+			transl_table	11
+2433	2570	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0005
+			transl_table	11
+2608	2961	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0006
+			transl_table	11
+3141	3404	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0007
+			transl_table	11
+3425	3514	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0008
+			transl_table	11
+3574	4578	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0009
+			transl_table	11
+4578	5018	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0010
+			transl_table	11
+5108	6655	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0011
+			transl_table	11
+7273	6728	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0012
+			transl_table	11
+7470	7375	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0013
+			transl_table	11
+7597	7713	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0014
+			transl_table	11
+7785	8885	CDS
+			product	dehydrogenase
+			locus_tag	VCJDKWAR_CDS_0015
+			transl_table	11
+9888	8830	CDS
+			product	integrase
+			locus_tag	VCJDKWAR_CDS_0016
+			transl_table	11
+10054	9923	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0017
+			transl_table	11
+10070	10936	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0018
+			transl_table	11
+12806	10995	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0019
+			transl_table	11
+13341	12799	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0020
+			transl_table	11
+13992	13363	CDS
+			product	transcriptional repressor
+			locus_tag	VCJDKWAR_CDS_0021
+			transl_table	11
+14063	14296	CDS
+			product	Cox-like excisionase and repressor
+			locus_tag	VCJDKWAR_CDS_0022
+			transl_table	11
+14300	14398	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0023
+			transl_table	11
+14408	14947	CDS
+			product	CII-like transcriptional activator
+			locus_tag	VCJDKWAR_CDS_0024
+			transl_table	11
+14959	15240	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0025
+			transl_table	11
+15352	15756	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0026
+			transl_table	11
+15759	15971	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0027
+			transl_table	11
+15968	16372	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0028
+			transl_table	11
+16372	16602	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0029
+			transl_table	11
+16599	16784	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0030
+			transl_table	11
+16784	19507	CDS
+			product	nicking at origin of replication
+			locus_tag	VCJDKWAR_CDS_0031
+			transl_table	11
+19507	19617	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0032
+			transl_table	11
+19734	19847	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0033
+			transl_table	11
+19962	20183	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0034
+			transl_table	11
+20429	20178	CDS
+			product	transcriptional regulator
+			locus_tag	VCJDKWAR_CDS_0035
+			transl_table	11
+20501	20605	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0036
+			transl_table	11
+20660	22348	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0037
+			transl_table	11
+22496	22621	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0038
+			transl_table	11
+22890	22801	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0039
+			transl_table	11
+23911	22877	CDS
+			product	portal protein
+			locus_tag	VCJDKWAR_CDS_0040
+			transl_table	11
+25699	23912	CDS
+			product	terminase large subunit
+			locus_tag	VCJDKWAR_CDS_0041
+			transl_table	11
+25883	25707	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0042
+			transl_table	11
+25875	26744	CDS
+			product	head scaffolding protein
+			locus_tag	VCJDKWAR_CDS_0043
+			transl_table	11
+26744	27748	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0044
+			transl_table	11
+27758	28486	CDS
+			product	terminase small subunit
+			locus_tag	VCJDKWAR_CDS_0045
+			transl_table	11
+28603	29070	CDS
+			product	head-tail adaptor Ad1
+			locus_tag	VCJDKWAR_CDS_0046
+			transl_table	11
+29067	29591	CDS
+			product	tail terminator
+			locus_tag	VCJDKWAR_CDS_0047
+			transl_table	11
+29578	29964	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0048
+			transl_table	11
+29942	30220	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0049
+			transl_table	11
+30263	31330	CDS
+			product	tail sheath
+			locus_tag	VCJDKWAR_CDS_0050
+			transl_table	11
+31331	31786	CDS
+			product	tail protein
+			locus_tag	VCJDKWAR_CDS_0051
+			transl_table	11
+31799	32014	CDS
+			product	DksA-like zinc-finger protein
+			locus_tag	VCJDKWAR_CDS_0052
+			transl_table	11
+32011	32502	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0053
+			transl_table	11
+32499	32738	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0054
+			transl_table	11
+32741	32986	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0055
+			transl_table	11
+32983	33246	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0056
+			transl_table	11
+33288	33425	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0057
+			transl_table	11
+33432	36128	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0058
+			transl_table	11
+36125	36451	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0059
+			transl_table	11
+36448	37632	CDS
+			product	baseplate wedge subunit
+			locus_tag	VCJDKWAR_CDS_0060
+			transl_table	11
+37625	38293	CDS
+			product	tail protein
+			locus_tag	VCJDKWAR_CDS_0061
+			transl_table	11
+38300	39499	CDS
+			product	tail fiber protein
+			locus_tag	VCJDKWAR_CDS_0062
+			transl_table	11
+39510	39821	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0063
+			transl_table	11
+39814	40200	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0064
+			transl_table	11
+40197	41090	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0065
+			transl_table	11
+41087	41635	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0066
+			transl_table	11
+41632	43212	CDS
+			product	baseplate protein
+			locus_tag	VCJDKWAR_CDS_0067
+			transl_table	11
+43212	43409	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0068
+			transl_table	11
+44061	43438	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0069
+			transl_table	11
+44207	44112	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0070
+			transl_table	11
+45445	44249	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0071
+			transl_table	11
+45547	45452	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0072
+			transl_table	11
+45560	45772	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0073
+			transl_table	11
+45817	46488	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0074
+			transl_table	11
+46621	46734	CDS
+			product	hypothetical protein
+			locus_tag	VCJDKWAR_CDS_0075
+			transl_table	11
+46767	46934	CDS
+			product	dehydrogenase
+			locus_tag	VCJDKWAR_CDS_0076
+			transl_table	11

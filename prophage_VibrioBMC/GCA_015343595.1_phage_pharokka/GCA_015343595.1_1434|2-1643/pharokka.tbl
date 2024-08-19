@@ -1,0 +1,17 @@
+>Feature GCA_015343595.1_1434|2-1643
+522	1	CDS
+			product	hypothetical protein
+			locus_tag	UJHHGJRT_CDS_0001
+			transl_table	11
+576	680	CDS
+			product	hypothetical protein
+			locus_tag	UJHHGJRT_CDS_0002
+			transl_table	11
+712	1074	CDS
+			product	hypothetical protein
+			locus_tag	UJHHGJRT_CDS_0003
+			transl_table	11
+1085	1642	CDS
+			product	hypothetical protein
+			locus_tag	UJHHGJRT_CDS_0004
+			transl_table	11

@@ -1,0 +1,21 @@
+>Feature GCA_015343595.1_908|35-1598
+25	213	CDS
+			product	hypothetical protein
+			locus_tag	JRJZSMTY_CDS_0001
+			transl_table	11
+210	437	CDS
+			product	hypothetical protein
+			locus_tag	JRJZSMTY_CDS_0002
+			transl_table	11
+501	842	CDS
+			product	hypothetical protein
+			locus_tag	JRJZSMTY_CDS_0003
+			transl_table	11
+842	1201	CDS
+			product	HNH endonuclease
+			locus_tag	JRJZSMTY_CDS_0004
+			transl_table	11
+1208	1564	CDS
+			product	terminase small subunit
+			locus_tag	JRJZSMTY_CDS_0005
+			transl_table	11

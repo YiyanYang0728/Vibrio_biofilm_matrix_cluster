@@ -1,0 +1,9 @@
+>Feature GCA_015343595.1_988|491-3199
+1	2343	CDS
+			product	replication
+			locus_tag	TCGERGIO_CDS_0001
+			transl_table	11
+2398	2709	CDS
+			product	hypothetical protein
+			locus_tag	TCGERGIO_CDS_0002
+			transl_table	11

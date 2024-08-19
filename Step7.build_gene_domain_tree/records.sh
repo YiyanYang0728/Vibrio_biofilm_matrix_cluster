@@ -39,7 +39,12 @@ awk -F"\t" '$4=="In_prophage"{print $1",#2C3279"}$4=="Not_in_prophage"{print $1"
 
 zip -r rhbh_domain_rmdup.tree.zip rhbh_domain_rmdup.tree bar_annot.txt symbol_annot.txt strip_annot.txt
 upload_tree rhbh_domain_rmdup.tree.zip
-# https://itol.embl.de/tree/128231278259031716487682
+# https://itol.embl.de/tree/128231274380931723775282
+# copy 143_phage.genes names from iTOL tree
+
+# blast genes against INPHARED
+cat 143_phage.genes | parallel /data/yangy34/projects/vibrio_YJ_v5/VPS_cluster/genomes/get_faa_seq.sh {} > phage.genes.faa
+blastp -num_threads 32 -query phage.genes.faa -subject /gpfs/gsfs12/users/yangy34/database/inphared/2Aug2024_vConTACT2_proteins.faa -outfmt 6 -out inphared.blast.out
 
 cd ..
 

@@ -1,0 +1,17 @@
+>Feature GCA_015343595.1_118|3-1029
+216	1	CDS
+			product	hypothetical protein
+			locus_tag	JODVNTWW_CDS_0001
+			transl_table	11
+479	216	CDS
+			product	hypothetical protein
+			locus_tag	JODVNTWW_CDS_0002
+			transl_table	11
+856	479	CDS
+			product	hypothetical protein
+			locus_tag	JODVNTWW_CDS_0003
+			transl_table	11
+961	860	CDS
+			product	hypothetical protein
+			locus_tag	JODVNTWW_CDS_0004
+			transl_table	11

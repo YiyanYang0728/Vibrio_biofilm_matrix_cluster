@@ -1,0 +1,41 @@
+>Feature GCA_015343595.1_1131|2-5613
+1	261	CDS
+			product	hypothetical protein
+			locus_tag	TQDVQMSS_CDS_0001
+			transl_table	11
+264	602	CDS
+			product	minor tail protein
+			locus_tag	TQDVQMSS_CDS_0002
+			transl_table	11
+616	1362	CDS
+			product	minor tail protein
+			locus_tag	TQDVQMSS_CDS_0003
+			transl_table	11
+1365	2111	CDS
+			product	minor tail protein
+			locus_tag	TQDVQMSS_CDS_0004
+			transl_table	11
+2796	2122	CDS
+			product	DNA binding protein
+			locus_tag	TQDVQMSS_CDS_0005
+			transl_table	11
+3041	2787	CDS
+			product	hypothetical protein
+			locus_tag	TQDVQMSS_CDS_0006
+			transl_table	11
+3052	3243	CDS
+			product	hypothetical protein
+			locus_tag	TQDVQMSS_CDS_0007
+			transl_table	11
+3386	3715	CDS
+			product	hypothetical protein
+			locus_tag	TQDVQMSS_CDS_0008
+			transl_table	11
+3786	4385	CDS
+			product	tail protein
+			locus_tag	TQDVQMSS_CDS_0009
+			transl_table	11
+4395	5612	CDS
+			product	tail protein
+			locus_tag	TQDVQMSS_CDS_0010
+			transl_table	11

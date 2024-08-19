@@ -1,0 +1,105 @@
+LOCUS       GCA_015343595.1_874|1-1817 1817 bp    DNA     linear   VRL 08-AUG-2024
+DEFINITION  GCA_015343595.1_874|1-1817.
+ACCESSION   GCA_015343595.1_874|1-1817
+VERSION     GCA_015343595.1_874|1-1817
+KEYWORDS    .
+SOURCE      .
+  ORGANISM  .
+            .
+FEATURES             Location/Qualifiers
+     CDS             complement(1..408)
+                     /ID="AOYNYHUV_CDS_0001"
+                     /phrog="111"
+                     /top_hit="p64666 VI_08735"
+                     /locus_tag="AOYNYHUV_CDS_0001"
+                     /function="other"
+                     /product="DNA methyltransferase"
+                     /source="PHANOTATE"
+                     /score="-276.9014858581946"
+                     /phase="0"
+                     /translation="MSDYISSELSPSDKDSWSTPLWLYSALNHEFQFRVDACASESNAK
+                     CGVFISEDMNALDMENWASASPIYSHLKNQFVWINPPYSRGMIKAFIEKAYEQCTKNKI
+                     NSVLLVPATPDASWWPTNATEIRFITGGRISF"
+     CDS             complement(408..521)
+                     /ID="AOYNYHUV_CDS_0002"
+                     /phrog="29265"
+                     /top_hit="KY658678_p36"
+                     /locus_tag="AOYNYHUV_CDS_0002"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-16.69993409218622"
+                     /phase="0"
+                     /translation="MKRLTLKALIVKGQWQYFVGGEQVSRDTFKFKLEGAM"
+     CDS             complement(525..782)
+                     /ID="AOYNYHUV_CDS_0003"
+                     /phrog="35410"
+                     /top_hit="KY658678_p35"
+                     /locus_tag="AOYNYHUV_CDS_0003"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-203.80438311451573"
+                     /phase="0"
+                     /translation="MKTEAFLETVKQMSTLTVNSCRVATSQGQETQYFERDQIRNLKKK
+                     CERELARLEEKALSLGTDLTPREVSCEEFSLTKSSQIRKD"
+     CDS             complement(828..1037)
+                     /ID="AOYNYHUV_CDS_0004"
+                     /phrog="35"
+                     /top_hit="p323300 VI_10199"
+                     /locus_tag="AOYNYHUV_CDS_0004"
+                     /function="transcription regulation"
+                     /product="transcriptional repressor"
+                     /source="PHANOTATE"
+                     /score="-497.6585001522512"
+                     /phase="0"
+                     /translation="MPRIKEVLNEIGESQESLAKEIGISQSSVNHYANGNRMPSYQMAW
+                     NIVKALNNLGASCTFEQVFPSPTK"
+     CDS             1149..1817
+                     /ID="AOYNYHUV_CDS_0005"
+                     /phrog="8558"
+                     /top_hit="p316397 VI_07324"
+                     /locus_tag="AOYNYHUV_CDS_0005"
+                     /function="unknown function"
+                     /product="hypothetical protein"
+                     /source="PHANOTATE"
+                     /score="-21150.988293218"
+                     /phase="0"
+                     /translation="MKMKWNDLVKSRMKDVGITQYQLAEMMGMSQSAIAHWLGGNRKPS
+                     IEEIASILKFVGLNQIALNSDGYVEQVSESISNTSSHDCESQYRGTYPLINAVQAGNWT
+                     EICEPCTDYDAGSVEMIPTTEKASGGSFWLTVEGDSMTSPVGISIPSGARILVDPSIQP
+                     ANGNLVVAKLDNVNEATFKKLVVDSGQKYLKPLNPNYPLLPINGNCKIIGVVVDAKIKL
+                     Y"
+ORIGIN
+        1 aaaagaaatt cttccgccag taataaaccg tatttcagtg gcgttagtag gccaccagct
+       61 agcgtctgga gtggctggaa ccaatagaac tgagttgatc ttgttcttag tgcactgctc
+      121 ataagccttt tcaataaaag ccttgatcat gcctcttgag tacggcgggt ttatccagac
+      181 gaattgattt ttcaagtgtg aataaatggg agaagcgcta gcccaatttt ccatatctaa
+      241 agcattcata tcttcagaaa taaaaacacc gcacttagcg tttgactcac tagcgcaagc
+      301 atctaccctg aattgaaact catgatttag ggcggaataa agccacagcg gcgttgacca
+      361 tgaatcttta tctgatggtg aaagctcaga agaaatgtaa tcagacatta catagctcct
+      421 tctagcttga acttgaaggt atcgcggctt acttgctcgc caccaacaaa atattgccat
+      481 tgccctttca caattagagc ttttagtgtt aatcttttca tcgcttagtc ctttctgatt
+      541 tgtgatgact tagtaagtga aaattcctcg caagaaactt cacgcggcgt taagtctgtg
+      601 ccaaggctta acgccttttc ttcaagtctt gctaattcac gttcacactt cttttttaaa
+      661 tttctaatct ggtcacgctc aaagtattgt gtttcctgcc cttggcttgt tgctacacgg
+      721 caagagttaa ctgtcagtgt cgacatctgt tttactgttt ccaagaacgc ttctgttttc
+      781 ataatttccg ccgatatctg ttgaggtgat agccagtgat tagctggcta tttggttggg
+      841 cttgggaata cttgttcaaa agtacaggac gcccctagat tgtttagtgc cttaacaatg
+      901 ttccaagcca tttgataact tggcatcctg ttaccgtttg cgtagtgatt tactgagctt
+      961 tgagaaattc ctatttcttt agctaagctt tcttgagatt cgccaatctc attaagcact
+     1021 tcttttattc ttggcatgat tttatctcct acattagttc catatattac atttcgtaat
+     1081 tcaaatacgc aagcgtgatt acataatggc gattcattat ttaattacac tgagtaataa
+     1141 ttgttgttat gaaaatgaaa tggaacgacc tggttaaatc cagaatgaaa gatgtaggta
+     1201 tcactcagta tcagctagct gagatgatgg gaatgtcaca atcagcgatt gctcactggc
+     1261 ttggtggcaa tagaaaacca agcattgaag aaatagcctc aatacttaaa tttgttggac
+     1321 ttaatcagat cgcgcttaat tctgatgggt atgttgagca agtatcagaa tcaataagca
+     1381 atacatccag ccacgattgc gaaagccaat acagaggaac ctatccatta ataaatgctg
+     1441 ttcaagctgg taactggacc gagatatgcg aaccatgcac tgactatgac gctggctctg
+     1501 tagaaatgat accgacaaca gaaaaggcaa gtggaggatc gttctggctt actgttgaag
+     1561 gtgattcaat gacctctcct gttggtatta gcattccttc tggtgctaga atattggtag
+     1621 acccaagcat tcagccggct aacggtaacc ttgttgtggc aaaactagat aacgtcaatg
+     1681 aggcaacctt taaaaagctg gtggttgatt ctggccagaa gtatctaaaa ccacttaacc
+     1741 cgaattatcc ccttcttcct attaacggaa actgcaagat catcggtgtg gttgttgatg
+     1801 ctaaaattaa gctttat
+//

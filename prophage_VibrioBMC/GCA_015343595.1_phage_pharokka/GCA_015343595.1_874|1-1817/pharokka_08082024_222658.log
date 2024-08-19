@@ -1,0 +1,1184 @@
+2024-08-08 22:26:58,100 - INFO - Starting pharokka v1.3.2
+2024-08-08 22:26:58,100 - INFO - Input args: Namespace(infile='GCA_015343595.1_53_phages/GCA_015343595.1_874_1_1817_prophage.fasta', outdir='phage_pharokka/GCA_015343595.1_874|1-1817', database='/data/yangy34/database/pharokka', threads='32', force=False, prefix='Default', locustag='Default', gene_predictor='phanotate', meta=False, split=False, coding_table='11', evalue='1E-05', terminase=False, terminase_strand='nothing', terminase_start='nothing', citation=False)
+2024-08-08 22:26:58,101 - INFO - Checking database installation.
+2024-08-08 22:26:58,117 - INFO - All databases have been successfully checked.
+2024-08-08 22:26:58,117 - INFO - Checking dependencies.
+2024-08-08 22:26:59,108 - INFO - phan_out version found is v1.5.1.
+2024-08-08 22:26:59,108 - INFO - Phanotate version is ok.
+2024-08-08 22:26:59,169 - INFO - MMseqs2 version found is v13.45111.
+2024-08-08 22:26:59,169 - INFO - MMseqs2 version is ok.
+2024-08-08 22:27:00,030 - INFO - tRNAscan-SE version found is v2.45111.11.
+2024-08-08 22:27:00,030 - INFO - tRNAscan-SE version is ok.
+2024-08-08 22:27:00,539 - INFO - MinCED version found is v0.4.2.
+2024-08-08 22:27:00,539 - INFO - MinCED version is ok.
+2024-08-08 22:27:00,559 - INFO - ARAGORN version found is v1.2.41.
+2024-08-08 22:27:00,559 - INFO - ARAGORN version is ok.
+2024-08-08 22:27:00,631 - INFO - mash version found is v2.2.
+2024-08-08 22:27:00,631 - INFO - mash version is ok.
+2024-08-08 22:27:00,858 - INFO - Running Phanotate.
+2024-08-08 22:27:02,940 - INFO - Translating gene predicted fastas.
+2024-08-08 22:27:02,954 - INFO - Starting tRNA-scanSE
+2024-08-08 22:27:03,093 - INFO - 
+
+2024-08-08 22:27:03,093 - INFO - tRNAscan-SE v.2.0.11 (Oct 2022) - scan sequences for transfer RNAs
+
+2024-08-08 22:27:03,094 - INFO - Copyright (C) 2022 Patricia Chan and Todd Lowe
+
+2024-08-08 22:27:03,094 - INFO -                    University of California Santa Cruz
+
+2024-08-08 22:27:03,094 - INFO - Freely distributed under the GNU General Public License (GPLv3)
+
+2024-08-08 22:27:03,094 - INFO - 
+
+2024-08-08 22:27:03,094 - INFO - ------------------------------------------------------------
+
+2024-08-08 22:27:03,094 - INFO - Sequence file(s) to search:        GCA_015343595.1_53_phages/GCA_015343595.1_874_1_1817_prophage.fasta
+
+2024-08-08 22:27:03,094 - INFO - Search Mode:                       General
+
+2024-08-08 22:27:03,094 - INFO - Results written to:                Standard output
+
+2024-08-08 22:27:03,094 - INFO - Output format:                     Tabular
+
+2024-08-08 22:27:03,094 - INFO - Searching with:                    Infernal single-pass scan
+
+2024-08-08 22:27:03,094 - INFO -                                    Fast mode
+
+2024-08-08 22:27:03,094 - INFO - Covariance model:                  /gpfs/gsfs12/users/yangy34/softwares/mambaforge/envs/pharokka-env/lib/tRNAscan-SE/models/TRNAinf.cm
+
+2024-08-08 22:27:03,094 - INFO - 
+
+2024-08-08 22:27:03,094 - INFO - Temporary directory:               /tmp
+
+2024-08-08 22:27:03,094 - INFO - tRNA predictions saved to:         phage_pharokka/GCA_015343595.1_874|1-1817/trnascan_out.gff
+
+2024-08-08 22:27:03,094 - INFO - ------------------------------------------------------------
+
+2024-08-08 22:27:03,094 - INFO - 
+
+2024-08-08 22:27:03,226 - INFO - No tRNAs found.
+
+2024-08-08 22:27:03,226 - INFO - 
+
+2024-08-08 22:27:03,243 - INFO - Running MinCED.
+2024-08-08 22:27:03,401 - INFO - Running Aragorn.
+2024-08-08 22:27:03,405 - INFO - Starting MMseqs2.
+2024-08-08 22:27:03,405 - INFO - Running MMseqs2 on PHROGs Database.
+2024-08-08 22:27:03,487 - INFO - createdb phage_pharokka/GCA_015343595.1_874|1-1817/phanotate_aas_tmp.fasta phage_pharokka/GCA_015343595.1_874|1-1817/target_dir/target_seqs 
+
+2024-08-08 22:27:03,487 - INFO - 
+
+2024-08-08 22:27:03,487 - INFO - MMseqs Version:       	13.45111
+
+2024-08-08 22:27:03,487 - INFO - Database type         	0
+
+2024-08-08 22:27:03,487 - INFO - Shuffle input database	true
+
+2024-08-08 22:27:03,487 - INFO - Createdb mode         	0
+
+2024-08-08 22:27:03,488 - INFO - Write lookup file     	1
+
+2024-08-08 22:27:03,488 - INFO - Offset of numeric ids 	0
+
+2024-08-08 22:27:03,488 - INFO - Compressed            	0
+
+2024-08-08 22:27:03,488 - INFO - Verbosity             	3
+
+2024-08-08 22:27:03,488 - INFO - 
+
+2024-08-08 22:27:03,488 - INFO - Converting sequences
+
+2024-08-08 22:27:03,488 - INFO - [
+
+2024-08-08 22:27:03,488 - INFO - Time for merging to target_seqs_h: 0h 0m 0s 18ms
+
+2024-08-08 22:27:03,488 - INFO - Time for merging to target_seqs: 0h 0m 0s 18ms
+
+2024-08-08 22:27:03,488 - INFO - Database type: Aminoacid
+
+2024-08-08 22:27:03,489 - INFO - Time for processing: 0h 0m 0s 71ms
+
+2024-08-08 22:27:03,498 - INFO - Create directory phage_pharokka/GCA_015343595.1_874|1-1817/tmp_dir/
+
+2024-08-08 22:27:03,498 - INFO - search -e 1E-05 /data/yangy34/database/pharokka/phrogs_profile_db phage_pharokka/GCA_015343595.1_874|1-1817/target_dir/target_seqs phage_pharokka/GCA_015343595.1_874|1-1817/mmseqs/results_mmseqs phage_pharokka/GCA_015343595.1_874|1-1817/tmp_dir/ -s 8.5 --threads 32 
+
+2024-08-08 22:27:03,498 - INFO - 
+
+2024-08-08 22:27:03,498 - INFO - MMseqs Version:                        	13.45111
+
+2024-08-08 22:27:03,498 - INFO - Substitution matrix                    	nucl:nucleotide.out,aa:blosum62.out
+
+2024-08-08 22:27:03,498 - INFO - Add backtrace                          	false
+
+2024-08-08 22:27:03,498 - INFO - Alignment mode                         	2
+
+2024-08-08 22:27:03,498 - INFO - Alignment mode                         	0
+
+2024-08-08 22:27:03,498 - INFO - Allow wrapped scoring                  	false
+
+2024-08-08 22:27:03,498 - INFO - E-value threshold                      	1e-05
+
+2024-08-08 22:27:03,498 - INFO - Seq. id. threshold                     	0
+
+2024-08-08 22:27:03,498 - INFO - Min alignment length                   	0
+
+2024-08-08 22:27:03,498 - INFO - Seq. id. mode                          	0
+
+2024-08-08 22:27:03,498 - INFO - Alternative alignments                 	0
+
+2024-08-08 22:27:03,498 - INFO - Coverage threshold                     	0
+
+2024-08-08 22:27:03,499 - INFO - Coverage mode                          	0
+
+2024-08-08 22:27:03,499 - INFO - Max sequence length                    	65535
+
+2024-08-08 22:27:03,499 - INFO - Compositional bias                     	1
+
+2024-08-08 22:27:03,499 - INFO - Max reject                             	2147483647
+
+2024-08-08 22:27:03,499 - INFO - Max accept                             	2147483647
+
+2024-08-08 22:27:03,499 - INFO - Include identical seq. id.             	false
+
+2024-08-08 22:27:03,499 - INFO - Preload mode                           	0
+
+2024-08-08 22:27:03,499 - INFO - Pseudo count a                         	1
+
+2024-08-08 22:27:03,499 - INFO - Pseudo count b                         	1.5
+
+2024-08-08 22:27:03,499 - INFO - Score bias                             	0
+
+2024-08-08 22:27:03,499 - INFO - Realign hits                           	false
+
+2024-08-08 22:27:03,499 - INFO - Realign score bias                     	-0.2
+
+2024-08-08 22:27:03,499 - INFO - Realign max seqs                       	2147483647
+
+2024-08-08 22:27:03,499 - INFO - Gap open cost                          	nucl:5,aa:11
+
+2024-08-08 22:27:03,499 - INFO - Gap extension cost                     	nucl:2,aa:1
+
+2024-08-08 22:27:03,499 - INFO - Zdrop                                  	40
+
+2024-08-08 22:27:03,499 - INFO - Threads                                	32
+
+2024-08-08 22:27:03,499 - INFO - Compressed                             	0
+
+2024-08-08 22:27:03,499 - INFO - Verbosity                              	3
+
+2024-08-08 22:27:03,499 - INFO - Seed substitution matrix               	nucl:nucleotide.out,aa:VTML80.out
+
+2024-08-08 22:27:03,499 - INFO - Sensitivity                            	8.5
+
+2024-08-08 22:27:03,499 - INFO - k-mer length                           	0
+
+2024-08-08 22:27:03,499 - INFO - k-score                                	2147483647
+
+2024-08-08 22:27:03,499 - INFO - Alphabet size                          	nucl:5,aa:21
+
+2024-08-08 22:27:03,499 - INFO - Max results per query                  	300
+
+2024-08-08 22:27:03,499 - INFO - Split database                         	0
+
+2024-08-08 22:27:03,499 - INFO - Split mode                             	2
+
+2024-08-08 22:27:03,499 - INFO - Split memory limit                     	0
+
+2024-08-08 22:27:03,499 - INFO - Diagonal scoring                       	true
+
+2024-08-08 22:27:03,499 - INFO - Exact k-mer matching                   	0
+
+2024-08-08 22:27:03,499 - INFO - Mask residues                          	1
+
+2024-08-08 22:27:03,499 - INFO - Mask lower case residues               	0
+
+2024-08-08 22:27:03,499 - INFO - Minimum diagonal score                 	15
+
+2024-08-08 22:27:03,500 - INFO - Spaced k-mers                          	1
+
+2024-08-08 22:27:03,500 - INFO - Spaced k-mer pattern                   	
+
+2024-08-08 22:27:03,500 - INFO - Local temporary path                   	
+
+2024-08-08 22:27:03,500 - INFO - Rescore mode                           	0
+
+2024-08-08 22:27:03,500 - INFO - Remove hits by seq. id. and coverage   	false
+
+2024-08-08 22:27:03,500 - INFO - Sort results                           	0
+
+2024-08-08 22:27:03,500 - INFO - Mask profile                           	1
+
+2024-08-08 22:27:03,500 - INFO - Profile E-value threshold              	0.1
+
+2024-08-08 22:27:03,500 - INFO - Global sequence weighting              	false
+
+2024-08-08 22:27:03,500 - INFO - Allow deletions                        	false
+
+2024-08-08 22:27:03,500 - INFO - Filter MSA                             	1
+
+2024-08-08 22:27:03,500 - INFO - Maximum seq. id. threshold             	0.9
+
+2024-08-08 22:27:03,500 - INFO - Minimum seq. id.                       	0
+
+2024-08-08 22:27:03,500 - INFO - Minimum score per column               	-20
+
+2024-08-08 22:27:03,500 - INFO - Minimum coverage                       	0
+
+2024-08-08 22:27:03,500 - INFO - Select N most diverse seqs             	1000
+
+2024-08-08 22:27:03,500 - INFO - Min codons in orf                      	30
+
+2024-08-08 22:27:03,500 - INFO - Max codons in length                   	32734
+
+2024-08-08 22:27:03,500 - INFO - Max orf gaps                           	2147483647
+
+2024-08-08 22:27:03,500 - INFO - Contig start mode                      	2
+
+2024-08-08 22:27:03,500 - INFO - Contig end mode                        	2
+
+2024-08-08 22:27:03,500 - INFO - Orf start mode                         	1
+
+2024-08-08 22:27:03,500 - INFO - Forward frames                         	1,2,3
+
+2024-08-08 22:27:03,500 - INFO - Reverse frames                         	1,2,3
+
+2024-08-08 22:27:03,500 - INFO - Translation table                      	1
+
+2024-08-08 22:27:03,500 - INFO - Translate orf                          	0
+
+2024-08-08 22:27:03,500 - INFO - Use all table starts                   	false
+
+2024-08-08 22:27:03,500 - INFO - Offset of numeric ids                  	0
+
+2024-08-08 22:27:03,500 - INFO - Create lookup                          	0
+
+2024-08-08 22:27:03,500 - INFO - Add orf stop                           	false
+
+2024-08-08 22:27:03,500 - INFO - Overlap between sequences              	0
+
+2024-08-08 22:27:03,500 - INFO - Sequence split mode                    	1
+
+2024-08-08 22:27:03,500 - INFO - Header split mode                      	0
+
+2024-08-08 22:27:03,501 - INFO - Chain overlapping alignments           	0
+
+2024-08-08 22:27:03,501 - INFO - Merge query                            	1
+
+2024-08-08 22:27:03,501 - INFO - Search type                            	0
+
+2024-08-08 22:27:03,501 - INFO - Search iterations                      	1
+
+2024-08-08 22:27:03,501 - INFO - Start sensitivity                      	4
+
+2024-08-08 22:27:03,501 - INFO - Search steps                           	1
+
+2024-08-08 22:27:03,501 - INFO - Exhaustive search mode                 	false
+
+2024-08-08 22:27:03,501 - INFO - Filter results during exhaustive search	0
+
+2024-08-08 22:27:03,501 - INFO - Strand selection                       	1
+
+2024-08-08 22:27:03,501 - INFO - LCA search mode                        	false
+
+2024-08-08 22:27:03,501 - INFO - Disk space limit                       	0
+
+2024-08-08 22:27:03,501 - INFO - MPI runner                             	
+
+2024-08-08 22:27:03,501 - INFO - Force restart with latest tmp          	false
+
+2024-08-08 22:27:03,501 - INFO - Remove temporary files                 	false
+
+2024-08-08 22:27:03,501 - INFO - 
+
+2024-08-08 22:27:03,725 - INFO - prefilter /data/yangy34/database/pharokka/phrogs_profile_db phage_pharokka/GCA_015343595.1_874|1-1817/target_dir/target_seqs phage_pharokka/GCA_015343595.1_874|1-1817/tmp_dir//11089799868371089826/pref_0 --sub-mat nucl:nucleotide.out,aa:blosum62.out --seed-sub-mat nucl:nucleotide.out,aa:VTML80.out -k 0 --k-score 2147483647 --alph-size nucl:5,aa:21 --max-seq-len 65535 --max-seqs 300 --split 0 --split-mode 2 --split-memory-limit 0 -c 0 --cov-mode 0 --comp-bias-corr 1 --diag-score 1 --exact-kmer-matching 0 --mask 1 --mask-lower-case 0 --min-ungapped-score 15 --add-self-matches 0 --spaced-kmer-mode 1 --db-load-mode 0 --pca 1 --pcb 1.5 --threads 32 --compressed 0 -v 3 -s 8.5 
+
+2024-08-08 22:27:03,726 - INFO - 
+
+2024-08-08 22:27:03,726 - INFO - Query database size: 38880 type: Profile
+
+2024-08-08 22:27:03,726 - INFO - Estimated memory consumption: 488M
+
+2024-08-08 22:27:03,726 - INFO - Target database size: 5 type: Aminoacid
+
+2024-08-08 22:27:03,726 - INFO - Index table k-mer threshold: 0 at k-mer size 6 
+
+2024-08-08 22:27:03,726 - INFO - Index table: counting k-mers
+
+2024-08-08 22:27:03,863 - INFO - [=================================================================] 5 0s 2ms
+
+2024-08-08 22:27:03,863 - INFO - Index table: Masked residues: 0
+
+2024-08-08 22:27:03,863 - INFO - Index table: fill
+
+2024-08-08 22:27:05,188 - INFO - [=================================================================] 5 0s 1ms
+
+2024-08-08 22:27:05,188 - INFO - Index statistics
+
+2024-08-08 22:27:05,188 - INFO - Entries:          505
+
+2024-08-08 22:27:05,188 - INFO - DB size:          488 MB
+
+2024-08-08 22:27:05,188 - INFO - Avg k-mer size:   0.000008
+
+2024-08-08 22:27:05,188 - INFO - Top 10 k-mers
+
+2024-08-08 22:27:05,188 - INFO -     EFFVCA	1
+
+2024-08-08 22:27:05,188 - INFO -     VLVADA	1
+
+2024-08-08 22:27:05,188 - INFO -     NHFFDA	1
+
+2024-08-08 22:27:05,189 - INFO -     ICPTDA	1
+
+2024-08-08 22:27:05,189 - INFO -     CKIVDA	1
+
+2024-08-08 22:27:05,189 - INFO -     VALNEA	1
+
+2024-08-08 22:27:05,189 - INFO -     PVIIGA	1
+
+2024-08-08 22:27:05,189 - INFO -     DTKKGA	1
+
+2024-08-08 22:27:05,189 - INFO -     IVANGA	1
+
+2024-08-08 22:27:05,189 - INFO -     NRPIIA	1
+
+2024-08-08 22:27:05,189 - INFO - Time for index table init: 0h 0m 0s 428ms
+
+2024-08-08 22:27:05,189 - INFO - Process prefiltering step 1 of 1
+
+2024-08-08 22:27:05,189 - INFO - 
+
+2024-08-08 22:27:05,189 - INFO - k-mer similarity threshold: 81
+
+2024-08-08 22:27:05,189 - INFO - Starting prefiltering scores calculation (step 1 of 1)
+
+2024-08-08 22:27:05,189 - INFO - Query db start 1 to 38880
+
+2024-08-08 22:27:05,189 - INFO - Target db start 1 to 5
+
+2024-08-08 22:28:05,476 - INFO - [=================================================================] 38.88K 1m 1s 239ms
+
+2024-08-08 22:28:05,476 - INFO - 
+
+2024-08-08 22:28:05,476 - INFO - 5386.328443 k-mers per position
+
+2024-08-08 22:28:05,477 - INFO - 7 DB matches per sequence
+
+2024-08-08 22:28:05,477 - INFO - 0 overflows
+
+2024-08-08 22:28:05,477 - INFO - 0 queries produce too many hits (truncated result)
+
+2024-08-08 22:28:05,477 - INFO - 0 sequences passed prefiltering per query sequence
+
+2024-08-08 22:28:05,477 - INFO - 0 median result list length
+
+2024-08-08 22:28:05,477 - INFO - 32016 sequences with 0 size result lists
+
+2024-08-08 22:28:05,477 - INFO - Time for merging to pref_0: 0h 0m 0s 25ms
+
+2024-08-08 22:28:05,477 - INFO - Time for processing: 0h 1m 1s 968ms
+
+2024-08-08 22:28:05,741 - INFO - align /data/yangy34/database/pharokka/phrogs_profile_db phage_pharokka/GCA_015343595.1_874|1-1817/target_dir/target_seqs phage_pharokka/GCA_015343595.1_874|1-1817/tmp_dir//11089799868371089826/pref_0 phage_pharokka/GCA_015343595.1_874|1-1817/mmseqs/results_mmseqs --sub-mat nucl:nucleotide.out,aa:blosum62.out -a 0 --alignment-mode 2 --alignment-output-mode 0 --wrapped-scoring 0 -e 1e-05 --min-seq-id 0 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 1 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca 1 --pcb 1.5 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --gap-open nucl:5,aa:11 --gap-extend nucl:2,aa:1 --zdrop 40 --threads 32 --compressed 0 -v 3 
+
+2024-08-08 22:28:05,741 - INFO - 
+
+2024-08-08 22:28:05,741 - INFO - Compute score and coverage
+
+2024-08-08 22:28:05,741 - INFO - Query database size: 38880 type: Profile
+
+2024-08-08 22:28:05,741 - INFO - Target database size: 5 type: Aminoacid
+
+2024-08-08 22:28:05,741 - INFO - Calculation of alignments
+
+2024-08-08 22:28:06,031 - INFO - [=================================================================] 38.88K 0s 243ms
+
+2024-08-08 22:28:06,032 - INFO - Time for merging to results_mmseqs: 0h 0m 0s 24ms
+
+2024-08-08 22:28:06,032 - INFO - 7932 alignments calculated
+
+2024-08-08 22:28:06,032 - INFO - 27 sequence pairs passed the thresholds (0.003404 of overall calculated)
+
+2024-08-08 22:28:06,032 - INFO - 0.000694 hits per query sequence
+
+2024-08-08 22:28:06,032 - INFO - Time for processing: 0h 0m 0s 546ms
+
+2024-08-08 22:28:06,205 - INFO - createtsv /data/yangy34/database/pharokka/phrogs_profile_db phage_pharokka/GCA_015343595.1_874|1-1817/target_dir/target_seqs phage_pharokka/GCA_015343595.1_874|1-1817/mmseqs/results_mmseqs phage_pharokka/GCA_015343595.1_874|1-1817/mmseqs_results.tsv --full-header --threads 32 
+
+2024-08-08 22:28:06,205 - INFO - 
+
+2024-08-08 22:28:06,205 - INFO - MMseqs Version:                 	13.45111
+
+2024-08-08 22:28:06,205 - INFO - First sequence as representative	false
+
+2024-08-08 22:28:06,205 - INFO - Target column                   	1
+
+2024-08-08 22:28:06,205 - INFO - Add full header                 	true
+
+2024-08-08 22:28:06,205 - INFO - Sequence source                 	0
+
+2024-08-08 22:28:06,206 - INFO - Database output                 	false
+
+2024-08-08 22:28:06,206 - INFO - Threads                         	32
+
+2024-08-08 22:28:06,206 - INFO - Compressed                      	0
+
+2024-08-08 22:28:06,206 - INFO - Verbosity                       	3
+
+2024-08-08 22:28:06,206 - INFO - 
+
+2024-08-08 22:28:06,206 - INFO - Time for merging to mmseqs_results.tsv: 0h 0m 0s 28ms
+
+2024-08-08 22:28:06,206 - INFO - Time for processing: 0h 0m 0s 161ms
+
+2024-08-08 22:28:06,235 - INFO - Running mmseqs2 on CARD.
+2024-08-08 22:28:06,377 - INFO - createdb phage_pharokka/GCA_015343595.1_874|1-1817/phanotate_aas_tmp.fasta phage_pharokka/GCA_015343595.1_874|1-1817/CARD_target_dir/target_seqs 
+
+2024-08-08 22:28:06,378 - INFO - 
+
+2024-08-08 22:28:06,378 - INFO - MMseqs Version:       	13.45111
+
+2024-08-08 22:28:06,378 - INFO - Database type         	0
+
+2024-08-08 22:28:06,378 - INFO - Shuffle input database	true
+
+2024-08-08 22:28:06,378 - INFO - Createdb mode         	0
+
+2024-08-08 22:28:06,378 - INFO - Write lookup file     	1
+
+2024-08-08 22:28:06,378 - INFO - Offset of numeric ids 	0
+
+2024-08-08 22:28:06,378 - INFO - Compressed            	0
+
+2024-08-08 22:28:06,378 - INFO - Verbosity             	3
+
+2024-08-08 22:28:06,378 - INFO - 
+
+2024-08-08 22:28:06,378 - INFO - Converting sequences
+
+2024-08-08 22:28:06,378 - INFO - [
+
+2024-08-08 22:28:06,378 - INFO - Time for merging to target_seqs_h: 0h 0m 0s 8ms
+
+2024-08-08 22:28:06,378 - INFO - Time for merging to target_seqs: 0h 0m 0s 17ms
+
+2024-08-08 22:28:06,378 - INFO - Database type: Aminoacid
+
+2024-08-08 22:28:06,378 - INFO - Time for processing: 0h 0m 0s 137ms
+
+2024-08-08 22:28:06,388 - INFO - Create directory phage_pharokka/GCA_015343595.1_874|1-1817/CARD_tmp_dir/
+
+2024-08-08 22:28:06,388 - INFO - search --min-seq-id 0.8 -c 0.4 /data/yangy34/database/pharokka/CARD phage_pharokka/GCA_015343595.1_874|1-1817/CARD_target_dir/target_seqs phage_pharokka/GCA_015343595.1_874|1-1817/CARD/results_CARD phage_pharokka/GCA_015343595.1_874|1-1817/CARD_tmp_dir/ -s 8.5 --threads 32 
+
+2024-08-08 22:28:06,388 - INFO - 
+
+2024-08-08 22:28:06,388 - INFO - MMseqs Version:                        	13.45111
+
+2024-08-08 22:28:06,388 - INFO - Substitution matrix                    	nucl:nucleotide.out,aa:blosum62.out
+
+2024-08-08 22:28:06,388 - INFO - Add backtrace                          	false
+
+2024-08-08 22:28:06,388 - INFO - Alignment mode                         	2
+
+2024-08-08 22:28:06,388 - INFO - Alignment mode                         	0
+
+2024-08-08 22:28:06,388 - INFO - Allow wrapped scoring                  	false
+
+2024-08-08 22:28:06,388 - INFO - E-value threshold                      	0.001
+
+2024-08-08 22:28:06,388 - INFO - Seq. id. threshold                     	0.8
+
+2024-08-08 22:28:06,388 - INFO - Min alignment length                   	0
+
+2024-08-08 22:28:06,389 - INFO - Seq. id. mode                          	0
+
+2024-08-08 22:28:06,389 - INFO - Alternative alignments                 	0
+
+2024-08-08 22:28:06,389 - INFO - Coverage threshold                     	0.4
+
+2024-08-08 22:28:06,389 - INFO - Coverage mode                          	0
+
+2024-08-08 22:28:06,389 - INFO - Max sequence length                    	65535
+
+2024-08-08 22:28:06,389 - INFO - Compositional bias                     	1
+
+2024-08-08 22:28:06,389 - INFO - Max reject                             	2147483647
+
+2024-08-08 22:28:06,389 - INFO - Max accept                             	2147483647
+
+2024-08-08 22:28:06,389 - INFO - Include identical seq. id.             	false
+
+2024-08-08 22:28:06,389 - INFO - Preload mode                           	0
+
+2024-08-08 22:28:06,389 - INFO - Pseudo count a                         	1
+
+2024-08-08 22:28:06,389 - INFO - Pseudo count b                         	1.5
+
+2024-08-08 22:28:06,389 - INFO - Score bias                             	0
+
+2024-08-08 22:28:06,389 - INFO - Realign hits                           	false
+
+2024-08-08 22:28:06,389 - INFO - Realign score bias                     	-0.2
+
+2024-08-08 22:28:06,389 - INFO - Realign max seqs                       	2147483647
+
+2024-08-08 22:28:06,389 - INFO - Gap open cost                          	nucl:5,aa:11
+
+2024-08-08 22:28:06,389 - INFO - Gap extension cost                     	nucl:2,aa:1
+
+2024-08-08 22:28:06,389 - INFO - Zdrop                                  	40
+
+2024-08-08 22:28:06,389 - INFO - Threads                                	32
+
+2024-08-08 22:28:06,389 - INFO - Compressed                             	0
+
+2024-08-08 22:28:06,389 - INFO - Verbosity                              	3
+
+2024-08-08 22:28:06,389 - INFO - Seed substitution matrix               	nucl:nucleotide.out,aa:VTML80.out
+
+2024-08-08 22:28:06,389 - INFO - Sensitivity                            	8.5
+
+2024-08-08 22:28:06,389 - INFO - k-mer length                           	0
+
+2024-08-08 22:28:06,389 - INFO - k-score                                	2147483647
+
+2024-08-08 22:28:06,389 - INFO - Alphabet size                          	nucl:5,aa:21
+
+2024-08-08 22:28:06,389 - INFO - Max results per query                  	300
+
+2024-08-08 22:28:06,389 - INFO - Split database                         	0
+
+2024-08-08 22:28:06,389 - INFO - Split mode                             	2
+
+2024-08-08 22:28:06,389 - INFO - Split memory limit                     	0
+
+2024-08-08 22:28:06,389 - INFO - Diagonal scoring                       	true
+
+2024-08-08 22:28:06,389 - INFO - Exact k-mer matching                   	0
+
+2024-08-08 22:28:06,390 - INFO - Mask residues                          	1
+
+2024-08-08 22:28:06,390 - INFO - Mask lower case residues               	0
+
+2024-08-08 22:28:06,390 - INFO - Minimum diagonal score                 	15
+
+2024-08-08 22:28:06,390 - INFO - Spaced k-mers                          	1
+
+2024-08-08 22:28:06,390 - INFO - Spaced k-mer pattern                   	
+
+2024-08-08 22:28:06,390 - INFO - Local temporary path                   	
+
+2024-08-08 22:28:06,390 - INFO - Rescore mode                           	0
+
+2024-08-08 22:28:06,390 - INFO - Remove hits by seq. id. and coverage   	false
+
+2024-08-08 22:28:06,390 - INFO - Sort results                           	0
+
+2024-08-08 22:28:06,390 - INFO - Mask profile                           	1
+
+2024-08-08 22:28:06,390 - INFO - Profile E-value threshold              	0.1
+
+2024-08-08 22:28:06,390 - INFO - Global sequence weighting              	false
+
+2024-08-08 22:28:06,390 - INFO - Allow deletions                        	false
+
+2024-08-08 22:28:06,390 - INFO - Filter MSA                             	1
+
+2024-08-08 22:28:06,390 - INFO - Maximum seq. id. threshold             	0.9
+
+2024-08-08 22:28:06,390 - INFO - Minimum seq. id.                       	0
+
+2024-08-08 22:28:06,390 - INFO - Minimum score per column               	-20
+
+2024-08-08 22:28:06,390 - INFO - Minimum coverage                       	0
+
+2024-08-08 22:28:06,390 - INFO - Select N most diverse seqs             	1000
+
+2024-08-08 22:28:06,390 - INFO - Min codons in orf                      	30
+
+2024-08-08 22:28:06,390 - INFO - Max codons in length                   	32734
+
+2024-08-08 22:28:06,390 - INFO - Max orf gaps                           	2147483647
+
+2024-08-08 22:28:06,390 - INFO - Contig start mode                      	2
+
+2024-08-08 22:28:06,390 - INFO - Contig end mode                        	2
+
+2024-08-08 22:28:06,390 - INFO - Orf start mode                         	1
+
+2024-08-08 22:28:06,390 - INFO - Forward frames                         	1,2,3
+
+2024-08-08 22:28:06,390 - INFO - Reverse frames                         	1,2,3
+
+2024-08-08 22:28:06,390 - INFO - Translation table                      	1
+
+2024-08-08 22:28:06,390 - INFO - Translate orf                          	0
+
+2024-08-08 22:28:06,390 - INFO - Use all table starts                   	false
+
+2024-08-08 22:28:06,390 - INFO - Offset of numeric ids                  	0
+
+2024-08-08 22:28:06,390 - INFO - Create lookup                          	0
+
+2024-08-08 22:28:06,390 - INFO - Add orf stop                           	false
+
+2024-08-08 22:28:06,390 - INFO - Overlap between sequences              	0
+
+2024-08-08 22:28:06,391 - INFO - Sequence split mode                    	1
+
+2024-08-08 22:28:06,391 - INFO - Header split mode                      	0
+
+2024-08-08 22:28:06,391 - INFO - Chain overlapping alignments           	0
+
+2024-08-08 22:28:06,391 - INFO - Merge query                            	1
+
+2024-08-08 22:28:06,391 - INFO - Search type                            	0
+
+2024-08-08 22:28:06,391 - INFO - Search iterations                      	1
+
+2024-08-08 22:28:06,391 - INFO - Start sensitivity                      	4
+
+2024-08-08 22:28:06,391 - INFO - Search steps                           	1
+
+2024-08-08 22:28:06,391 - INFO - Exhaustive search mode                 	false
+
+2024-08-08 22:28:06,391 - INFO - Filter results during exhaustive search	0
+
+2024-08-08 22:28:06,391 - INFO - Strand selection                       	1
+
+2024-08-08 22:28:06,391 - INFO - LCA search mode                        	false
+
+2024-08-08 22:28:06,391 - INFO - Disk space limit                       	0
+
+2024-08-08 22:28:06,391 - INFO - MPI runner                             	
+
+2024-08-08 22:28:06,391 - INFO - Force restart with latest tmp          	false
+
+2024-08-08 22:28:06,391 - INFO - Remove temporary files                 	false
+
+2024-08-08 22:28:06,391 - INFO - 
+
+2024-08-08 22:28:06,552 - INFO - prefilter /data/yangy34/database/pharokka/CARD phage_pharokka/GCA_015343595.1_874|1-1817/CARD_target_dir/target_seqs phage_pharokka/GCA_015343595.1_874|1-1817/CARD_tmp_dir//9272325484563817966/pref_0 --sub-mat nucl:nucleotide.out,aa:blosum62.out --seed-sub-mat nucl:nucleotide.out,aa:VTML80.out -k 0 --k-score 2147483647 --alph-size nucl:5,aa:21 --max-seq-len 65535 --max-seqs 300 --split 0 --split-mode 2 --split-memory-limit 0 -c 0.4 --cov-mode 0 --comp-bias-corr 1 --diag-score 1 --exact-kmer-matching 0 --mask 1 --mask-lower-case 0 --min-ungapped-score 15 --add-self-matches 0 --spaced-kmer-mode 1 --db-load-mode 0 --pca 1 --pcb 1.5 --threads 32 --compressed 0 -v 3 -s 8.5 
+
+2024-08-08 22:28:06,552 - INFO - 
+
+2024-08-08 22:28:06,552 - INFO - Query database size: 4641 type: Aminoacid
+
+2024-08-08 22:28:06,552 - INFO - Estimated memory consumption: 977M
+
+2024-08-08 22:28:06,552 - INFO - Target database size: 5 type: Aminoacid
+
+2024-08-08 22:28:06,552 - INFO - Index table k-mer threshold: 87 at k-mer size 6 
+
+2024-08-08 22:28:06,552 - INFO - Index table: counting k-mers
+
+2024-08-08 22:28:06,700 - INFO - [=================================================================] 5 0s 16ms
+
+2024-08-08 22:28:06,701 - INFO - Index table: Masked residues: 0
+
+2024-08-08 22:28:06,701 - INFO - Index table: fill
+
+2024-08-08 22:28:07,190 - INFO - [=================================================================] 5 0s 0ms
+
+2024-08-08 22:28:07,190 - INFO - Index statistics
+
+2024-08-08 22:28:07,191 - INFO - Entries:          505
+
+2024-08-08 22:28:07,191 - INFO - DB size:          488 MB
+
+2024-08-08 22:28:07,191 - INFO - Avg k-mer size:   0.000008
+
+2024-08-08 22:28:07,191 - INFO - Top 10 k-mers
+
+2024-08-08 22:28:07,191 - INFO -     EFFVCA	1
+
+2024-08-08 22:28:07,191 - INFO -     VLVADA	1
+
+2024-08-08 22:28:07,191 - INFO -     NHFFDA	1
+
+2024-08-08 22:28:07,191 - INFO -     ICPTDA	1
+
+2024-08-08 22:28:07,191 - INFO -     CKIVDA	1
+
+2024-08-08 22:28:07,191 - INFO -     VALNEA	1
+
+2024-08-08 22:28:07,191 - INFO -     PVIIGA	1
+
+2024-08-08 22:28:07,191 - INFO -     DTKKGA	1
+
+2024-08-08 22:28:07,191 - INFO -     IVANGA	1
+
+2024-08-08 22:28:07,191 - INFO -     NRPIIA	1
+
+2024-08-08 22:28:07,191 - INFO - Time for index table init: 0h 0m 0s 450ms
+
+2024-08-08 22:28:07,191 - INFO - Process prefiltering step 1 of 1
+
+2024-08-08 22:28:07,191 - INFO - 
+
+2024-08-08 22:28:07,191 - INFO - k-mer similarity threshold: 87
+
+2024-08-08 22:28:07,191 - INFO - Starting prefiltering scores calculation (step 1 of 1)
+
+2024-08-08 22:28:07,191 - INFO - Query db start 1 to 4641
+
+2024-08-08 22:28:07,191 - INFO - Target db start 1 to 5
+
+2024-08-08 22:28:15,662 - INFO - [=================================================================] 4.64K 8s 425ms
+
+2024-08-08 22:28:15,662 - INFO - 
+
+2024-08-08 22:28:15,662 - INFO - 3883.681631 k-mers per position
+
+2024-08-08 22:28:15,662 - INFO - 10 DB matches per sequence
+
+2024-08-08 22:28:15,663 - INFO - 0 overflows
+
+2024-08-08 22:28:15,663 - INFO - 0 queries produce too many hits (truncated result)
+
+2024-08-08 22:28:15,663 - INFO - 0 sequences passed prefiltering per query sequence
+
+2024-08-08 22:28:15,663 - INFO - 0 median result list length
+
+2024-08-08 22:28:15,663 - INFO - 3658 sequences with 0 size result lists
+
+2024-08-08 22:28:15,663 - INFO - Time for merging to pref_0: 0h 0m 0s 16ms
+
+2024-08-08 22:28:15,663 - INFO - Time for processing: 0h 0m 9s 261ms
+
+2024-08-08 22:28:15,688 - INFO - align /data/yangy34/database/pharokka/CARD phage_pharokka/GCA_015343595.1_874|1-1817/CARD_target_dir/target_seqs phage_pharokka/GCA_015343595.1_874|1-1817/CARD_tmp_dir//9272325484563817966/pref_0 phage_pharokka/GCA_015343595.1_874|1-1817/CARD/results_CARD --sub-mat nucl:nucleotide.out,aa:blosum62.out -a 0 --alignment-mode 2 --alignment-output-mode 0 --wrapped-scoring 0 -e 0.001 --min-seq-id 0.8 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0.4 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 1 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca 1 --pcb 1.5 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --gap-open nucl:5,aa:11 --gap-extend nucl:2,aa:1 --zdrop 40 --threads 32 --compressed 0 -v 3 
+
+2024-08-08 22:28:15,688 - INFO - 
+
+2024-08-08 22:28:15,689 - INFO - Compute score and coverage
+
+2024-08-08 22:28:15,689 - INFO - Query database size: 4641 type: Aminoacid
+
+2024-08-08 22:28:15,689 - INFO - Target database size: 5 type: Aminoacid
+
+2024-08-08 22:28:15,689 - INFO - Calculation of alignments
+
+2024-08-08 22:28:15,736 - INFO - [=================================================================] 4.64K 0s 22ms
+
+2024-08-08 22:28:15,736 - INFO - Time for merging to results_CARD: 0h 0m 0s 12ms
+
+2024-08-08 22:28:15,736 - INFO - 436 alignments calculated
+
+2024-08-08 22:28:15,736 - INFO - 0 sequence pairs passed the thresholds (0.000000 of overall calculated)
+
+2024-08-08 22:28:15,736 - INFO - 0.000000 hits per query sequence
+
+2024-08-08 22:28:15,736 - INFO - Time for processing: 0h 0m 0s 65ms
+
+2024-08-08 22:28:15,866 - INFO - createtsv /data/yangy34/database/pharokka/CARD phage_pharokka/GCA_015343595.1_874|1-1817/CARD_target_dir/target_seqs phage_pharokka/GCA_015343595.1_874|1-1817/CARD/results_CARD phage_pharokka/GCA_015343595.1_874|1-1817/CARD_results.tsv --full-header --threads 32 
+
+2024-08-08 22:28:15,866 - INFO - 
+
+2024-08-08 22:28:15,866 - INFO - MMseqs Version:                 	13.45111
+
+2024-08-08 22:28:15,866 - INFO - First sequence as representative	false
+
+2024-08-08 22:28:15,866 - INFO - Target column                   	1
+
+2024-08-08 22:28:15,866 - INFO - Add full header                 	true
+
+2024-08-08 22:28:15,866 - INFO - Sequence source                 	0
+
+2024-08-08 22:28:15,866 - INFO - Database output                 	false
+
+2024-08-08 22:28:15,866 - INFO - Threads                         	32
+
+2024-08-08 22:28:15,866 - INFO - Compressed                      	0
+
+2024-08-08 22:28:15,866 - INFO - Verbosity                       	3
+
+2024-08-08 22:28:15,867 - INFO - 
+
+2024-08-08 22:28:15,867 - INFO - Time for merging to CARD_results.tsv: 0h 0m 0s 13ms
+
+2024-08-08 22:28:15,867 - INFO - Time for processing: 0h 0m 0s 121ms
+
+2024-08-08 22:28:15,874 - INFO - Running mmseqs2 on vfdb.
+2024-08-08 22:28:16,020 - INFO - createdb phage_pharokka/GCA_015343595.1_874|1-1817/phanotate_aas_tmp.fasta phage_pharokka/GCA_015343595.1_874|1-1817/vfdb_target_dir/target_seqs 
+
+2024-08-08 22:28:16,020 - INFO - 
+
+2024-08-08 22:28:16,020 - INFO - MMseqs Version:       	13.45111
+
+2024-08-08 22:28:16,020 - INFO - Database type         	0
+
+2024-08-08 22:28:16,020 - INFO - Shuffle input database	true
+
+2024-08-08 22:28:16,020 - INFO - Createdb mode         	0
+
+2024-08-08 22:28:16,020 - INFO - Write lookup file     	1
+
+2024-08-08 22:28:16,021 - INFO - Offset of numeric ids 	0
+
+2024-08-08 22:28:16,021 - INFO - Compressed            	0
+
+2024-08-08 22:28:16,021 - INFO - Verbosity             	3
+
+2024-08-08 22:28:16,021 - INFO - 
+
+2024-08-08 22:28:16,021 - INFO - Converting sequences
+
+2024-08-08 22:28:16,021 - INFO - [
+
+2024-08-08 22:28:16,021 - INFO - Time for merging to target_seqs_h: 0h 0m 0s 7ms
+
+2024-08-08 22:28:16,021 - INFO - Time for merging to target_seqs: 0h 0m 0s 17ms
+
+2024-08-08 22:28:16,021 - INFO - Database type: Aminoacid
+
+2024-08-08 22:28:16,021 - INFO - Time for processing: 0h 0m 0s 140ms
+
+2024-08-08 22:28:16,030 - INFO - Create directory phage_pharokka/GCA_015343595.1_874|1-1817/vfdb_tmp_dir/
+
+2024-08-08 22:28:16,030 - INFO - search --min-seq-id 0.8 -c 0.4 /data/yangy34/database/pharokka/vfdb phage_pharokka/GCA_015343595.1_874|1-1817/vfdb_target_dir/target_seqs phage_pharokka/GCA_015343595.1_874|1-1817/vfdb/results_vfdb phage_pharokka/GCA_015343595.1_874|1-1817/vfdb_tmp_dir/ -s 8.5 --threads 32 
+
+2024-08-08 22:28:16,030 - INFO - 
+
+2024-08-08 22:28:16,030 - INFO - MMseqs Version:                        	13.45111
+
+2024-08-08 22:28:16,030 - INFO - Substitution matrix                    	nucl:nucleotide.out,aa:blosum62.out
+
+2024-08-08 22:28:16,030 - INFO - Add backtrace                          	false
+
+2024-08-08 22:28:16,030 - INFO - Alignment mode                         	2
+
+2024-08-08 22:28:16,030 - INFO - Alignment mode                         	0
+
+2024-08-08 22:28:16,030 - INFO - Allow wrapped scoring                  	false
+
+2024-08-08 22:28:16,030 - INFO - E-value threshold                      	0.001
+
+2024-08-08 22:28:16,030 - INFO - Seq. id. threshold                     	0.8
+
+2024-08-08 22:28:16,030 - INFO - Min alignment length                   	0
+
+2024-08-08 22:28:16,030 - INFO - Seq. id. mode                          	0
+
+2024-08-08 22:28:16,030 - INFO - Alternative alignments                 	0
+
+2024-08-08 22:28:16,030 - INFO - Coverage threshold                     	0.4
+
+2024-08-08 22:28:16,030 - INFO - Coverage mode                          	0
+
+2024-08-08 22:28:16,030 - INFO - Max sequence length                    	65535
+
+2024-08-08 22:28:16,030 - INFO - Compositional bias                     	1
+
+2024-08-08 22:28:16,030 - INFO - Max reject                             	2147483647
+
+2024-08-08 22:28:16,030 - INFO - Max accept                             	2147483647
+
+2024-08-08 22:28:16,030 - INFO - Include identical seq. id.             	false
+
+2024-08-08 22:28:16,031 - INFO - Preload mode                           	0
+
+2024-08-08 22:28:16,031 - INFO - Pseudo count a                         	1
+
+2024-08-08 22:28:16,031 - INFO - Pseudo count b                         	1.5
+
+2024-08-08 22:28:16,031 - INFO - Score bias                             	0
+
+2024-08-08 22:28:16,031 - INFO - Realign hits                           	false
+
+2024-08-08 22:28:16,031 - INFO - Realign score bias                     	-0.2
+
+2024-08-08 22:28:16,031 - INFO - Realign max seqs                       	2147483647
+
+2024-08-08 22:28:16,031 - INFO - Gap open cost                          	nucl:5,aa:11
+
+2024-08-08 22:28:16,031 - INFO - Gap extension cost                     	nucl:2,aa:1
+
+2024-08-08 22:28:16,031 - INFO - Zdrop                                  	40
+
+2024-08-08 22:28:16,031 - INFO - Threads                                	32
+
+2024-08-08 22:28:16,031 - INFO - Compressed                             	0
+
+2024-08-08 22:28:16,031 - INFO - Verbosity                              	3
+
+2024-08-08 22:28:16,031 - INFO - Seed substitution matrix               	nucl:nucleotide.out,aa:VTML80.out
+
+2024-08-08 22:28:16,031 - INFO - Sensitivity                            	8.5
+
+2024-08-08 22:28:16,031 - INFO - k-mer length                           	0
+
+2024-08-08 22:28:16,031 - INFO - k-score                                	2147483647
+
+2024-08-08 22:28:16,031 - INFO - Alphabet size                          	nucl:5,aa:21
+
+2024-08-08 22:28:16,031 - INFO - Max results per query                  	300
+
+2024-08-08 22:28:16,031 - INFO - Split database                         	0
+
+2024-08-08 22:28:16,031 - INFO - Split mode                             	2
+
+2024-08-08 22:28:16,031 - INFO - Split memory limit                     	0
+
+2024-08-08 22:28:16,031 - INFO - Diagonal scoring                       	true
+
+2024-08-08 22:28:16,031 - INFO - Exact k-mer matching                   	0
+
+2024-08-08 22:28:16,031 - INFO - Mask residues                          	1
+
+2024-08-08 22:28:16,031 - INFO - Mask lower case residues               	0
+
+2024-08-08 22:28:16,031 - INFO - Minimum diagonal score                 	15
+
+2024-08-08 22:28:16,031 - INFO - Spaced k-mers                          	1
+
+2024-08-08 22:28:16,031 - INFO - Spaced k-mer pattern                   	
+
+2024-08-08 22:28:16,031 - INFO - Local temporary path                   	
+
+2024-08-08 22:28:16,031 - INFO - Rescore mode                           	0
+
+2024-08-08 22:28:16,031 - INFO - Remove hits by seq. id. and coverage   	false
+
+2024-08-08 22:28:16,031 - INFO - Sort results                           	0
+
+2024-08-08 22:28:16,032 - INFO - Mask profile                           	1
+
+2024-08-08 22:28:16,032 - INFO - Profile E-value threshold              	0.1
+
+2024-08-08 22:28:16,032 - INFO - Global sequence weighting              	false
+
+2024-08-08 22:28:16,032 - INFO - Allow deletions                        	false
+
+2024-08-08 22:28:16,032 - INFO - Filter MSA                             	1
+
+2024-08-08 22:28:16,032 - INFO - Maximum seq. id. threshold             	0.9
+
+2024-08-08 22:28:16,032 - INFO - Minimum seq. id.                       	0
+
+2024-08-08 22:28:16,032 - INFO - Minimum score per column               	-20
+
+2024-08-08 22:28:16,032 - INFO - Minimum coverage                       	0
+
+2024-08-08 22:28:16,032 - INFO - Select N most diverse seqs             	1000
+
+2024-08-08 22:28:16,032 - INFO - Min codons in orf                      	30
+
+2024-08-08 22:28:16,032 - INFO - Max codons in length                   	32734
+
+2024-08-08 22:28:16,032 - INFO - Max orf gaps                           	2147483647
+
+2024-08-08 22:28:16,032 - INFO - Contig start mode                      	2
+
+2024-08-08 22:28:16,032 - INFO - Contig end mode                        	2
+
+2024-08-08 22:28:16,032 - INFO - Orf start mode                         	1
+
+2024-08-08 22:28:16,032 - INFO - Forward frames                         	1,2,3
+
+2024-08-08 22:28:16,032 - INFO - Reverse frames                         	1,2,3
+
+2024-08-08 22:28:16,032 - INFO - Translation table                      	1
+
+2024-08-08 22:28:16,032 - INFO - Translate orf                          	0
+
+2024-08-08 22:28:16,032 - INFO - Use all table starts                   	false
+
+2024-08-08 22:28:16,032 - INFO - Offset of numeric ids                  	0
+
+2024-08-08 22:28:16,032 - INFO - Create lookup                          	0
+
+2024-08-08 22:28:16,032 - INFO - Add orf stop                           	false
+
+2024-08-08 22:28:16,032 - INFO - Overlap between sequences              	0
+
+2024-08-08 22:28:16,032 - INFO - Sequence split mode                    	1
+
+2024-08-08 22:28:16,032 - INFO - Header split mode                      	0
+
+2024-08-08 22:28:16,032 - INFO - Chain overlapping alignments           	0
+
+2024-08-08 22:28:16,032 - INFO - Merge query                            	1
+
+2024-08-08 22:28:16,032 - INFO - Search type                            	0
+
+2024-08-08 22:28:16,032 - INFO - Search iterations                      	1
+
+2024-08-08 22:28:16,032 - INFO - Start sensitivity                      	4
+
+2024-08-08 22:28:16,032 - INFO - Search steps                           	1
+
+2024-08-08 22:28:16,032 - INFO - Exhaustive search mode                 	false
+
+2024-08-08 22:28:16,033 - INFO - Filter results during exhaustive search	0
+
+2024-08-08 22:28:16,033 - INFO - Strand selection                       	1
+
+2024-08-08 22:28:16,033 - INFO - LCA search mode                        	false
+
+2024-08-08 22:28:16,033 - INFO - Disk space limit                       	0
+
+2024-08-08 22:28:16,033 - INFO - MPI runner                             	
+
+2024-08-08 22:28:16,033 - INFO - Force restart with latest tmp          	false
+
+2024-08-08 22:28:16,033 - INFO - Remove temporary files                 	false
+
+2024-08-08 22:28:16,033 - INFO - 
+
+2024-08-08 22:28:16,202 - INFO - prefilter /data/yangy34/database/pharokka/vfdb phage_pharokka/GCA_015343595.1_874|1-1817/vfdb_target_dir/target_seqs phage_pharokka/GCA_015343595.1_874|1-1817/vfdb_tmp_dir//13683076275172822351/pref_0 --sub-mat nucl:nucleotide.out,aa:blosum62.out --seed-sub-mat nucl:nucleotide.out,aa:VTML80.out -k 0 --k-score 2147483647 --alph-size nucl:5,aa:21 --max-seq-len 65535 --max-seqs 300 --split 0 --split-mode 2 --split-memory-limit 0 -c 0.4 --cov-mode 0 --comp-bias-corr 1 --diag-score 1 --exact-kmer-matching 0 --mask 1 --mask-lower-case 0 --min-ungapped-score 15 --add-self-matches 0 --spaced-kmer-mode 1 --db-load-mode 0 --pca 1 --pcb 1.5 --threads 32 --compressed 0 -v 3 -s 8.5 
+
+2024-08-08 22:28:16,202 - INFO - 
+
+2024-08-08 22:28:16,202 - INFO - Query database size: 27504 type: Aminoacid
+
+2024-08-08 22:28:16,202 - INFO - Estimated memory consumption: 977M
+
+2024-08-08 22:28:16,202 - INFO - Target database size: 5 type: Aminoacid
+
+2024-08-08 22:28:16,202 - INFO - Index table k-mer threshold: 87 at k-mer size 6 
+
+2024-08-08 22:28:16,202 - INFO - Index table: counting k-mers
+
+2024-08-08 22:28:16,352 - INFO - [=================================================================] 5 0s 16ms
+
+2024-08-08 22:28:16,352 - INFO - Index table: Masked residues: 0
+
+2024-08-08 22:28:16,352 - INFO - Index table: fill
+
+2024-08-08 22:28:17,711 - INFO - [=================================================================] 5 0s 1ms
+
+2024-08-08 22:28:17,711 - INFO - Index statistics
+
+2024-08-08 22:28:17,711 - INFO - Entries:          505
+
+2024-08-08 22:28:17,711 - INFO - DB size:          488 MB
+
+2024-08-08 22:28:17,712 - INFO - Avg k-mer size:   0.000008
+
+2024-08-08 22:28:17,712 - INFO - Top 10 k-mers
+
+2024-08-08 22:28:17,712 - INFO -     EFFVCA	1
+
+2024-08-08 22:28:17,712 - INFO -     VLVADA	1
+
+2024-08-08 22:28:17,712 - INFO -     NHFFDA	1
+
+2024-08-08 22:28:17,712 - INFO -     ICPTDA	1
+
+2024-08-08 22:28:17,712 - INFO -     CKIVDA	1
+
+2024-08-08 22:28:17,712 - INFO -     VALNEA	1
+
+2024-08-08 22:28:17,712 - INFO -     PVIIGA	1
+
+2024-08-08 22:28:17,712 - INFO -     DTKKGA	1
+
+2024-08-08 22:28:17,712 - INFO -     IVANGA	1
+
+2024-08-08 22:28:17,712 - INFO -     NRPIIA	1
+
+2024-08-08 22:28:17,712 - INFO - Time for index table init: 0h 0m 0s 482ms
+
+2024-08-08 22:28:17,712 - INFO - Process prefiltering step 1 of 1
+
+2024-08-08 22:28:17,712 - INFO - 
+
+2024-08-08 22:28:17,712 - INFO - k-mer similarity threshold: 87
+
+2024-08-08 22:28:17,712 - INFO - Starting prefiltering scores calculation (step 1 of 1)
+
+2024-08-08 22:28:17,712 - INFO - Query db start 1 to 27504
+
+2024-08-08 22:28:17,712 - INFO - Target db start 1 to 5
+
+2024-08-08 22:29:16,455 - INFO - [=================================================================] 27.50K 59s 368ms
+
+2024-08-08 22:29:16,455 - INFO - 
+
+2024-08-08 22:29:16,455 - INFO - 3159.764157 k-mers per position
+
+2024-08-08 22:29:16,455 - INFO - 12 DB matches per sequence
+
+2024-08-08 22:29:16,455 - INFO - 0 overflows
+
+2024-08-08 22:29:16,455 - INFO - 0 queries produce too many hits (truncated result)
+
+2024-08-08 22:29:16,455 - INFO - 0 sequences passed prefiltering per query sequence
+
+2024-08-08 22:29:16,455 - INFO - 0 median result list length
+
+2024-08-08 22:29:16,455 - INFO - 21197 sequences with 0 size result lists
+
+2024-08-08 22:29:16,455 - INFO - Time for merging to pref_0: 0h 0m 0s 19ms
+
+2024-08-08 22:29:16,455 - INFO - Time for processing: 0h 1m 0s 414ms
+
+2024-08-08 22:29:16,497 - INFO - align /data/yangy34/database/pharokka/vfdb phage_pharokka/GCA_015343595.1_874|1-1817/vfdb_target_dir/target_seqs phage_pharokka/GCA_015343595.1_874|1-1817/vfdb_tmp_dir//13683076275172822351/pref_0 phage_pharokka/GCA_015343595.1_874|1-1817/vfdb/results_vfdb --sub-mat nucl:nucleotide.out,aa:blosum62.out -a 0 --alignment-mode 2 --alignment-output-mode 0 --wrapped-scoring 0 -e 0.001 --min-seq-id 0.8 --min-aln-len 0 --seq-id-mode 0 --alt-ali 0 -c 0.4 --cov-mode 0 --max-seq-len 65535 --comp-bias-corr 1 --max-rejected 2147483647 --max-accept 2147483647 --add-self-matches 0 --db-load-mode 0 --pca 1 --pcb 1.5 --score-bias 0 --realign 0 --realign-score-bias -0.2 --realign-max-seqs 2147483647 --gap-open nucl:5,aa:11 --gap-extend nucl:2,aa:1 --zdrop 40 --threads 32 --compressed 0 -v 3 
+
+2024-08-08 22:29:16,497 - INFO - 
+
+2024-08-08 22:29:16,497 - INFO - Compute score and coverage
+
+2024-08-08 22:29:16,497 - INFO - Query database size: 27504 type: Aminoacid
+
+2024-08-08 22:29:16,497 - INFO - Target database size: 5 type: Aminoacid
+
+2024-08-08 22:29:16,497 - INFO - Calculation of alignments
+
+2024-08-08 22:29:16,541 - INFO - [=================================================================] 27.50K 0s 22ms
+
+2024-08-08 22:29:16,542 - INFO - Time for merging to results_vfdb: 0h 0m 0s 18ms
+
+2024-08-08 22:29:16,542 - INFO - 2132 alignments calculated
+
+2024-08-08 22:29:16,542 - INFO - 0 sequence pairs passed the thresholds (0.000000 of overall calculated)
+
+2024-08-08 22:29:16,542 - INFO - 0.000000 hits per query sequence
+
+2024-08-08 22:29:16,542 - INFO - Time for processing: 0h 0m 0s 75ms
+
+2024-08-08 22:29:16,679 - INFO - createtsv /data/yangy34/database/pharokka/vfdb phage_pharokka/GCA_015343595.1_874|1-1817/vfdb_target_dir/target_seqs phage_pharokka/GCA_015343595.1_874|1-1817/vfdb/results_vfdb phage_pharokka/GCA_015343595.1_874|1-1817/vfdb_results.tsv --full-header --threads 32 
+
+2024-08-08 22:29:16,680 - INFO - 
+
+2024-08-08 22:29:16,680 - INFO - MMseqs Version:                 	13.45111
+
+2024-08-08 22:29:16,680 - INFO - First sequence as representative	false
+
+2024-08-08 22:29:16,680 - INFO - Target column                   	1
+
+2024-08-08 22:29:16,680 - INFO - Add full header                 	true
+
+2024-08-08 22:29:16,680 - INFO - Sequence source                 	0
+
+2024-08-08 22:29:16,680 - INFO - Database output                 	false
+
+2024-08-08 22:29:16,680 - INFO - Threads                         	32
+
+2024-08-08 22:29:16,680 - INFO - Compressed                      	0
+
+2024-08-08 22:29:16,680 - INFO - Verbosity                       	3
+
+2024-08-08 22:29:16,680 - INFO - 
+
+2024-08-08 22:29:16,680 - INFO - Time for merging to vfdb_results.tsv: 0h 0m 0s 23ms
+
+2024-08-08 22:29:16,680 - INFO - Time for processing: 0h 0m 0s 130ms
+
+2024-08-08 22:29:16,707 - INFO - Post Processing Output.
+2024-08-08 22:29:17,027 - INFO - Converting gff to genbank.
+2024-08-08 22:29:17,034 - WARNING - /gpfs/gsfs12/users/yangy34/softwares/mambaforge/envs/pharokka-env/lib/python3.10/site-packages/Bio/SeqIO/InsdcIO.py:728: BiopythonWarning: Increasing length of locus line to allow long name. This will result in fields that are not in usual positions.
+  warnings.warn(
+
+2024-08-08 22:29:17,048 - INFO - Finding the closest match for each contig in INPHARED using mash.
+2024-08-08 22:29:17,072 - INFO - Sketching GCA_015343595.1_53_phages/GCA_015343595.1_874_1_1817_prophage.fasta...
+
+2024-08-08 22:29:17,074 - INFO - Writing to phage_pharokka/GCA_015343595.1_874|1-1817/input_mash_sketch.msh...
+
+2024-08-08 22:29:18,735 - INFO - pharokka has finished
+2024-08-08 22:29:18,735 - INFO - Elapsed time: 140.68 seconds
+2024-08-08 22:29:18,735 - INFO - If you use pharokka in your research, please cite:
+2024-08-08 22:29:18,735 - INFO - George Bouras, Roshan Nepal, Ghais Houtak, Alkis James Psaltis, Peter-John Wormald, Sarah Vreugde.
+2024-08-08 22:29:18,735 - INFO - Pharokka: a fast scalable bacteriophage annotation tool.
+2024-08-08 22:29:18,735 - INFO - Bioinformatics, Volume 39, Issue 1, January 2023, btac776.
+2024-08-08 22:29:18,735 - INFO - https://doi.org/10.1093/bioinformatics/btac776.
+2024-08-08 22:29:18,735 - INFO - You should also cite the full list of tools pharokka uses, which can be found at https://github.com/gbouras13/pharokka#citation.
