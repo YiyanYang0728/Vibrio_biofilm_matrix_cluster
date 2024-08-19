@@ -1,9 +1,0 @@
->Feature GCA_013114135.1_88|113-1186
-627	1	CDS
-			product	hypothetical protein
-			locus_tag	XMXVCTNO_CDS_0001
-			transl_table	11
-972	766	CDS
-			product	transposase
-			locus_tag	XMXVCTNO_CDS_0002
-			transl_table	11

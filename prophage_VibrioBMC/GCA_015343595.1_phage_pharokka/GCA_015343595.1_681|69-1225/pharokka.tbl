@@ -1,9 +1,0 @@
->Feature GCA_015343595.1_681|69-1225
-1	300	CDS
-			product	transposase
-			locus_tag	LODKNEZZ_CDS_0001
-			transl_table	11
-366	1157	CDS
-			product	transposase
-			locus_tag	LODKNEZZ_CDS_0002
-			transl_table	11

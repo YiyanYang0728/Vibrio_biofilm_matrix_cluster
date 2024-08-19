@@ -1,9 +1,0 @@
->Feature GCA_015343595.1_880|113-1659
-1	1203	CDS
-			product	integrase
-			locus_tag	OKBUGLMA_CDS_0001
-			transl_table	11
-1200	1547	CDS
-			product	hypothetical protein
-			locus_tag	OKBUGLMA_CDS_0002
-			transl_table	11

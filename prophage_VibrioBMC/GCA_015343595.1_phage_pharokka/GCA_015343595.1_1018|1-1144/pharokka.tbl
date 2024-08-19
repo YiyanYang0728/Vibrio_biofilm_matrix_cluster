@@ -1,9 +1,0 @@
->Feature GCA_015343595.1_1018|1-1144
-405	1	CDS
-			product	P-like helicase loader
-			locus_tag	QEVDIZTJ_CDS_0001
-			transl_table	11
-1144	407	CDS
-			product	HTH DNA binding protein
-			locus_tag	QEVDIZTJ_CDS_0002
-			transl_table	11

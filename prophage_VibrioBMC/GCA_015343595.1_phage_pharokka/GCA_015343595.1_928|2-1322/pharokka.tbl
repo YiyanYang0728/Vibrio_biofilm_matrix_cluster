@@ -1,9 +1,0 @@
->Feature GCA_015343595.1_928|2-1322
-1	624	CDS
-			product	transposase
-			locus_tag	WLXYEZED_CDS_0001
-			transl_table	11
-542	1321	CDS
-			product	hypothetical protein
-			locus_tag	WLXYEZED_CDS_0002
-			transl_table	11

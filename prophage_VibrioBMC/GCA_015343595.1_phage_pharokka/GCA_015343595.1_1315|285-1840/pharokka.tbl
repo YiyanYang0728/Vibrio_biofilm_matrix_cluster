@@ -1,9 +1,0 @@
->Feature GCA_015343595.1_1315|285-1840
-140	3	CDS
-			product	hypothetical protein
-			locus_tag	IMEPCBWO_CDS_0001
-			transl_table	11
-1556	189	CDS
-			product	integrase
-			locus_tag	IMEPCBWO_CDS_0002
-			transl_table	11
