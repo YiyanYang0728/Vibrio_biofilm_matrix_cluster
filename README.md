@@ -1,5 +1,5 @@
 # Comprehensive Genomic and Evolutionary Analysis of Biofilm Matrix Clusters and Proteins in the Vibrio Genus
-Pipeline for the paper to annotate Vibrio biofilm matrix cluster.
+Pipeline for annotating Vibrio biofilm matrix cluster.
 
 
 # Citation
